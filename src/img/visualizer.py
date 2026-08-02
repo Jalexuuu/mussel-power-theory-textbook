@@ -57,49 +57,59 @@ def ring_colours(base_colours):
 
 RINGS = [(0.0, 0.5), (0.5, 1.0), (1.0, 1.5)]
 
+VARIANTS = [
+    ("all", [0, 1, 2]),
+    ("inner", [0]),
+    ("middle", [0, 1]),
+]
+
 for bank, bank_masks in layout.items():
     rings = build_rings(bank_masks)
 
-    base_colours = BASE_COLOURS
+    colours = ring_colours(BASE_COLOURS)
 
-    colours = ring_colours(base_colours)
+    for suffix, indices in VARIANTS:
+        fig, ax = plt.subplots(figsize=(8, 8))
 
-    fig, ax = plt.subplots(figsize=(8, 8))
+        for i in indices:
+            layer = rings[i]
+            inner, outer = RINGS[i]
 
-    for layer, colour_set, (inner, outer) in zip(rings, colours, RINGS):
-        wedges, _ = ax.pie(
-            [1] * len(layer),
-            radius=outer,
-            colors=colour_set,
-            startangle=112.5,
-            counterclock=False,
-            wedgeprops={
-                "width": outer - inner,
-                "edgecolor": "white",
-            },
-        )
-
-        radius = (inner + outer) / 2
-
-        for wedge, label in zip(wedges, layer):
-            angle_rad = np.deg2rad((wedge.theta1 + wedge.theta2) / 2)
-
-            ax.text(
-                radius * np.cos(angle_rad),
-                radius * np.sin(angle_rad),
-                label,
-                ha="center",
-                va="center",
-                fontsize=12,
-                fontweight="bold",
+            wedges, _ = ax.pie(
+                [1] * len(layer),
+                radius=outer,
+                colors=colours[i],
+                startangle=112.5,
+                counterclock=False,
+                wedgeprops={
+                    "width": outer - inner,
+                    "edgecolor": "white",
+                },
             )
 
-    ax.set_title(f"{bank} joystick", fontsize=16, y=1.15, pad=15)
-    ax.set_aspect("equal")
-    plt.tight_layout()
+            radius = (inner + outer) / 2
 
-    output_file = f"{bank}_joystick_pie.svg"
-    plt.savefig(output_file, dpi=300, bbox_inches="tight")
-    plt.close(fig)
+            for wedge, label in zip(wedges, layer):
+                angle_rad = np.deg2rad((wedge.theta1 + wedge.theta2) / 2)
 
-    print(f"saved {output_file} ^^")
+                ax.text(
+                    radius * np.cos(angle_rad),
+                    radius * np.sin(angle_rad),
+                    label,
+                    ha="center",
+                    va="center",
+                    fontsize=12,
+                    fontweight="bold",
+                )
+
+        ax.set_aspect("equal")
+        plt.tight_layout()
+
+        output_file = f"{bank}_joystick_pie.svg"
+        if suffix != "all":
+            output_file = f"{bank}_joystick_{suffix}_pie.svg"
+
+        plt.savefig(output_file, dpi=300, bbox_inches="tight", transparent=True)
+        plt.close(fig)
+
+        print(f"saved {output_file} ^^")
