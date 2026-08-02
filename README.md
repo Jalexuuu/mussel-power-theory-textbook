@@ -1,4 +1,4 @@
-# [Click here to access the chapters!](https://lapwing.aerick.ca)
+# [Click here to access the chapters!](https://stenoharri.github.io/mussel-power-theory-textbook/)
 
 # Build instructions
 
