@@ -1,0 +1,15 @@
+# mdBook version: 0.5.2
+[book]
+authors = ["stenoharri"]
+language = "en"
+src = "src"
+title = "Mussel Power Theory Textbook"
+
+# https://rust-lang.github.io/mdBook/format/configuration/renderers.html
+[output.html]
+additional-css = ["theme/pagetoc.css", "theme/custom.css"]
+sidebar-header-nav = false # prefer pagetoc on the right side
+
+# https://github.com/avivace/mdbook-external-links
+[preprocessor.external-links2]
+optional = true
