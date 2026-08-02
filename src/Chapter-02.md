@@ -45,6 +45,8 @@ https://github.com/StenoHarri/plover_mussel_power.git
 
 ![system](img/navigate_to_system.png)
 
+![select system](img/select_mussel_power.png)
+
 ![machine](img/select_machine.png)
 
 ![load machine](img/load_machine.png)
