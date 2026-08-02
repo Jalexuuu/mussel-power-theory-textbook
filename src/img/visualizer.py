@@ -110,6 +110,18 @@ for bank, bank_masks in layout.items():
             output_file = f"{bank}_joystick_{suffix}_pie.svg"
 
         plt.savefig(output_file, dpi=300, bbox_inches="tight", transparent=True)
+
+        # for a zoomed in diagram of just the inner ring
+        if suffix == "inner":
+
+            plt.savefig(
+                f"{bank}_joystick_inner_pie_cropped.svg",
+                dpi=300,
+                bbox_inches="tight",
+                pad_inches=-2,
+                transparent=True,
+            )
+
         plt.close(fig)
 
         print(f"saved {output_file} ^^")
