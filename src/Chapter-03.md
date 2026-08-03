@@ -29,6 +29,13 @@ However, seeing the hints should help with where the vowel goes in these words. 
 Here's a demo of what stenoing looks like
 
 Please bare in mind this is also my first lesson 😅
-<video controls>
-  <source src="/img/chapter_03_lesson_demo.mp4" type="video/mp4" />
-</video>
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/zcx9_Hnbmns"
+    title="Chapter 3 lesson demo"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
