@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-08-03T07:15:48.681392</dc:date>
+    <dc:date>2026-08-03T16:00:34.269693</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -78,7 +78,7 @@ L 286.6176 286.6176
 C 286.6176 286.6176 286.6176 286.6176 286.6176 286.6176 
 C 286.6176 286.6176 286.6176 286.6176 286.6176 286.6176 
 z
-" style="fill: #0017ff; stroke: #ffffff; stroke-linejoin: miter"/>
+" style="fill: #7e89ff; stroke: #ffffff; stroke-linejoin: miter"/>
    </g>
    <g id="patch_7">
     <path d="M 200.568199 322.260429 
@@ -198,7 +198,7 @@ L 322.260429 372.667001
 C 316.623989 375.00169 310.771769 376.776942 304.788157 377.967156 
 C 298.804544 379.157371 292.718438 379.7568 286.6176 379.7568 
 z
-" style="fill: #4051ff; stroke: #ffffff; stroke-linejoin: miter"/>
+" style="fill: #bec3ff; stroke: #ffffff; stroke-linejoin: miter"/>
    </g>
    <g id="patch_19">
     <path d="M 215.331943 458.716401 
@@ -208,7 +208,7 @@ L 286.6176 379.7568
 C 280.516762 379.7568 274.430656 379.157371 268.447043 377.967156 
 C 262.463431 376.776942 256.611211 375.00169 250.974771 372.667001 
 z
-" style="fill: #4d5dff; stroke: #ffffff; stroke-linejoin: miter"/>
+" style="fill: #cbcfff; stroke: #ffffff; stroke-linejoin: miter"/>
    </g>
    <g id="patch_20">
     <path d="M 154.89888 418.33632 
@@ -358,7 +358,7 @@ L 357.903257 458.716401
 C 346.630378 463.385781 334.925938 466.936284 322.958713 469.316713 
 C 310.991488 471.697142 298.819277 472.896 286.6176 472.896 
 z
-" style="fill: #737fff; stroke: #ffffff; stroke-linejoin: miter"/>
+" style="fill: #f1f2ff; stroke: #ffffff; stroke-linejoin: miter"/>
    </g>
    <g id="patch_35">
     <path d="M 179.689114 544.765802 
@@ -368,7 +368,7 @@ L 286.6176 472.896
 C 274.415923 472.896 262.243712 471.697142 250.276487 469.316713 
 C 238.309262 466.936284 226.604822 463.385781 215.331943 458.716401 
 z
-" style="fill: #808bff; stroke: #ffffff; stroke-linejoin: miter"/>
+" style="fill: #fefeff; stroke: #ffffff; stroke-linejoin: miter"/>
    </g>
    <g id="patch_36">
     <path d="M 89.03952 484.19568 

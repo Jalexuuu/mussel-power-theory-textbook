@@ -4,7 +4,7 @@ import matplotlib.colors as mcolors
 import matplotlib.pyplot as plt
 import numpy as np
 
-LAYOUT_FILE = "layout.json"
+LAYOUT_FILE = "src/img/layout.json"
 
 BASE_COLOURS = [
     mcolors.to_rgb(c)
@@ -13,7 +13,7 @@ BASE_COLOURS = [
         "#FF0002",
         "#FF7000",
         "#B700FF",
-        "#0017FF",
+        "#7E89FF",
         "#00E2FF",
         "#00FF47",
         "#B4FF00",
@@ -105,9 +105,9 @@ for bank, bank_masks in layout.items():
         ax.set_aspect("equal")
         plt.tight_layout()
 
-        output_file = f"{bank}_joystick_pie.svg"
+        output_file = f"src/img/{bank}_joystick_pie.svg"
         if suffix != "all":
-            output_file = f"{bank}_joystick_{suffix}_pie.svg"
+            output_file = f"src/img/{bank}_joystick_{suffix}_pie.svg"
 
         plt.savefig(output_file, dpi=300, bbox_inches="tight", transparent=True)
 
@@ -115,7 +115,7 @@ for bank, bank_masks in layout.items():
         if suffix == "inner":
 
             plt.savefig(
-                f"{bank}_joystick_inner_pie_cropped.svg",
+                f"src/img/{bank}_joystick_inner_pie_cropped.svg",
                 dpi=300,
                 bbox_inches="tight",
                 pad_inches=-2,
