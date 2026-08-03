@@ -22,6 +22,7 @@ There is no dedicated `I` key, but that's fine, we simply use `EU`
 | `KEUT` | `kit` |
 | `SP/LEUT` | `split` |
 
+I don't want to overwhelm you, but you can see all the hidden chords here: (remind @Harrri on Discord if he forgot)
 
 ## Steno is phonetic
 
