@@ -4,6 +4,7 @@ Steno needs an engine to intercept your keystrokes, look them up in a dictionary
 
 This is done with Plover
 
+The required plugins are currently not supported on MacOS
 
 ## 1) Download Plover
 
