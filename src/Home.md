@@ -11,3 +11,9 @@ Steno works well with a reduced layout, hence it's a great fit for controllers. 
 | Left joystick | Triggers and bumpers | Right joystick |
 |------|-------|-------|
 | ![left joystick](img/left_joystick_inner_pie_cropped.svg) | `A` `O` `E` `U` | ![right joystick](img/right_joystick_inner_pie_cropped.svg) |
+
+The textbook, theory, and dictionaries are all still very work in progress,
+
+feel free to [support me with a donation](https://ko-fi.com/stenoharri),
+
+or bug me on the [Hobby Steno Discord](https://discord.gg/0lQde43a6dGmAMp2) (@Harrri)
