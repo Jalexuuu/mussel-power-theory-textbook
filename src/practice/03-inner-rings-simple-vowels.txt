@@ -1,2631 +1,2578 @@
-a	A
-added	A5/-5
-adder	A5/-8
-adders	A5/-8/-1
-adding	A5/-2
-addled	A5/-4/-5
-addles	A5/-4/-1
-addle	A5/-4
-addling	A5/-4/-2
-adds	A5/-1
-add	A5
-adulates	A5/-4/-7/-1
-adulate	A5/-4/-7
-alan	A4/-6
-allans	A4/-6/-1
-alley	A4/-3
-alleys	A4/-1
-alleys	A4/-3/-1
-allied	A4/-5
-alloying	A4/-3/-2
-alt	A4/-7
-altos	A4/-7/-1
-altruist	A4/-7/-8/-1/-7
-altruists	A4/-7/-8/-1/-7/-1
-an	A6
-analyst	A6/-4/-1/-7
-analyst	A6/-4/-3/-1/-7
-analysts	A6/-4/-1/-7/-1
-analysts	A6/-4/-3/-1/-7/-1
-and	A6/-5
-ands	A6/-5/-1
-angered	A2/-8/-5
-angering	A2/-8/-2
-anger	A2/-8
-angers	A2/-8/-1
-angled	A2/-4/-5
-angle	A2/-4
-angles	A2/-4/-1
-angling	A2/-4/-2
-angrily	A2/-8/-4/-3
-angry	A2/-8/-3
-angst	A2/-1/-7
-angsts	A2/-1/-7/-1
-angular	A2/-4/-8
-angus	A2/-1
-aniline	A6/-4/-6
-annal	A6/-4
-annals	A6/-4/-1
-annotates	A6/-7/-7/-1
-annotate	A6/-7/-7
-annually	A6/-4/-3
-annular	A6/-4/-8
-annulated	A6/-4/-7/-5
-annulate	A6/-4/-7
-annus	A6/-1
-anodyne	A6/-5/-6
-anteing	A6/-7/-2
-antidote	A6/-7/-5/-7
-antidotes	A6/-7/-5/-7/-1
-antiing	A6/-7/-3/-2
-anti	A6/-7/-3
-ants	A6/-7/-1
-antis	A6/-7/-3/-1
-antlered	A6/-7/-4/-8/-5
-antler	A6/-7/-4/-8
-antlers	A6/-7/-4/-8/-1
-ant	A6/-7
-any	A6/-3
-ardent	A8/-5/-6/-7
-ardently	A8/-5/-6/-7/-4/-3
-ardor	A8/-5/-8
-ardours	A8/-5/-8/-1
-are	A8
-arid	A8/-5
-aridly	A8/-5/-4/-3
-arrant	A8/-6/-7
-arras	A8/-1
-arsenal	A8/-1/-6/-4
-arsenals	A8/-1/-6/-4/-1
-arsenate	A8/-1/-6/-7
-arsenide	A8/-1/-6/-5
-arteries	A8/-7/-8/-3/-1
-artery	A8/-7/-8/-3
-art	A8/-7
-arts	A8/-7/-1
-arty	A8/-7/-3
-at	A7
-atlases	A7/-4/-1/-1
-atlas	A7/-4/-1
-atoll	A7/-4
-attar	A7/-8
-baddie	3A3
-baddie	3A5/-3
-baddies	3A3/-1
-baddies	3A5/-3/-1
-bade	3A5
-badly	3A5/-4/-3
-ballad	3A4/-5
-ballads	3A4/-5/-1
-ballasted	3A4/-1/-7/-5
-ballast	3A4/-1/-7
-ballasts	3A4/-1/-7/-1
-balloted	3A4/-7/-5
-ballotings	3A4/-7/-2/-1
-balloting	3A4/-7/-2
-ballot	3A4/-7
-ballots	3A4/-7/-1
-bally	3A4/-3
-bal	3A4
-baluster	3A4/-1/-7/-8
-balusters	3A4/-1/-7/-8/-1
-banded	3A6/-5/-5
-bandied	3A6/-3/-5
-bandied	3A6/-5/-3/-5
-bandies	3A6/-3/-1
-bandies	3A6/-5/-3/-1
-banding	3A6/-5/-2
-bandit	3A6/-5/-7
-bandits	3A6/-5/-7/-1
-bandler	3A6/-5/-4/-8
-band	3A6/-5
-bands	3A6/-5/-1
-bandying	3A6/-3/-2
-bandying	3A6/-5/-3/-2
-bandy	3A6/-3
-bandy	3A6/-5/-3
-banged	3A2/-5
-bangings	3A2/-2/-1
-banging	3A2/-2
-bangle	3A2/-4
-bangles	3A2/-4/-1
-bang	3A2
-bangs	3A2/-1
-banister	3A6/-1/-7/-8
-banisters	3A6/-1/-7/-8/-1
-bannered	3A6/-8/-5
-banner	3A6/-8
-banners	3A6/-8/-1
-bannings	3A6/-2/-1
-banning	3A6/-2
-ban	3A6
-ba	3A
-bans	3A6/-1
-bantered	3A6/-7/-8/-5
-banteringly	3A6/-7/-8/-2/-4/-3
-bantering	3A6/-7/-8/-2
-banter	3A6/-7/-8
-banters	3A6/-7/-8/-1
-bant	3A6/-7
-barbarities	3/1/3A8/-7/-3/-1
-barbarity	3/1/3A8/-7/-3
-bard	3A8/-5
-bards	3A8/-5/-1
-baritone	3A8/-7/-6
-baritones	3A8/-7/-6/-1
-barley	3A8/-4/-3
-barns	3A8/-6/-1
-barneys	3A8/-6/-3/-1
-barn	3A8/-6
-bar	3A8
-barony	3A8/-6/-3
-barreled	3A8/-4/-5
-barreling	3A8/-4/-2
-barrel	3A8/-4
-barrels	3A8/-4/-1
-barrenly	3A8/-6/-4/-3
-barret	3A8/-7
-barrette	3/1E7
-barrettes	3/1E7/-1
-barring	3A8/-2
-barrister	3A8/-1/-7/-8
-barristers	3A8/-1/-7/-8/-1
-barry	3A8/-3
-bars	3A8/-1
-bartered	3A8/-7/-8/-5
-bartering	3A8/-7/-8/-2
-barter	3A8/-7/-8
-barters	3A8/-7/-8/-1
-bat	3A7
-bats	3A7/-1
-batted	3A7/-5
-battels	3A7/-4/-1
-battel	3A7/-4
-battening	3A7/-6/-2
-batten	3A7/-6
-battens	3A7/-6/-1
-battered	3A7/-8/-5
-batteried	3A7/-8/-3/-5
-batterie	3A7/-8/-3
-batteries	3A7/-8/-3/-1
-batterings	3A7/-8/-2/-1
-battering	3A7/-8/-2
-batter	3A7/-8
-batting	3A7/-2
-battled	3A7/-4/-5
-battling	3A7/-4/-2
-batty	3A7/-3
-bedded	3E5/-5
-bedding	3E5/-2
-bed	3E5
-beds	3E5/-1
-bell	3E4
-bells	3E4/-1
-bellied	3E4/-5
-bellied	3E4/-3/-5
-bellies	3E4/-3/-1
-bellyings	3E4/-2/-1
-bellyings	3E4/-3/-2/-1
-belly	3E4/-3
-belonged	3/5O2/-5
-belongings	3/5O2/-2/-1
-belonging	3/5O2/-2
-belongs	3/5O2/-1
-belong	3/5O2
-beltane	3E4/-7/-6
-belted	3E4/-7/-5
-beltings	3E4/-7/-2/-1
-belting	3E4/-7/-2
-belt	3E4/-7
-belts	3E4/-7/-1
-bended	3E6/-5/-5
-bendingly	3E6/-5/-2/-4/-3
-bending	3E6/-5/-2
-bend	3E6/-5
-bends	3E6/-5/-1
-bendy	3E6/-3
-bendy	3E6/-5/-3
-ben	3E6
-bents	3E6/-7/-1
-bent	3E6/-7
-bern	3E8/-6
-berries	3E8/-3/-1
-berry	3E8/-3
-bet	3E7
-betony	3E7/-6/-3
-bets	3E7/-1
-betted	3E7/-5
-better	3E7/-8
-bettered	3E7/-8/-5
-bettering	3E7/-8/-2
-betters	3E7/-8/-1
-betting	3E7/-2
-bipartite	3/4A8/-7/-7
-bladdered	3/5A5/-8/-5
-bladder	3/5A5/-8
-bladders	3/5A5/-8/-1
-bladdery	3/5A5/-8/-3
-bland	3/5A6/-5
-blandly	3/5A6/-5/-4/-3
-blarneying	3/5A8/-6/-2
-blarneying	3/5A8/-6/-3/-2
-blarney	3/5A8/-6/-3
-bled	3/5E5
-blended	3/5E6/-5/-5
-blendings	3/5E6/-5/-2/-1
-blending	3/5E6/-5/-2
-blend	3/5E6/-5
-blends	3/5E6/-5/-1
-blent	3/5E6/-7
-blonde	3/5O6/-5
-blondes	3/5O6/-5/-1
-blot	3/5O7
-blots	3/5O7/-1
-blotted	3/5O7/-5
-blotting	3/5O7/-2
-blotty	3/5O7/-3
-blundered	3/5U6/-5/-8/-5
-blunderingly	3/5U6/-5/-8/-2/-4/-3
-blunderings	3/5U6/-5/-8/-2/-1
-blundering	3/5U6/-5/-8/-2
-blunder	3/5U6/-5/-8
-blunders	3/5U6/-5/-8/-1
-blunted	3/5U6/-7/-5
-blunting	3/5U6/-7/-2
-bluntly	3/5U6/-7/-4/-3
-blunts	3/5U6/-7/-1
-blunt	3/5U6/-7
-blur	3/5U8
-blurred	3/5U8/-5
-blurring	3/5U8/-2
-blurry	3/5U8/-3
-blurs	3/5U8/-1
-blurted	3/5U8/-7/-5
-blurting	3/5U8/-7/-2
-blurts	3/5U8/-7/-1
-blurt	3/5U8/-7
-bodied	3O5/-5
-bodies	3O3/-1
-bodies	3O5/-3/-1
-bodily	3O5/-4/-3
-bod	3O5
-bods	3O5/-1
-body	3O3
-body	3O5/-3
-bollard	3O4/-8/-5
-bollards	3O4/-8/-5/-1
-bonded	3O6/-5/-5
-bondings	3O6/-5/-2/-1
-bonding	3O6/-5/-2
-bond	3O6/-5
-bonds	3O6/-5/-1
-bonged	3O2/-5
-bong	3O2
-bongs	3O2/-1
-bonneted	3O6/-7/-5
-bonnet	3O6/-7
-bonnets	3O6/-7/-1
-bonnily	3O6/-4/-3
-bon	3O6
-bonny	3O6/-3
-borate	3O8/-7
-borates	3O8/-7/-1
-bordellos	3/1/6E4/-1
-bordered	3O8/-5/-8/-5
-bordering	3O8/-5/-8/-2
-border	3O8/-5/-8
-borders	3O8/-5/-8/-1
-boreal	3O8/-4
-bored	3O8/-5
-bores	3O8/-1
-bore	3O8
-boring	3O8/-2
-boringly	3O8/-2/-4/-3
-borings	3O8/-2/-1
-borne	3O8/-6
-bornes	3O8/-6/-1
-borstal	3O8/-1/-7/-4
-borstals	3O8/-1/-7/-4/-1
-botanies	3O7/-6/-3/-1
-botanist	3O7/-6/-1/-7
-botanists	3O7/-6/-1/-7/-1
-botany	3O7/-6/-3
-bottled	3O7/-4/-5
-bottle	3O7/-4
-bottles	3O7/-4/-1
-bottling	3O7/-4/-2
-bottlings	3O7/-4/-2/-1
-botulin	3O7/-4/-6
-branded	3/1A6/-5/-5
-brandies	3/1A6/-3/-1
-brandies	3/1A6/-5/-3/-1
-brandings	3/1A6/-5/-2/-1
-branding	3/1A6/-5/-2
-brand	3/1A6/-5
-brands	3/1A6/-5/-1
-brandy	3/1A6/-3
-brandy	3/1A6/-5/-3
-bra	3/1A
-bran	3/1A6
-bras	3/1A1
-brat	3/1A7
-brats	3/1A7/-1
-brattle	3/1A7/-4
-bratty	3/1A7/-3
-bread	3/1E5
-breads	3/1E5/-1
-brollies	3/1O4/-3/-1
-brolly	3/1O4/-3
-brunt	3/1U6/-7
-brunts	3/1U6/-7/-1
-budded	3U5/-5
-buddies	3U3/-1
-buddies	3U5/-3/-1
-budding	3U5/-2
-buddist	3U5/-1/-7
-buddists	3U5/-1/-7/-1
-buddy	3U3
-buddy	3U5/-3
-bud	3U5
-buds	3U5/-1
-bulleted	3U4/-7/-5
-bulletin	3U4/-7/-6
-bulletins	3U4/-7/-6/-1
-bullet	3U4/-7
-bullets	3U4/-7/-1
-bullied	3U4/-5
-bullied	3U4/-3/-5
-bullies	3U4/-3/-1
-bull	3U4
-bulls	3U4/-1
-bullying	3U4/-2
-bullying	3U4/-3/-2
-bully	3U4/-3
-bund	3U6/-5
-bundled	3U6/-5/-4/-5
-bundle	3U6/-5/-4
-bundles	3U6/-5/-4/-1
-bundling	3U6/-5/-4/-2
-bunds	3U6/-5/-1
-bunged	3U2/-5
-bunging	3U2/-2
-bungled	3U2/-4/-5
-bungle	3U2/-4
-bungles	3U2/-4/-1
-bunglingly	3U2/-4/-2/-4/-3
-bungling	3U2/-4/-2
-bung	3U2
-bungs	3U2/-1
-bunnies	3U6/-3/-1
-bun	3U6
-bunny	3U6/-3
-buns	3U6/-1
-bunting	3U6/-7/-2
-bunt	3U6/-7
-burdened	3U8/-5/-6/-5
-burdening	3U8/-5/-6/-2
-burden	3U8/-5/-6
-burdens	3U8/-5/-6/-1
-buried	3U8/-5
-buried	3U8/-3/-5
-buries	3U8/-3/-1
-burly	3U8/-4/-3
-burl	3U8/-4
-burned	3U8/-6/-5
-burney	3U8/-6/-3
-burningly	3U8/-6/-2/-4/-3
-burnings	3U8/-6/-2/-1
-burning	3U8/-6/-2
-burns	3U8/-6/-1
-burn	3U8/-6
-burr	3U8
-burrs	3U8/-1
-bursaries	3U8/-1/-8/-3/-1
-bursar	3U8/-1/-8
-bursars	3U8/-1/-8/-1
-bursary	3U8/-1/-8/-3
-bursting	3U8/-1/-7/-2
-burst	3U8/-1/-7
-bursts	3U8/-1/-7/-1
-burying	3U8/-2
-burying	3U8/-3/-2
-bury	3U8/-3
-but	3U7
-butler	3U7/-4/-8
-butlers	3U7/-4/-8/-1
-buts	3U7/-1
-butted	3U7/-5
-buttered	3U7/-8/-5
-buttering	3U7/-8/-2
-butter	3U7/-8
-butters	3U7/-8/-1
-buttery	3U7/-8/-3
-butting	3U7/-2
-buttoned	3U7/-6/-5
-buttoning	3U7/-6/-2
-button	3U7/-6
-buttons	3U7/-6/-1
-cabal	2/3A4
-cabals	2/3A4/-1
-cabanas	2/3A6/-1
-caddie	2A3
-caddie	2A5/-3
-caddies	2A3/-1
-caddies	2A5/-3/-1
-cads	2A5/-1
-caddying	2A5/-2
-caddying	2A3/-2
-caddying	2A5/-3/-2
-cadet	2/6E7
-cadets	2/6E7/-1
-cad	2A5
-calendar	2A4/-6/-5/-8
-calendars	2A4/-6/-5/-8/-1
-calloused	2A4/-1/-5
-callouses	2A4/-1/-1
-callous	2A4/-1
-callously	2A4/-1/-4/-3
-cal	2A4
-calorie	2A4/-8/-3
-calories	2A4/-8/-3/-1
-calor	2A4/-8
-khan	2A6
-candidate	2A6/-5/-5/-7
-candidates	2A6/-5/-5/-7/-1
-candid	2A6/-5/-5
-candidly	2A6/-5/-5/-4/-3
-candied	2A6/-3/-5
-candied	2A6/-5/-3/-5
-candies	2A6/-3/-1
-candies	2A6/-5/-3/-1
-candle	2A6/-5/-4
-candles	2A6/-5/-4/-1
-candor	2A6/-5/-8
-canny	2A6/-3
-candy	2A6/-5/-3
-canister	2A6/-1/-7/-8
-canisters	2A6/-1/-7/-8/-1
-canned	2A6/-5
-cannel	2A6/-4
-cannily	2A6/-4/-3
-canning	2A6/-2
-cannoned	2A6/-6/-5
-cannoning	2A6/-6/-2
-cannon	2A6/-6
-cannons	2A6/-6/-1
-cant	2A6/-7
-cans	2A6/-1
-canst	2A6/-1/-7
-canted	2A6/-7/-5
-canter	2A6/-7/-8
-cantered	2A6/-7/-8/-5
-cantering	2A6/-7/-8/-2
-canters	2A6/-7/-8/-1
-canting	2A6/-7/-2
-cantle	2A6/-7/-4
-canton	2A6/-7/-6
-cantoned	2A6/-7/-6/-5
-cantons	2A6/-7/-6/-1
-cants	2A6/-7/-1
-canty	2A6/-7/-3
-capellas	2/4E4/-1
-kart	2A8/-7
-karts	2A8/-7/-1
-carded	2A8/-5/-5
-cardinal	2A8/-5/-6/-4
-cardinals	2A8/-5/-6/-4/-1
-carding	2A8/-5/-2
-card	2A8/-5
-cards	2A8/-5/-1
-carnal	2A8/-6/-4
-carnally	2A8/-6/-4/-3
-car	2A8
-caroled	2A8/-4/-5
-caroling	2A8/-4/-2
-carols	2A8/-4/-1
-carton	2A8/-7/-6
-carotid	2/1O7/-5
-carried	2A8/-3/-5
-carries	2A8/-3/-1
-carroty	2A8/-7/-3
-carryings	2A8/-2/-1
-carryings	2A8/-3/-2/-1
-carrying	2A8/-2
-carrying	2A8/-3/-2
-carry	2A8/-3
-cars	2A8/-1
-carted	2A8/-7/-5
-cartel	2/1/8E4
-cartels	2/1/8E4/-1
-karting	2A8/-7/-2
-cartons	2A8/-7/-6/-1
-cassette	2/7E7
-cassettes	2/7E7/-1
-catalan	2A7/-4/-6
-catalysis	2/8A4/-1/-1
-catalyst	2A7/-4/-1/-7
-catalyst	2A7/-4/-3/-1/-7
-catalysts	2A7/-4/-1/-7/-1
-catalysts	2A7/-4/-3/-1/-7/-1
-catenate	2A7/-6/-7
-cat	2A7
-cats	2A7/-1
-catting	2A7/-2
-cattle	2A7/-4
-catty	2A7/-3
-celerity	7/5E8/-7/-3
-celery	7E4/-8/-3
-cellar	7E4/-8
-cellars	7E4/-8/-1
-sell	7E4
-sells	7E4/-1
-cellule	7E4/-4
-censored	7E6/-1/-8/-5
-censoring	7E6/-1/-8/-2
-censors	7E6/-1/-8/-1
-censor	7E6/-1/-8
-censused	7E6/-1/-1/-5
-censuses	7E6/-1/-1/-1
-censusing	7E6/-1/-1/-2
-senses	7E6/-1/-1
-cental	7E6/-7/-4
-centered	7E6/-7/-8/-5
-centerings	7E6/-7/-8/-2/-1
-centering	7E6/-7/-8/-2
-center	7E6/-7/-8
-centers	7E6/-7/-8/-1
-sent	7E6/-7
-central	7E6/-7/-8/-4
-centrally	7E6/-7/-8/-4/-3
-centrist	7E6/-7/-8/-1/-7
-centrists	7E6/-7/-8/-1/-7/-1
-cents	7E6/-7/-1
-cern	7E8/-6
-certain	7E8/-7/-6
-certainly	7E8/-7/-6/-4/-3
-certains	7E8/-7/-6/-1
-cert	7E8/-7
-certs	7E8/-7/-1
-chalcedony	2/5/7E5/-6/-3
-chloral	2/5O8/-4
-chlorate	2/5O8/-7
-chlorates	2/5O8/-7/-1
-chloride	2/5O8/-5
-chlorides	2/5O8/-5/-1
-chlorine	2/5O8/-6
-chlorines	2/5O8/-6/-1
-choler	2O4/-8
-corral	2/1A4
-coral	2O8/-4
-chorally	2O8/-4/-3
-chordal	2O8/-5/-4
-chorded	2O8/-5/-5
-chording	2O8/-5/-2
-chord	2O8/-5
-chords	2O8/-5/-1
-chorister	2O8/-1/-7/-8
-choristers	2O8/-1/-7/-8/-1
-chorused	2O8/-1/-5
-choruses	2O8/-1/-1
-chorusing	2O8/-1/-2
-chorus	2O8/-1
-cladding	2/5A5/-2
-clad	2/5A5
-clanged	2/5A2/-5
-clanging	2/5A2/-2
-clang	2/5A2
-clangour	2/5A2/-8
-clangs	2/5A2/-1
-clan	2/5A6
-clans	2/5A6/-1
-claret	2/5A8/-7
-clarets	2/5A8/-7/-1
-clarity	2/5A8/-7/-3
-clattered	2/5A7/-8/-5
-clatteringly	2/5A7/-8/-2/-4/-3
-clatterings	2/5A7/-8/-2/-1
-clattering	2/5A7/-8/-2
-clatters	2/5A7/-8/-1
-clatter	2/5A7/-8
-clattery	2/5A7/-8/-3
-cleanly	2/5E6/-4/-3
-clodded	2/5O5/-5
-clod	2/5O5
-clods	2/5O5/-1
-clot	2/5O7
-clots	2/5O7/-1
-clotted	2/5O7/-5
-clotting	2/5O7/-2
-clung	2/5U2
-cluttered	2/5U7/-8/-5
-cluttering	2/5U7/-8/-2
-clutter	2/5U7/-8
-clutters	2/5U7/-8/-1
-coddled	2O5/-4/-5
-coddles	2O5/-4/-1
-coddle	2O5/-4
-coddling	2O5/-4/-2
-cod	2O5
-cods	2O5/-1
-colander	2O4/-6/-5/-8
-colanders	2O4/-6/-5/-8/-1
-collard	2O4/-8/-5
-collaring	2O4/-8/-2
-collars	2O4/-8/-1
-collaterally	2/5A7/-8/-4/-3
-collateral	2/5A7/-8/-4
-collaterals	2/5A7/-8/-4/-1
-collet	2O4/-7
-collie	2O4/-3
-collies	2O4/-3/-1
-col	2O4
-colonies	2O4/-6/-3/-1
-colonist	2O4/-6/-1/-7
-colonists	2O4/-6/-1/-7/-1
-colony	2O4/-6/-3
-coloreds	2O4/-8/-5/-1
-colorings	2O4/-8/-2/-1
-cols	2O4/-1
-conder	2O6/-5/-8
-condors	2O6/-5/-8/-1
-condos	2O6/-5/-1
-congas	2O2/-1
-conned	2O6/-5
-conning	2O6/-2
-con	2O6
-consul	2O6/-1/-4
-consuls	2O6/-1/-4/-1
-consonantly	2O6/-1/-6/-6/-7/-4/-3
-consonant	2O6/-1/-6/-6/-7
-consonants	2O6/-1/-6/-6/-7/-1
-consort	2O6/-1/-8/-7
-consorts	2O6/-1/-8/-7/-1
-constant	2O6/-1/-7/-6/-7
-constantly	2O6/-1/-7/-6/-7/-4/-3
-constants	2O6/-1/-7/-6/-7/-1
-constellate	2O6/-1/-7/-4/-7
-consternate	2O6/-1/-7/-8/-6/-7
-cons	2O6/-1
-content	2O6/-7/-6/-7
-contents	2O6/-7/-6/-7/-1
-contest	2O6/-7/-1/-7
-contests	2O6/-7/-1/-7/-1
-continently	2O6/-7/-6/-6/-7/-4/-3
-continent	2O6/-7/-6/-6/-7
-continents	2O6/-7/-6/-6/-7/-1
-contrary	2O6/-7/-8/-8/-3
-contras	2O6/-7/-8/-1
-contrast	2O6/-7/-8/-1/-7
-contrasts	2O6/-7/-8/-1/-7/-1
-coralline	2O8/-4/-6
-corals	2O8/-4/-1
-cordite	2O8/-5/-7
-core	2O8
-coring	2O8/-2
-corned	2O8/-6/-5
-cornered	2O8/-6/-8/-5
-cornering	2O8/-6/-8/-2
-corner	2O8/-6/-8
-corners	2O8/-6/-8/-1
-corning	2O8/-6/-2
-corn	2O8/-6
-corns	2O8/-6/-1
-corny	2O8/-6/-3
-corollas	2/1O4/-1
-coronal	2O8/-6/-4
-coronals	2O8/-6/-4/-1
-coronet	2O8/-6/-7
-coronets	2O8/-6/-7/-1
-corporeal	2/1/4O8/-4
-corporeally	2/1/4O8/-4/-3
-corraled	2/1A4/-5
-corralling	2/1A4/-2
-corrals	2/1A4/-1
-correlate	2O8/-4/-7
-correlates	2O8/-4/-7/-1
-corridor	2O8/-5/-8
-corridors	2O8/-5/-8/-1
-corselet	2O8/-1/-4/-7
-corseted	2O8/-1/-7/-5
-corseting	2O8/-1/-7/-2
-corset	2O8/-1/-7
-corsets	2O8/-1/-7/-1
-cory	2O8/-3
-cot	2O7
-cots	2O7/-1
-cottoned	2O7/-6/-5
-cotton	2O7/-6
-cottons	2O7/-6/-1
-cottony	2O7/-6/-3
-countried	2U6/-7/-8/-5
-countried	2U6/-7/-8/-3/-5
-countries	2U6/-7/-8/-3/-1
-country	2U6/-7/-8/-3
-curtsies	2U8/-7/-1/-3/-1
-curtsy	2U8/-7/-1/-3
-crannied	2/1A6/-5
-crannied	2/1A6/-3/-5
-crannies	2/1A6/-3/-1
-cranny	2/1A6/-3
-credited	2/1E5/-7/-5
-crediting	2/1E5/-7/-2
-credit	2/1E5/-7
-credits	2/1E5/-7/-1
-credulous	2/1E5/-4/-1
-credulously	2/1E5/-4/-1/-4/-3
-cretin	2/1E7/-6
-cretins	2/1E7/-6/-1
-cruddy	2/1U3
-cruddy	2/1U5/-3
-crud	2/1U5
-cryptanalyst	2/1/4/8A6/-4/-1/-7
-cryptanalyst	2/1/4/8A6/-4/-3/-1/-7
-cuddled	2U5/-4/-5
-cuddle	2U5/-4
-cuddles	2U5/-4/-1
-cuddling	2U5/-4/-2
-cuddly	2U5/-4/-3
-cud	2U5
-culled	2U4/-5
-cullings	2U4/-2/-1
-culling	2U4/-2
-culls	2U4/-1
-cull	2U4
-cult	2U4/-7
-cults	2U4/-7/-1
-cunning	2U6/-2
-cunningly	2U6/-2/-4/-3
-cunt	2U6/-7
-cunts	2U6/-7/-1
-curdled	2U8/-5/-4/-5
-curdles	2U8/-5/-4/-1
-curdle	2U8/-5/-4
-curdling	2U8/-5/-4/-2
-curd	2U8/-5
-curds	2U8/-5/-1
-curled	2U8/-4/-5
-curling	2U8/-4/-2
-curlings	2U8/-4/-2/-1
-curls	2U8/-4/-1
-curl	2U8/-4
-curly	2U8/-4/-3
-cur	2U8
-currant	2U8/-6/-7
-currants	2U8/-6/-7/-1
-curranty	2U8/-6/-7/-3
-currently	2U8/-6/-7/-4/-3
-curried	2U8/-3/-5
-curries	2U8/-3/-1
-currying	2U8/-2
-currying	2U8/-3/-2
-curry	2U8/-3
-cursed	2U8/-1/-5
-cursedly	2U8/-1/-5/-4/-3
-curses	2U8/-1/-1
-cursings	2U8/-1/-2/-1
-cursing	2U8/-1/-2
-curs	2U8/-1
-cursorily	2U8/-1/-8/-4/-3
-cursor	2U8/-1/-8
-cursors	2U8/-1/-8/-1
-cursory	2U8/-1/-8/-3
-curt	2U8/-7
-curtly	2U8/-7/-4/-3
-curtsying	2U8/-7/-1/-3/-2
-curtsied	2U8/-7/-1/-5
-curtsied	2U8/-7/-1/-3/-5
-curtsying	2U8/-7/-1/-2
-cutler	2U7/-4/-8
-cutlers	2U7/-4/-8/-1
-cutlery	2U7/-4/-8/-3
-cuts	2U7/-1
-cuttingly	2U7/-2/-4/-3
-cuttings	2U7/-2/-1
-cutting	2U7/-2
-cuttle	2U7/-4
-cut	2U7
-cytolysis	7/8O4/-1/-1
-daddies	6A3/-1
-daddies	6A5/-3/-1
-daddy	6A3
-daddy	6A5/-3
-dad	6A5
-dads	6A5/-1
-dallied	6A4/-5
-dallied	6A4/-3/-5
-dallies	6A4/-3/-1
-dallyings	6A4/-2/-1
-dallyings	6A4/-3/-2/-1
-dallying	6A4/-2
-dallying	6A4/-3/-2
-dally	6A4/-3
-dandies	6A6/-3/-1
-dandies	6A6/-5/-3/-1
-dandily	6A6/-5/-4/-3
-dandled	6A6/-5/-4/-5
-dandles	6A6/-5/-4/-1
-dandle	6A6/-5/-4
-dandling	6A6/-5/-4/-2
-dandy	6A6/-3
-dandy	6A6/-5/-3
-dang	6A2
-dangled	6A2/-4/-5
-dangles	6A2/-4/-1
-dangle	6A2/-4
-dangling	6A2/-4/-2
-dangly	6A2/-4/-3
-dan	6A6
-dans	6A6/-1
-darling	6A8/-4/-2
-darlings	6A8/-4/-2/-1
-darned	6A8/-6/-5
-darning	6A8/-6/-2
-darn	6A8/-6
-darns	6A8/-6/-1
-darted	6A8/-7/-5
-dartingly	6A8/-7/-2/-4/-3
-darting	6A8/-7/-2
-dart	6A8/-7
-darts	6A8/-7/-1
-dats	6A7/-1
-dat	6A7
-dead	6E5
-deadly	6E5/-4/-3
-dealt	6E4/-7
-debarred	6/3A8/-5
-debarring	6/3A8/-2
-debars	6/3A8/-1
-debar	6/3A8
-decanted	6/2A6/-7/-5
-decanting	6/2A6/-7/-2
-decants	6/2A6/-7/-1
-decant	6/2A6/-7
-decelerates	6/7E4/-8/-7/-1
-decelerate	6/7E4/-8/-7
-decennial	6/7E6/-4
-decennials	6/7E6/-4/-1
-deli	6E4/-3
-dell	6E4
-dells	6E4/-1
-deltaed	6E4/-7/-5
-deltas	6E4/-7/-1
-dendrite	6E6/-5/-8/-7
-dendrites	6E6/-5/-8/-7/-1
-den	6E6
-density	6E6/-1/-7
-dens	6E6/-1
-dental	6E6/-7/-4
-dentals	6E6/-7/-4/-1
-dented	6E6/-7/-5
-denting	6E6/-7/-2
-dentist	6E6/-7/-1/-7
-dentists	6E6/-7/-1/-7/-1
-dent	6E6/-7
-dents	6E6/-7/-1
-departed	6/4A8/-7/-5
-departing	6/4A8/-7/-2
-departs	6/4A8/-7/-1
-depart	6/4A8/-7
-depended	6/4E6/-5/-5
-dependingly	6/4E6/-5/-2/-4/-3
-depending	6/4E6/-5/-2
-depends	6/4E6/-5/-1
-depend	6/4E6/-5
-deplored	6/4/5O8/-5
-deplores	6/4/5O8/-1
-deplore	6/4/5O8
-deploringly	6/4/5O8/-2/-4/-3
-deploring	6/4/5O8/-2
-deported	6/4O8/-7/-5
-deporting	6/4O8/-7/-2
-deports	6/4O8/-7/-1
-deport	6/4O8/-7
-descant	6/7/2A6/-7
-descanted	6/7/2A6/-7/-5
-descants	6/7/2A6/-7/-1
-descended	6/7E6/-5/-5
-descending	6/7E6/-5/-2
-descends	6/7E6/-5/-1
-descend	6/7E6/-5
-dissent	6/7E6/-7
-dissents	6/7E6/-7/-1
-desert	6/7E8/-7
-desertedly	6/7E8/-7/-5/-4/-3
-deserted	6/7E8/-7/-5
-deserting	6/7E8/-7/-2
-deserts	6/7E8/-7/-1
-despondent	6/7/4O6/-5/-6/-7
-despondently	6/7/4O6/-5/-6/-7/-4/-3
-despondingly	6/7/4O6/-5/-2/-4/-3
-desponding	6/7/4O6/-5/-2
-despond	6/7/4O6/-5
-detente	6/8E6/-7
-deterred	6/8E8/-5
-deterring	6/8E8/-2
-deters	6/8E8/-1
-deter	6/8E8
-detonates	6E7/-6/-7/-1
-detonate	6E7/-6/-7
-disbursal	6/7/3U8/-1/-4
-disbursals	6/7/3U8/-1/-4/-1
-disbursed	6/7/3U8/-1/-5
-disburses	6/7/3U8/-1/-1
-disbursing	6/7/3U8/-1/-2
-discard	6/7/2A8/-5
-discarded	6/7/2A8/-5/-5
-discarding	6/7/2A8/-5/-2
-discards	6/7/2A8/-5/-1
-discerned	6/7E8/-6/-5
-discerning	6/7E8/-6/-2
-discerns	6/7E8/-6/-1
-discern	6/7E8/-6
-disconsolate	6/7/2O6/-1/-4/-7
-disconsolately	6/7/2O6/-1/-4/-7/-4/-3
-dispelled	6/7/4E4/-5
-dispelling	6/7/4E4/-2
-dispell	6/7/4E4
-dispels	6/7/4E4/-1
-dispensed	6/7/4E6/-1/-5
-dispenses	6/7/4E6/-1/-1
-dispensing	6/7/4E6/-1/-2
-dispersal	6/7/4E8/-1/-4
-dispersals	6/7/4E8/-1/-4/-1
-dispersed	6/7/4E8/-1/-5
-disperses	6/7/4E8/-1/-1
-dispersing	6/7/4E8/-1/-2
-dispersity	6/7/4E8/-1/-7
-disported	6/7/4O8/-7/-5
-disporting	6/7/4O8/-7/-2
-disports	6/7/4O8/-7/-1
-disport	6/7/4O8/-7
-dissented	6/7E6/-7/-5
-dissenting	6/7E6/-7/-2
-dissentingly	6/7E6/-7/-2/-4/-3
-distended	6/7/8E6/-5/-5
-distending	6/7/8E6/-5/-2
-distends	6/7/8E6/-5/-1
-distend	6/7/8E6/-5
-distortedly	6/7/8O8/-7/-5/-4/-3
-distorted	6/7/8O8/-7/-5
-distorting	6/7/8O8/-7/-2
-distorts	6/7/8O8/-7/-1
-distort	6/7/8O8/-7
-do	6O
-doddered	6O5/-8/-5
-doddering	6O5/-8/-2
-dodders	6O5/-8/-1
-dodder	6O5/-8
-doddery	6O5/-8/-3
-doddle	6O5/-4
-dongs	6O2/-1
-dong	6O2
-dollar	6O4/-8
-dollars	6O4/-8/-1
-dolled	6O4/-5
-dollied	6O4/-3/-5
-dollies	6O4/-3/-1
-dolling	6O4/-2
-doll	6O4
-dolls	6O4/-1
-dolly	6O4/-3
-done	6O6
-donged	6O2/-5
-donned	6O6/-5
-donning	6O6/-2
-dons	6O6/-1
-dorsal	6O8/-1/-4
-dorsally	6O8/-1/-4/-3
-dot	6O7
-dots	6O7/-1
-dotted	6O7/-5
-dotting	6O7/-2
-dotty	6O7/-3
-dratted	6/1A7/-5
-drat	6/1A7
-dreaded	6/1E5/-5
-dreading	6/1E5/-2
-dread	6/1E5
-dreads	6/1E5/-1
-drongos	6/1O2/-1
-dud	6U5
-duds	6U5/-1
-dulled	6U4/-5
-dulling	6U4/-2
-dull	6U4
-dulls	6U4/-1
-dully	6U4/-4/-3
-dung	6U2
-dun	6U6
-duns	6U6/-1
-durst	6U8/-1/-7
-eddies	E3/-1
-eddies	E5/-3/-1
-eddy	E3
-eddy	E5/-3
-eddyings	E5/-2/-1
-eddyings	E3/-2/-1
-eddyings	E5/-3/-2/-1
-eddying	E5/-2
-eddying	E3/-2
-eddying	E5/-3/-2
-edited	E5/-7/-5
-editing	E5/-7/-2
-editings	E5/-7/-2/-1
-edits	E5/-7/-1
-edit	E5/-7
-ed	E5
-elder	E4/-5/-8
-elderly	E4/-5/-8/-4/-3
-elders	E4/-5/-8/-1
-eldest	E4/-5/-1/-7
-ell	E4
-ells	E4/-1
-ended	E6/-5/-5
-endings	E6/-5/-2/-1
-ending	E6/-5/-2
-end	E6/-5
-ends	E6/-5/-1
-eng	E2
-en	E6
-entered	E6/-7/-8/-5
-entering	E6/-7/-8/-2
-enters	E6/-7/-8/-1
-enter	E6/-7/-8
-entities	E6/-7/-7/-3/-1
-entity	E6/-7/-7/-3
-entrant	E6/-7/-8/-6/-7
-entrants	E6/-7/-8/-6/-7/-1
-entries	E6/-7/-8/-3/-1
-entry	E6/-7/-8/-3
-errand	E8/-6/-5
-errands	E8/-6/-5/-1
-errant	E8/-6/-7
-errantly	E8/-6/-7/-4/-3
-erroring	E8/-8/-2
-error	E8/-8
-errors	E8/-8/-1
-erudite	E8/-5/-7
-eruditely	E8/-5/-7/-4/-3
-er	E8
-et	E7
-kangas	2A2/-1
-kaput	2/4U7
-karl	2A8/-4
-kenned	2E6/-5
-kenneled	2E6/-4/-5
-kenneling	2E6/-4/-2
-kennel	2E6/-4
-kennels	2E6/-4/-1
-ken	2E6
-kerned	2E8/-6/-5
-kerneled	2E8/-6/-4/-5
-kerneling	2E8/-6/-4/-2
-kernel	2E8/-6/-4
-kernels	2E8/-6/-4/-1
-kerning	2E8/-6/-2
-kerosene	2E8/-1/-6
-kettle	2E7/-4
-kettles	2E7/-4/-1
-kung	2U2
-laddered	5A5/-8/-5
-laddering	5A5/-8/-2
-ladder	5A5/-8
-ladders	5A5/-8/-1
-laddery	5A5/-8/-3
-laddie	5A3
-laddie	5A5/-3
-laddies	5A3/-1
-laddies	5A5/-3/-1
-lad	5A5
-lads	5A5/-1
-la	5A
-landed	5A6/-5/-5
-landing	5A6/-5/-2
-landings	5A6/-5/-2/-1
-land	5A6/-5
-lands	5A6/-5/-1
-lang	5A2
-languor	5A2/-8
-languors	5A2/-8/-1
-lanolin	5A6/-4/-6
-lantern	5A6/-7/-8/-6
-lanterns	5A6/-7/-8/-6/-1
-lapelled	5/4E4/-5
-lapel	5/4E4
-lapels	5/4E4/-1
-larder	5A8/-5/-8
-larders	5A8/-5/-8/-1
-lard	5A8/-5
-lards	5A8/-5/-1
-lateral	5A7/-8/-4
-laterally	5A7/-8/-4/-3
-laterals	5A7/-8/-4/-1
-laterite	5A7/-8/-7
-latter	5A7/-8
-latters	5A7/-8/-1
-lead	5E5
-leaded	5E5/-5
-leading	5E5/-2
-leads	5E5/-1
-leant	5E6/-7
-lending	5E6/-5/-2
-lendings	5E6/-5/-2/-1
-lends	5E6/-5/-1
-lend	5E6/-5
-len	5E6
-lentil	5E6/-7/-4
-lentils	5E6/-7/-4/-1
-lents	5E6/-7/-1
-lets	5E7/-1
-lettered	5E7/-8/-5
-lettering	5E7/-8/-2
-letter	5E7/-8
-letters	5E7/-8/-1
-lettings	5E7/-2/-1
-letting	5E7/-2
-let	5E7
-librettist	5/3/1E7/-1/-7
-librettists	5/3/1E7/-1/-7/-1
-librettos	5/3/1E7/-1
-locale	5/2A4
-locales	5/2A4/-1
-locality	5/2A4/-7
-lolled	5O4/-5
-lollies	5O4/-3/-1
-lolling	5O4/-2
-lolls	5O4/-1
-loll	5O4
-lolly	5O4/-3
-longed	5O2/-5
-longingly	5O2/-2/-4/-3
-longing	5O2/-2
-longings	5O2/-2/-1
-long	5O2
-longs	5O2/-1
-lorded	5O8/-5/-5
-lording	5O8/-5/-2
-lordly	5O8/-5/-4/-3
-lord	5O8/-5
-lords	5O8/-5/-1
-lore	5O8
-lores	5O8/-1
-lorn	5O8/-6
-lorries	5O8/-3/-1
-lorry	5O8/-3
-lot	5O7
-lots	5O7/-1
-lotteries	5O7/-8/-3/-1
-lottery	5O7/-8/-3
-lulled	5U4/-5
-lulling	5U4/-2
-lull	5U4
-lulls	5U4/-1
-lung	5U2
-lungs	5U2/-1
-oddity	O5/-7
-odd	O5
-oddly	O5/-4/-3
-odds	O5/-1
-on	O6
-onsen	O6/-1/-6
-or	O8
-oral	O8/-4
-orally	O8/-4/-3
-ordered	O8/-5/-8/-5
-orderings	O8/-5/-8/-2/-1
-ordering	O8/-5/-8/-2
-orderlies	O8/-5/-8/-4/-3/-1
-orderly	O8/-5/-8/-4/-3
-order	O8/-5/-8
-orders	O8/-5/-8/-1
-ordinal	O8/-5/-6/-4
-ordinate	O8/-5/-6/-7
-ordinates	O8/-5/-6/-7/-1
-ores	O8/-1
-ornery	O8/-6/-8/-3
-otter	O7/-8
-otters	O7/-8/-1
-padded	4A5/-5
-paddies	4A3/-1
-paddies	4A5/-3/-1
-padding	4A5/-2
-paddled	4A5/-4/-5
-paddle	4A5/-4
-paddles	4A5/-4/-1
-paddling	4A5/-4/-2
-paddy	4A3
-paddy	4A5/-3
-pad	4A5
-padres	4A5/-8/-1
-pads	4A5/-1
-paladin	4A4/-5/-6
-paladins	4A4/-5/-6/-1
-palatal	4A4/-7/-4
-palatals	4A4/-7/-4/-1
-palate	4A4/-7
-palates	4A4/-7/-1
-pallid	4A4/-5
-pallidly	4A4/-5/-4/-3
-pallor	4A4/-8
-pallors	4A4/-8/-1
-pally	4A4/-3
-pal	4A4
-pals	4A4/-1
-pandas	4A6/-5/-1
-pandered	4A6/-5/-8/-5
-pandering	4A6/-5/-8/-2
-panders	4A6/-5/-8/-1
-pander	4A6/-5/-8
-paneled	4A6/-4/-5
-paneling	4A6/-4/-2
-panellings	4A6/-4/-2/-1
-panel	4A6/-4
-panels	4A6/-4/-1
-pang	4A2
-pangs	4A2/-1
-panned	4A6/-5
-panning	4A6/-2
-pan	4A6
-pa	4A
-pans	4A6/-1
-panted	4A6/-7/-5
-panties	4A6/-7/-3/-1
-pantingly	4A6/-7/-2/-4/-3
-pantings	4A6/-7/-2/-1
-panting	4A6/-7/-2
-pant	4A6/-7
-pants	4A6/-7/-1
-pantries	4A6/-7/-8/-3/-1
-pantry	4A6/-7/-8/-3
-panty	4A6/-7/-3
-paradises	4A8/-5/-1/-1
-paralleled	4A8/-4/-4/-5
-parallel	4A8/-4/-4
-parallels	4A8/-4/-4/-1
-paralysis	4/1A4/-1/-1
-parasite	4A8/-1/-7
-parasites	4A8/-1/-7/-1
-pars	4A8/-1
-parasol	4A8/-1/-4
-parasols	4A8/-1/-4/-1
-parental	4/1E6/-7/-4
-parentis	4/1E6/-7/-1
-parties	4A8/-7/-3/-1
-parti	4A8/-7/-3
-parleyed	4A8/-4/-5
-parleyed	4A8/-4/-3/-5
-parleying	4A8/-4/-2
-parleying	4A8/-4/-3/-2
-parley	4A8/-4/-3
-parlous	4A8/-4/-1
-parleys	4A8/-4/-3/-1
-parlor	4A8/-4/-8
-parlors	4A8/-4/-8/-1
-par	4A8
-parodied	4A8/-5/-5
-parried	4A8/-3/-5
-parodied	4A8/-5/-3/-5
-parries	4A8/-3/-1
-parodies	4A8/-5/-3/-1
-parodist	4A8/-5/-1/-7
-parodists	4A8/-5/-1/-7/-1
-parodying	4A8/-5/-2
-parrying	4A8/-3/-2
-parodying	4A8/-5/-3/-2
-parry	4A8/-3
-parody	4A8/-5/-3
-parral	4A8/-4
-parried	4A8/-5
-parted	4A8/-7/-5
-parting	4A8/-7/-2
-part	4A8/-7
-parts	4A8/-7/-1
-parrying	4A8/-2
-parsley	4A8/-1/-4/-3
-partied	4A8/-7/-3/-5
-partings	4A8/-7/-2/-1
-partly	4A8/-7/-4/-3
-partnered	4A8/-7/-6/-8/-5
-partnering	4A8/-7/-6/-8/-2
-partner	4A8/-7/-6/-8
-partners	4A8/-7/-6/-8/-1
-partying	4A8/-7/-3/-2
-patellas	4/8E4/-1
-patented	4A7/-6/-7/-5
-patenting	4A7/-6/-7/-2
-patently	4A7/-6/-7/-4/-3
-patent	4A7/-6/-7
-patents	4A7/-6/-7/-1
-paternal	4/8E8/-6/-4
-paternally	4/8E8/-6/-4/-3
-paternity	4/8E8/-6/-7/-3
-patsies	4A7/-1/-3/-1
-pats	4A7/-1
-patsy	4A7/-1/-3
-patted	4A7/-5
-pattered	4A7/-8/-5
-patterings	4A7/-8/-2/-1
-pattering	4A7/-8/-2
-patterned	4A7/-8/-6/-5
-patterning	4A7/-8/-6/-2
-pattern	4A7/-8/-6
-patter	4A7/-8
-patterns	4A7/-8/-6/-1
-patters	4A7/-8/-1
-patties	4A7/-3/-1
-patting	4A7/-2
-patty	4A7/-3
-pat	4A7
-pecan	4/2A6
-pecans	4/2A6/-1
-pedaled	4E5/-4/-5
-pedaling	4E5/-4/-2
-pedal	4E5/-4
-pedals	4E5/-4/-1
-pedant	4E5/-6/-7
-pedants	4E5/-6/-7/-1
-pedestalled	4E5/-1/-7/-4/-5
-pedestal	4E5/-1/-7/-4
-pedestals	4E5/-1/-7/-4/-1
-pedlar	4E5/-4/-8
-pedlars	4E5/-4/-8/-1
-pelting	4E4/-7/-2
-pelt	4E4/-7
-pelts	4E4/-7/-1
-pelted	4E4/-7/-5
-peltingly	4E4/-7/-2/-4/-3
-peltry	4E4/-7/-8/-3
-penalties	4E6/-4/-7/-3/-1
-penalty	4E6/-4/-7/-3
-pendant	4E6/-5/-6/-7
-pendants	4E6/-5/-6/-7/-1
-pended	4E6/-5/-5
-pending	4E6/-5/-2
-pendular	4E6/-5/-4/-8
-pendulous	4E6/-5/-4/-1
-pendulously	4E6/-5/-4/-1/-4/-3
-pend	4E6/-5
-penetrant	4E6/-7/-8/-6/-7
-penetrates	4E6/-7/-8/-7/-1
-penetrate	4E6/-7/-8/-7
-penitent	4E6/-7/-6/-7
-penitently	4E6/-7/-6/-7/-4/-3
-penitents	4E6/-7/-6/-7/-1
-pennant	4E6/-6/-7
-pennants	4E6/-6/-7/-1
-pennies	4E6/-3/-1
-penning	4E6/-2
-pen	4E6
-penny	4E6/-3
-pens	4E6/-1
-pentane	4E6/-7/-6
-pent	4E6/-7
-penury	4E6/-8/-3
-percental	4/1/7E6/-7/-4
-percent	4/1/7E6/-7
-percents	4/1/7E6/-7/-1
-perennial	4/1E6/-4
-perennially	4/1E6/-4/-3
-perennials	4/1E6/-4/-1
-perilling	4E8/-4/-2
-peril	4E8/-4
-perils	4E8/-4/-1
-per	4E8
-peri	4E8/-3
-perlite	4E8/-4/-7
-perpetual	4/1/4E7/-4
-perpetually	4/1/4E7/-4/-3
-pertinent	4E8/-7/-6/-6/-7
-pertinently	4E8/-7/-6/-6/-7/-4/-3
-pert	4E8/-7
-pertly	4E8/-7/-4/-3
-petaled	4E7/-4/-5
-petal	4E7/-4
-petals	4E7/-4/-1
-petard	4/8A8/-5
-petards	4/8A8/-5/-1
-pet	4E7
-petrel	4E7/-8/-4
-petrels	4E7/-8/-4/-1
-petrous	4E7/-8/-1
-pets	4E7/-1
-petted	4E7/-5
-pettily	4E7/-4/-3
-petting	4E7/-2
-petty	4E7/-3
-petulant	4E7/-4/-6/-7
-petulantly	4E7/-4/-6/-7/-4/-3
-pictorial	4/2/8O8/-4
-pictorially	4/2/8O8/-4/-3
-pictorials	4/2/8O8/-4/-1
-pipette	4/4E7
-pipettes	4/4E7/-1
-placental	4/5/7E6/-7/-4
-placentas	4/5/7E6/-7/-1
-plaid	4/5A5
-plaids	4/5A5/-1
-plant	4/5A6/-7
-plants	4/5A6/-7/-1
-planned	4/5A6/-5
-planning	4/5A6/-2
-plannings	4/5A6/-2/-1
-plan	4/5A6
-plans	4/5A6/-1
-plantain	4/5A6/-7/-6
-plantains	4/5A6/-7/-6/-1
-planted	4/5A6/-7/-5
-plantings	4/5A6/-7/-2/-1
-planting	4/5A6/-7/-2
-plat	4/5A7
-platies	4/5A7/-3/-1
-platter	4/5A7/-8
-platters	4/5A7/-8/-1
-platy	4/5A7/-3
-plenty	4/5E6/-7/-3
-plodded	4/5O5/-5
-ploddingly	4/5O5/-2/-4/-3
-plodding	4/5O5/-2
-plods	4/5O5/-1
-plod	4/5O5
-plot	4/5O7
-plots	4/5O7/-1
-plotted	4/5O7/-5
-plottings	4/5O7/-2/-1
-plotting	4/5O7/-2
-plundered	4/5U6/-5/-8/-5
-plundering	4/5U6/-5/-8/-2
-plunderings	4/5U6/-5/-8/-2/-1
-plunder	4/5U6/-5/-8
-plunders	4/5U6/-5/-8/-1
-plurality	4/5/1A4/-7
-pod	4O5
-pods	4O5/-1
-polity	4O4/-7/-3
-pollard	4O4/-8/-5
-pollarded	4O4/-8/-5/-5
-pollards	4O4/-8/-5/-1
-pollen	4O4/-6
-pollinates	4O4/-6/-7/-1
-pollinate	4O4/-6/-7
-poly	4O4/-3
-polys	4O4/-1
-polys	4O4/-3/-1
-pondered	4O6/-5/-8/-5
-ponderingly	4O6/-5/-8/-2/-4/-3
-pondering	4O6/-5/-8/-2
-ponders	4O6/-5/-8/-1
-ponder	4O6/-5/-8
-pond	4O6/-5
-ponds	4O6/-5/-1
-ponged	4O2/-5
-ponging	4O2/-2
-pong	4O2
-pongs	4O2/-1
-pongy	4O2/-3
-pored	4O8/-5
-pore	4O8
-pores	4O8/-1
-poring	4O8/-2
-porn	4O8/-6
-portal	4O8/-7/-4
-portals	4O8/-7/-4/-1
-ported	4O8/-7/-5
-pretended	4/1/8E6/-5/-5
-pretending	4/1/8E6/-5/-2
-pretends	4/1/8E6/-5/-1
-pretend	4/1/8E6/-5
-portent	4O8/-7/-6/-7
-portents	4O8/-7/-6/-7/-1
-portings	4O8/-7/-2/-1
-porting	4O8/-7/-2
-portly	4O8/-7/-4/-3
-port	4O8/-7
-ports	4O8/-7/-1
-posterity	4/7/8E8/-7/-3
-pot	4O7
-pots	4O7/-1
-potted	4O7/-5
-potter	4O7/-8
-pottered	4O7/-8/-5
-potteringly	4O7/-8/-2/-4/-3
-pottering	4O7/-8/-2
-potters	4O7/-8/-1
-potties	4O7/-3/-1
-potting	4O7/-2
-potty	4O7/-3
-praline	4/1A4/-6
-pralines	4/1A4/-6/-1
-prandial	4/1A6/-5/-4
-prat	4/1A7
-prats	4/1A7/-1
-prattled	4/1A7/-4/-5
-prattle	4/1A7/-4
-prattles	4/1A7/-4/-1
-prattlings	4/1A7/-4/-2/-1
-prattling	4/1A7/-4/-2
-precentor	4/1/7E6/-7/-8
-precursor	4/1/2U8/-1/-8
-precursors	4/1/2U8/-1/-8/-1
-precursory	4/1/2U8/-1/-8/-3
-predator	4/1E5/-7/-8
-predators	4/1E5/-7/-8/-1
-prelate	4/1E4/-7
-prelates	4/1E4/-7/-1
-prelude	4/1E4/-5
-preludes	4/1E4/-5/-1
-preponderant	4/1/4O6/-5/-8/-6/-7
-preponderantly	4/1/4O6/-5/-8/-6/-7/-4/-3
-preponderates	4/1/4O6/-5/-8/-7/-1
-preponderate	4/1/4O6/-5/-8/-7
-presented	4/1/7E6/-7/-5
-presenting	4/1/7E6/-7/-2
-pretenses	4/1/8E6/-1/-1
-pretentious	4/1/8E6/-7/-1
-pretentiously	4/1/8E6/-7/-1/-4/-3
-preterite	4/1E7/-8/-7
-preterites	4/1E7/-8/-7/-1
-prettied	4/1E7/-5
-prettied	4/1E7/-3/-5
-pretties	4/1E7/-3/-1
-prettily	4/1E7/-4/-3
-prettying	4/1E7/-2
-prettying	4/1E7/-3/-2
-pretty	4/1E7/-3
-prodded	4/1O5/-5
-proddings	4/1O5/-2/-1
-prodding	4/1O5/-2
-prods	4/1O5/-1
-prod	4/1O5
-prolonged	4/1/5O2/-5
-prolonging	4/1/5O2/-2
-prolongs	4/1/5O2/-1
-prolong	4/1/5O2
-pronged	4/1O2/-5
-pronging	4/1O2/-2
-prong	4/1O2
-prongs	4/1O2/-1
-propelled	4/1/4E4/-5
-propelling	4/1/4E4/-2
-propels	4/1/4E4/-1
-propel	4/1/4E4
-propensities	4/1/4E6/-1/-7/-3/-1
-propensity	4/1/4E6/-1/-7/-3
-prosperity	4/1/7/4E8/-7
-pudding	4U5/-2
-puddings	4U5/-2/-1
-puddingy	4U5/-2/-3
-puddled	4U5/-4/-5
-puddle	4U5/-4
-puddles	4U5/-4/-1
-puddly	4U5/-4/-3
-puddling	4U5/-4/-2
-pudendal	4/6E6/-5/-4
-pudendous	4/6E6/-5/-1
-pud	4U5
-puds	4U5/-1
-pulled	4U4/-5
-pulley	4U4/-3
-pulls	4U4/-1
-pulleys	4U4/-3/-1
-pulling	4U4/-2
-pull	4U4
-pulsar	4U4/-1/-8
-pulsars	4U4/-1/-8/-1
-pulsed	4U4/-1/-5
-pulses	4U4/-1/-1
-pulsing	4U4/-1/-2
-pundit	4U6/-5/-7
-punditry	4U6/-5/-7/-8/-3
-pundits	4U6/-5/-7/-1
-punning	4U6/-2
-pun	4U6
-puns	4U6/-1
-punster	4U6/-1/-7/-8
-punsters	4U6/-1/-7/-8/-1
-punted	4U6/-7/-5
-punting	4U6/-7/-2
-punt	4U6/-7
-punts	4U6/-7/-1
-purled	4U8/-4/-5
-purling	4U8/-4/-2
-purls	4U8/-4/-1
-purl	4U8/-4
-purport	4/1/4O8/-7
-purported	4/1/4O8/-7/-5
-purportedly	4/1/4O8/-7/-5/-4/-3
-purporting	4/1/4O8/-7/-2
-purports	4/1/4O8/-7/-1
-purred	4U8/-5
-purringly	4U8/-2/-4/-3
-purring	4U8/-2
-purr	4U8
-purrs	4U8/-1
-pursed	4U8/-1/-5
-purses	4U8/-1/-1
-pursing	4U8/-1/-2
-purslane	4U8/-1/-4/-6
-puts	4U7/-1
-putted	4U7/-5
-putties	4U7/-3/-1
-putting	4U7/-2
-putt	4U7
-putty	4U7/-3
-rad	1A5
-rallied	1A4/-5
-rallied	1A4/-3/-5
-rallies	1A4/-3/-1
-rallyingly	1A4/-2/-4/-3
-rallyingly	1A4/-3/-2/-4/-3
-rallying	1A4/-2
-rallying	1A4/-3/-2
-rally	1A4/-3
-randily	1A6/-5/-4/-3
-rand	1A6/-5
-randy	1A6/-3
-randy	1A6/-5/-3
-rang	1A2
-ranted	1A6/-7/-5
-rantingly	1A6/-7/-2/-4/-3
-rantings	1A6/-7/-2/-1
-ranting	1A6/-7/-2
-rants	1A6/-7/-1
-rant	1A6/-7
-ran	1A6
-rascality	1/7/2A4/-7
-ratan	1/8A6
-rat	1A7
-rats	1A7/-1
-rattans	1/8A6/-1
-ratted	1A7/-5
-ratting	1A7/-2
-rattled	1A7/-4/-5
-rattle	1A7/-4
-rattles	1A7/-4/-1
-rattling	1A7/-4/-2
-rattly	1A7/-4/-3
-ratty	1A7/-3
-read	1E5
-readied	1E5/-5
-readied	1E3/-5
-readied	1E5/-3/-5
-readies	1E3/-1
-readies	1E5/-3/-1
-redly	1E5/-4/-3
-readying	1E5/-2
-readying	1E3/-2
-readying	1E5/-3/-2
-ready	1E3
-ready	1E5/-3
-rebel	1/3E4
-rebelled	1/3E4/-5
-rebelling	1/3E4/-2
-rebels	1/3E4/-1
-rebuts	1/3U7/-1
-rebuttal	1/3U7/-4
-rebuttals	1/3U7/-4/-1
-rebutted	1/3U7/-5
-rebutting	1/3U7/-2
-rebut	1/3U7
-recanted	1/2A6/-7/-5
-recanting	1/2A6/-7/-2
-recants	1/2A6/-7/-1
-recant	1/2A6/-7
-record	1/2O8/-5
-recorded	1/2O8/-5/-5
-recording	1/2O8/-5/-2
-recordings	1/2O8/-5/-2/-1
-records	1/2O8/-5/-1
-rectangular	1/2/8A2/-4/-8
-rectangularly	1/2/8A2/-4/-8/-4/-3
-recurred	1/2U8/-5
-recurringly	1/2U8/-2/-4/-3
-recurring	1/2U8/-2
-recurs	1/2U8/-1
-recur	1/2U8
-redolent	1E5/-4/-6/-7
-redolently	1E5/-4/-6/-7/-4/-3
-reds	1E5/-1
-redundant	1/6U6/-5/-6/-7
-redundantly	1/6U6/-5/-6/-7/-4/-3
-relented	1/5E6/-7/-5
-relenting	1/5E6/-7/-2
-relents	1/5E6/-7/-1
-relent	1/5E6/-7
-rended	1E6/-5/-5
-rendered	1E6/-5/-8/-5
-renderings	1E6/-5/-8/-2/-1
-rendering	1E6/-5/-8/-2
-renders	1E6/-5/-8/-1
-render	1E6/-5/-8
-rendings	1E6/-5/-2/-1
-rending	1E6/-5/-2
-rends	1E6/-5/-1
-rend	1E6/-5
-rent	1E6/-7
-rental	1E6/-7/-4
-rentals	1E6/-7/-4/-1
-rented	1E6/-7/-5
-renting	1E6/-7/-2
-rents	1E6/-7/-1
-repelled	1/4E4/-5
-repellingly	1/4E4/-2/-4/-3
-repelling	1/4E4/-2
-repels	1/4E4/-1
-repel	1/4E4
-repented	1/4E6/-7/-5
-repentingly	1/4E6/-7/-2/-4/-3
-repenting	1/4E6/-7/-2
-repents	1/4E6/-7/-1
-repent	1/4E6/-7
-reportedly	1/4O8/-7/-5/-4/-3
-reported	1/4O8/-7/-5
-reportingly	1/4O8/-7/-2/-4/-3
-reportings	1/4O8/-7/-2/-1
-reporting	1/4O8/-7/-2
-report	1/4O8/-7
-reports	1/4O8/-7/-1
-repulsed	1/4U4/-1/-5
-repulses	1/4U4/-1/-1
-repulsing	1/4U4/-1/-2
-resented	1/7E6/-7/-5
-resentings	1/7E6/-7/-2/-1
-resenting	1/7E6/-7/-2
-resents	1/7E6/-7/-1
-resent	1/7E6/-7
-resorted	1/7O8/-7/-5
-resorting	1/7O8/-7/-2
-resort	1/7O8/-7
-resorts	1/7O8/-7/-1
-resplendent	1/7/4/5E6/-5/-6/-7
-resplendently	1/7/4/5E6/-5/-6/-7/-4/-3
-responded	1/7/4O6/-5/-5
-responding	1/7/4O6/-5/-2
-responds	1/7/4O6/-5/-1
-respond	1/7/4O6/-5
-responses	1/7/4O6/-1/-1
-restored	1/7/8O8/-5
-restores	1/7/8O8/-1
-restore	1/7/8O8
-restoring	1/7/8O8/-2
-resulted	1/7U4/-7/-5
-resulting	1/7U4/-7/-2
-result	1/7U4/-7
-results	1/7U4/-7/-1
-retard	1/8A8/-5
-retarded	1/8A8/-5/-5
-retarding	1/8A8/-5/-2
-retards	1/8A8/-5/-1
-retinal	1E7/-6/-4
-retinas	1E7/-6/-1
-ret	1E7
-retorted	1/8O8/-7/-5
-retorting	1/8O8/-7/-2
-retort	1/8O8/-7
-retorts	1/8O8/-7/-1
-returned	1/8U8/-6/-5
-returnings	1/8U8/-6/-2/-1
-returning	1/8U8/-6/-2
-return	1/8U8/-6
-returns	1/8U8/-6/-1
-risottos	1/7O7/-1
-rodded	1O5/-5
-rodding	1O5/-2
-rod	1O5
-rods	1O5/-1
-rot	1O7
-rots	1O7/-1
-rotted	1O7/-5
-rotting	1O7/-2
-rotundas	1/8U6/-5/-1
-rotundity	1/8U6/-5/-7
-rotund	1/8U6/-5
-rotundly	1/8U6/-5/-4/-3
-rudder	1U5/-8
-rudders	1U5/-8/-1
-ruddily	1U5/-4/-3
-ruddy	1U3
-ruddy	1U5/-3
-rungs	1U2/-1
-rung	1U2
-runningly	1U6/-2/-4/-3
-running	1U6/-2
-runny	1U6/-3
-runs	1U6/-1
-runt	1U6/-7
-runts	1U6/-7/-1
-runty	1U6/-7/-3
-run	1U6
-rut	1U7
-ruts	1U7/-1
-rutted	1U7/-5
-rutting	1U7/-2
-rutty	1U7/-3
-saddled	7A5/-4/-5
-saddle	7A5/-4
-saddles	7A5/-4/-1
-saddling	7A5/-4/-2
-sad	7A5
-sadly	7A5/-4/-3
-said	7E5
-salad	7A4/-5
-salads	7A4/-5/-1
-salaried	7A4/-8/-5
-salaried	7A4/-8/-3/-5
-salaries	7A4/-8/-3/-1
-salary	7A4/-8/-3
-sallied	7A4/-3/-5
-sallies	7A4/-3/-1
-sallying	7A4/-2
-sallying	7A4/-3/-2
-sally	7A4/-3
-salsas	7A4/-1/-1
-sandalled	7A6/-5/-4/-5
-sandal	7A6/-5/-4
-sandals	7A6/-5/-4/-1
-sanded	7A6/-5/-5
-sanding	7A6/-5/-2
-sand	7A6/-5
-sandor	7A6/-5/-8
-sands	7A6/-5/-1
-sandy	7A6/-3
-sandy	7A6/-5/-3
-sangster	7A2/-1/-7/-8
-sangsters	7A2/-1/-7/-8/-1
-sang	7A2
-sanity	7A6/-7
-san	7A6
-santos	7A6/-7/-1
-sarin	7A8/-6
-sari	7A8/-3
-saris	7A8/-1
-saris	7A8/-3/-1
-sarney	7A8/-6/-3
-sarnies	7A8/-6/-3/-1
-sarong	7/1O2
-sarongs	7/1O2/-1
-sarsnet	7A8/-1/-6/-7
-sartorial	7/1/8O8/-4
-sartorially	7/1/8O8/-4/-3
-satelite	7A7/-4/-7
-satelites	7A7/-4/-7/-1
-satin	7A7/-6
-satins	7A7/-6/-1
-satiny	7A7/-6/-3
-satyr	7A7/-8
-satyrs	7A7/-8/-1
-saturn	7A7/-8/-6
-sat	7A7
-scandalled	7/2A6/-5/-4/-5
-scandal	7/2A6/-5/-4
-scandals	7/2A6/-5/-4/-1
-scanned	7/2A6/-5
-scanning	7/2A6/-2
-scannings	7/2A6/-2/-1
-scan	7/2A6
-scans	7/2A6/-1
-scanties	7/2A6/-7/-3/-1
-scant	7/2A6/-7
-scantle	7/2A6/-7/-4
-scantling	7/2A6/-7/-4/-2
-scantlings	7/2A6/-7/-4/-2/-1
-scantly	7/2A6/-7/-4/-3
-scanty	7/2A6/-7/-3
-scar	7/2A8
-scarred	7/2A8/-5
-scarring	7/2A8/-2
-scars	7/2A8/-1
-scat	7/2A7
-scattered	7/2A7/-8/-5
-scatteringly	7/2A7/-8/-2/-4/-3
-scattering	7/2A7/-8/-2
-scatters	7/2A7/-8/-1
-scatter	7/2A7/-8
-scattily	7/2A7/-4/-3
-scatty	7/2A7/-3
-scented	7E6/-7/-5
-scenting	7E6/-7/-2
-scholarly	7/2O4/-8/-4/-3
-scholar	7/2O4/-8
-scholars	7/2O4/-8/-1
-scone	7/2O6
-scones	7/2O6/-1
-scored	7/2O8/-5
-score	7/2O8
-scores	7/2O8/-1
-scoring	7/2O8/-2
-scorned	7/2O8/-6/-5
-scorning	7/2O8/-6/-2
-scorn	7/2O8/-6
-scorns	7/2O8/-6/-1
-scriptorial	7/2/1/4/8O8/-4
-scudded	7/2U5/-5
-scudding	7/2U5/-2
-scud	7/2U5
-scuds	7/2U5/-1
-sculled	7/2U4/-5
-sculleries	7/2U4/-8/-3/-1
-scullery	7/2U4/-8/-3
-sculling	7/2U4/-2
-skulls	7/2U4/-1
-skull	7/2U4
-scurried	7/2U8/-5
-scurried	7/2U8/-3/-5
-scurries	7/2U8/-3/-1
-scurrilous	7/2U8/-4/-1
-scurrilously	7/2U8/-4/-1/-4/-3
-scurrying	7/2U8/-2
-scurrying	7/2U8/-3/-2
-scurry	7/2U8/-3
-scut	7/2U7
-scuts	7/2U7/-1
-scutters	7/2U7/-8/-1
-scutter	7/2U7/-8
-scuttled	7/2U7/-4/-5
-scuttles	7/2U7/-4/-1
-scuttle	7/2U7/-4
-scuttling	7/2U7/-4/-2
-second	7/2O6/-5
-seconded	7/2O6/-5/-5
-seconding	7/2O6/-5/-2
-seconds	7/2O6/-5/-1
-sedan	7/6A6
-sedans	7/6A6/-1
-sedulous	7E5/-4/-1
-sedulously	7E5/-4/-1/-4/-3
-selenite	7E4/-6/-7
-selling	7E4/-2
-sending	7E6/-5/-2
-sends	7E6/-5/-1
-send	7E6/-5
-sensed	7E6/-1/-5
-sensing	7E6/-1/-2
-sentinel	7E6/-7/-6/-4
-sentinels	7E6/-7/-6/-4/-1
-sentries	7E6/-7/-8/-3/-1
-sentry	7E6/-7/-8/-3
-septennially	7/4/8E6/-4/-3
-septennial	7/4/8E6/-4
-septet	7/4/8E7
-septets	7/4/8E7/-1
-serenity	7/1E6/-7
-serried	7E8/-5
-sets	7E7/-1
-settings	7E7/-2/-1
-setting	7E7/-2
-settled	7E7/-4/-5
-settles	7E7/-4/-1
-settle	7E7/-4
-settling	7E7/-4/-2
-sett	7E7
-skedaddled	7/2/6A5/-4/-5
-skedaddle	7/2/6A5/-4
-skedaddling	7/2/6A5/-4/-2
-skeletal	7/2E4/-7/-4
-skeleton	7/2E4/-7/-6
-skeletons	7/2E4/-7/-6/-1
-skelter	7/2E4/-7/-8
-skerries	7/2E8/-3/-1
-slandered	7/5A6/-5/-8/-5
-slanderingly	7/5A6/-5/-8/-2/-4/-3
-slanderings	7/5A6/-5/-8/-2/-1
-slandering	7/5A6/-5/-8/-2
-slander	7/5A6/-5/-8
-slanders	7/5A6/-5/-8/-1
-slangingly	7/5A2/-2/-4/-3
-slanging	7/5A2/-2
-slang	7/5A2
-slangs	7/5A2/-1
-slangy	7/5A2/-3
-slanted	7/5A6/-7/-5
-slantingly	7/5A6/-7/-2/-4/-3
-slanting	7/5A6/-7/-2
-slant	7/5A6/-7
-slants	7/5A6/-7/-1
-slanty	7/5A6/-7/-3
-slat	7/5A7
-slats	7/5A7/-1
-slatted	7/5A7/-5
-slatternly	7/5A7/-8/-6/-4/-3
-slattern	7/5A7/-8/-6
-slatterns	7/5A7/-8/-6/-1
-sledded	7/5E5/-5
-sledding	7/5E5/-2
-sled	7/5E5
-sleds	7/5E5/-1
-slendering	7/5E6/-5/-8/-2
-slender	7/5E6/-5/-8
-slenderly	7/5E6/-5/-8/-4/-3
-slot	7/5O7
-slots	7/5O7/-1
-slotted	7/5O7/-5
-slotting	7/5O7/-2
-slung	7/5U2
-slur	7/5U8
-slurred	7/5U8/-5
-slurried	7/5U8/-3/-5
-slurries	7/5U8/-3/-1
-slurring	7/5U8/-2
-slurry	7/5U8/-3
-slurs	7/5U8/-1
-slut	7/5U7
-sluts	7/5U7/-1
-slutty	7/5U7/-3
-sodden	7O5/-6
-soddens	7O5/-6/-1
-sodding	7O5/-2
-sod	7O5
-sods	7O5/-1
-solaris	7/5A8/-1
-solid	7O4/-5
-solidly	7O4/-5/-4/-3
-solids	7O4/-5/-1
-sol	7O4
-solute	7O4/-7
-song	7O2
-songs	7O2/-1
-songster	7O2/-1/-7/-8
-songsters	7O2/-1/-7/-8/-1
-sonnet	7O6/-7
-sonnets	7O6/-7/-1
-sonnies	7O6/-3/-1
-son	7O6
-sonny	7O6/-3
-sonorant	7O6/-8/-6/-7
-sons	7O6/-1
-sopranos	7/4/1A6/-1
-sordid	7O8/-5/-5
-sordidly	7O8/-5/-5/-4/-3
-sore	7O8
-sorely	7O8/-4/-3
-sores	7O8/-1
-sororial	7/1O8/-4
-sororially	7/1O8/-4/-3
-sororities	7/1O8/-7/-3/-1
-sorority	7/1O8/-7/-3
-sorrel	7O8/-4
-sorries	7O8/-3/-1
-sorry	7O8/-3
-sorted	7O8/-7/-5
-sortied	7O8/-7/-3/-5
-sortieing	7O8/-7/-3/-2
-sortie	7O8/-7/-3
-sorties	7O8/-7/-3/-1
-sortings	7O8/-7/-2/-1
-sorting	7O8/-7/-2
-sort	7O8/-7
-sorts	7O8/-7/-1
-sot	7O7
-sots	7O7/-1
-spandrel	7/4A6/-5/-8/-4
-spangled	7/4A2/-4/-5
-spangle	7/4A2/-4
-spangles	7/4A2/-4/-1
-spangling	7/4A2/-4/-2
-spangly	7/4A2/-4/-3
-spanned	7/4A6/-5
-spanner	7/4A6/-8
-spanners	7/4A6/-8/-1
-spanning	7/4A6/-2
-span	7/4A6
-spa	7/4A
-spans	7/4A6/-1
-spar	7/4A8
-sparred	7/4A8/-5
-sparring	7/4A8/-2
-sparsity	7/4A8/-1/-7
-spars	7/4A8/-1
-spas	7/4A1
-spats	7/4A7/-1
-spatted	7/4A7/-5
-spattered	7/4A7/-8/-5
-spattering	7/4A7/-8/-2
-spatter	7/4A7/-8
-spatters	7/4A7/-8/-1
-spatting	7/4A7/-2
-spatulas	7/4A7/-4/-1
-spat	7/4A7
-sped	7/4E5
-spelled	7/4E4/-5
-spelling	7/4E4/-2
-spellings	7/4E4/-2/-1
-spell	7/4E4
-spells	7/4E4/-1
-spelt	7/4E4/-7
-spending	7/4E6/-5/-2
-spendings	7/4E6/-5/-2/-1
-spends	7/4E6/-5/-1
-spend	7/4E6/-5
-spent	7/4E6/-7
-splat	7/4/5A7
-splats	7/4/5A7/-1
-splatted	7/4/5A7/-5
-splattered	7/4/5A7/-8/-5
-splattering	7/4/5A7/-8/-2
-splatters	7/4/5A7/-8/-1
-splatter	7/4/5A7/-8
-splatting	7/4/5A7/-2
-splendid	7/4/5E6/-5/-5
-splendidly	7/4/5E6/-5/-5/-4/-3
-splendored	7/4/5E6/-5/-8/-5
-splendor	7/4/5E6/-5/-8
-splendors	7/4/5E6/-5/-8/-1
-spluttered	7/4/5U7/-8/-5
-splutteringly	7/4/5U7/-8/-2/-4/-3
-spluttering	7/4/5U7/-8/-2
-splutter	7/4/5U7/-8
-splutters	7/4/5U7/-8/-1
-spluttery	7/4/5U7/-8/-3
-sponsored	7/4O6/-1/-8/-5
-sponsoring	7/4O6/-1/-8/-2
-sponsor	7/4O6/-1/-8
-sponsors	7/4O6/-1/-8/-1
-spore	7/4O8
-spores	7/4O8/-1
-sporran	7/4O8/-6
-sporrans	7/4O8/-6/-1
-sported	7/4O8/-7/-5
-sportingly	7/4O8/-7/-2/-4/-3
-sporting	7/4O8/-7/-2
-sport	7/4O8/-7
-sports	7/4O8/-7/-1
-sporty	7/4O8/-7/-3
-spot	7/4O7
-spots	7/4O7/-1
-spotted	7/4O7/-5
-spotting	7/4O7/-2
-spotty	7/4O7/-3
-sprang	7/4/1A2
-sprat	7/4/1A7
-sprats	7/4/1A7/-1
-spreading	7/4/1E5/-2
-spread	7/4/1E5
-spreads	7/4/1E5/-1
-sprung	7/4/1U2
-spud	7/4U5
-spuds	7/4U5/-1
-spun	7/4U6
-spurned	7/4U8/-6/-5
-spurning	7/4U8/-6/-2
-spur	7/4U8
-spurns	7/4U8/-6/-1
-spurn	7/4U8/-6
-spurred	7/4U8/-5
-spurring	7/4U8/-2
-spurs	7/4U8/-1
-spurted	7/4U8/-7/-5
-spurting	7/4U8/-7/-2
-spurt	7/4U8/-7
-spurts	7/4U8/-7/-1
-sputtered	7/4U7/-8/-5
-sputteringly	7/4U7/-8/-2/-4/-3
-sputtering	7/4U7/-8/-2
-sputters	7/4U7/-8/-1
-sputter	7/4U7/-8
-sputtery	7/4U7/-8/-3
-staccatos	7/8/2A7/-1
-standard	7/8A6/-5/-8/-5
-standardly	7/8A6/-5/-8/-5/-4/-3
-standards	7/8A6/-5/-8/-5/-1
-standings	7/8A6/-5/-2/-1
-standing	7/8A6/-5/-2
-stands	7/8A6/-5/-1
-stand	7/8A6/-5
-starling	7/8A8/-4/-2
-starlings	7/8A8/-4/-2/-1
-star	7/8A8
-starred	7/8A8/-5
-starring	7/8A8/-2
-starry	7/8A8/-3
-stars	7/8A8/-1
-started	7/8A8/-7/-5
-startingly	7/8A8/-7/-2/-4/-3
-starting	7/8A8/-7/-2
-startled	7/8A8/-7/-4/-5
-startles	7/8A8/-7/-4/-1
-startle	7/8A8/-7/-4
-startling	7/8A8/-7/-4/-2
-startlingly	7/8A8/-7/-4/-2/-4/-3
-starts	7/8A8/-7/-1
-start	7/8A8/-7
-stats	7/8A7/-1
-statued	7/8A7/-5
-statuses	7/8A7/-1/-1
-statute	7/8A7/-7
-statutes	7/8A7/-7/-1
-steadied	7/8E5/-5
-steadied	7/8E3/-5
-steadied	7/8E5/-3/-5
-steadies	7/8E3/-1
-steadies	7/8E5/-3/-1
-steadily	7/8E5/-4/-3
-steading	7/8E5/-2
-steadings	7/8E5/-2/-1
-stead	7/8E5
-steadying	7/8E3/-2
-steadying	7/8E5/-3/-2
-steady	7/8E3
-steady	7/8E5/-3
-stellar	7/8E4/-8
-sterile	7/8E8/-4
-sterling	7/8E8/-4/-2
-stern	7/8E8/-6
-sternly	7/8E8/-6/-4/-3
-sterns	7/8E8/-6/-1
-stertorous	7/8E8/-7/-8/-1
-stertorously	7/8E8/-7/-8/-1/-4/-3
-stilettoed	7/8/5E7/-5
-stilettoing	7/8/5E7/-2
-stilettos	7/8/5E7/-1
-stolid	7/8O4/-5
-stolidly	7/8O4/-5/-4/-3
-stored	7/8O8/-5
-store	7/8O8
-stores	7/8O8/-1
-storeyed	7/8O8/-3/-5
-storey	7/8O8/-3
-storeys	7/8O8/-3/-1
-storing	7/8O8/-2
-straddled	7/8/1A5/-4/-5
-straddles	7/8/1A5/-4/-1
-straddle	7/8/1A5/-4
-straddling	7/8/1A5/-4/-2
-stranded	7/8/1A6/-5/-5
-stranding	7/8/1A6/-5/-2
-strand	7/8/1A6/-5
-strands	7/8/1A6/-5/-1
-strangled	7/8/1A2/-4/-5
-strangles	7/8/1A2/-4/-1
-strangle	7/8/1A2/-4
-stranglings	7/8/1A2/-4/-2/-1
-strangling	7/8/1A2/-4/-2
-strangulate	7/8/1A2/-4/-7
-stratus	7/8/1A7/-1
-strong	7/8/1O2
-strongly	7/8/1O2/-4/-3
-strung	7/8/1U2
-strut	7/8/1U7
-struts	7/8/1U7/-1
-strutted	7/8/1U7/-5
-struttingly	7/8/1U7/-2/-4/-3
-strutting	7/8/1U7/-2
-studded	7/8U5/-5
-studding	7/8U5/-2
-studiedly	7/8U5/-5/-4/-3
-studied	7/8U3/-5
-studied	7/8U5/-3/-5
-studies	7/8U3/-1
-studies	7/8U5/-3/-1
-stud	7/8U5
-studs	7/8U5/-1
-studying	7/8U3/-2
-studying	7/8U5/-3/-2
-study	7/8U3
-study	7/8U5/-3
-stung	7/8U2
-stunned	7/8U6/-5
-stunning	7/8U6/-2
-stunningly	7/8U6/-2/-4/-3
-stun	7/8U6
-stuns	7/8U6/-1
-stunted	7/8U6/-7/-5
-stunting	7/8U6/-7/-2
-stunt	7/8U6/-7
-stunts	7/8U6/-7/-1
-stupendous	7/8/4E6/-5/-1
-stupendously	7/8/4E6/-5/-1/-4/-3
-sturdily	7/8U8/-5/-4/-3
-sturdy	7/8U8/-3
-sturdy	7/8U8/-5/-3
-stuttered	7/8U7/-8/-5
-stutteringly	7/8U7/-8/-2/-4/-3
-stuttering	7/8U7/-8/-2
-stutters	7/8U7/-8/-1
-stutter	7/8U7/-8
-subordinate	7/3O8/-5/-6/-7
-subordinately	7/3O8/-5/-6/-7/-4/-3
-subordinates	7/3O8/-5/-6/-7/-1
-suborned	7/3O8/-6/-5
-suborning	7/3O8/-6/-2
-suborns	7/3O8/-6/-1
-suborn	7/3O8/-6
-sudden	7U5/-6
-suddenly	7U5/-6/-4/-3
-sudd	7U5
-suds	7U5/-1
-sudsy	7U5/-1/-3
-sullen	7U4/-6
-sullenly	7U4/-6/-4/-3
-sullied	7U4/-5
-sullied	7U4/-3/-5
-sullies	7U4/-3/-1
-sullying	7U4/-2
-sullying	7U4/-3/-2
-sully	7U4/-3
-sultanas	7/5/8A6/-1
-sultan	7U4/-7/-6
-sultans	7U4/-7/-6/-1
-sultrily	7U4/-7/-8/-4/-3
-sultry	7U4/-7/-8/-3
-sundered	7U6/-5/-8/-5
-sundering	7U6/-5/-8/-2
-sunders	7U6/-5/-8/-1
-sunder	7U6/-5/-8
-sundries	7U6/-5/-8/-3/-1
-sundry	7U6/-5/-8/-3
-sung	7U2
-sunned	7U6/-5
-sunning	7U6/-2
-sun	7U6
-sunny	7U6/-3
-suns	7U6/-1
-supplanted	7/4/5A6/-7/-5
-supplanting	7/4/5A6/-7/-2
-supplants	7/4/5A6/-7/-1
-supplant	7/4/5A6/-7
-surd	7U8/-5
-surlily	7U8/-4/-4/-3
-surly	7U8/-4/-3
-surrendered	7/1E6/-5/-8/-5
-surrendering	7/1E6/-5/-8/-2
-surrenders	7/1E6/-5/-8/-1
-surrender	7/1E6/-5/-8
-suspended	7/7/4E6/-5/-5
-suspending	7/7/4E6/-5/-2
-suspends	7/7/4E6/-5/-1
-suspend	7/7/4E6/-5
-sword	7O8/-5
-swords	7O8/-5/-1
-tad	8A5
-talented	8A4/-6/-7/-5
-talent	8A4/-6/-7
-talents	8A4/-6/-7/-1
-tallied	8A4/-5
-tallied	8A4/-3/-5
-tallies	8A4/-3/-1
-tallyings	8A4/-2/-1
-tallyings	8A4/-3/-2/-1
-tallying	8A4/-2
-tallying	8A4/-3/-2
-tally	8A4/-3
-talon	8A4/-6
-talons	8A4/-6/-1
-tangled	8A2/-4/-5
-tangle	8A2/-4
-tangles	8A2/-4/-1
-tanglingly	8A2/-4/-2/-4/-3
-tangling	8A2/-4/-2
-tangly	8A2/-4/-3
-tang	8A2
-tangoed	8A2/-5
-tangoing	8A2/-2
-tangos	8A2/-1
-tangy	8A2/-3
-tan	8A6
-tanned	8A6/-5
-tanning	8A6/-2
-tannin	8A6/-6
-tannins	8A6/-6/-1
-ta	8A
-tans	8A6/-1
-tarantulas	8/1A6/-7/-4/-1
-tardily	8A8/-5/-4/-3
-tarry	8A8/-3
-tardy	8A8/-5/-3
-tar	8A8
-tarred	8A8/-5
-tarried	8A8/-3/-5
-tarries	8A8/-3/-1
-tarring	8A8/-2
-tarryings	8A8/-2/-1
-tarryings	8A8/-3/-2/-1
-tarrying	8A8/-3/-2
-tars	8A8/-1
-tartaned	8A8/-7/-6/-5
-tartan	8A8/-7/-6
-tartans	8A8/-7/-6/-1
-tartar	8A8/-7/-8
-tartars	8A8/-7/-8/-1
-tarted	8A8/-7/-5
-tarting	8A8/-7/-2
-tart	8A8/-7
-tartly	8A8/-7/-4/-3
-tarts	8A8/-7/-1
-tarty	8A8/-7/-3
-tat	8A7
-tats	8A7/-1
-tatted	8A7/-5
-tattered	8A7/-8/-5
-tatter	8A7/-8
-tatters	8A7/-8/-1
-tatting	8A7/-2
-tattled	8A7/-4/-5
-tattle	8A7/-4
-tattles	8A7/-4/-1
-tattlingly	8A7/-4/-2/-4/-3
-tattlings	8A7/-4/-2/-1
-tattling	8A7/-4/-2
-tatty	8A7/-3
-teddies	8E3/-1
-teddies	8E5/-3/-1
-teddy	8E3
-teddy	8E5/-3
-ted	8E5
-tellies	8E4/-3/-1
-tellingly	8E4/-2/-4/-3
-tellings	8E4/-2/-1
-telling	8E4/-2
-tells	8E4/-1
-tell	8E4
-telly	8E4/-3
-telnet	8E4/-6/-7
-telnets	8E4/-6/-7/-1
-tenanted	8E6/-6/-7/-5
-tenant	8E6/-6/-7
-tenants	8E6/-6/-7/-1
-ten	8E6
-tended	8E6/-5/-5
-tendered	8E6/-5/-8/-5
-tendering	8E6/-5/-8/-2
-tenderly	8E6/-5/-8/-4/-3
-tender	8E6/-5/-8
-tenders	8E6/-5/-8/-1
-tending	8E6/-5/-2
-tendon	8E6/-5/-6
-tendons	8E6/-5/-6/-1
-tendrilled	8E6/-5/-8/-4/-5
-tendril	8E6/-5/-8/-4
-tendrils	8E6/-5/-8/-4/-1
-tends	8E6/-5/-1
-tend	8E6/-5
-tent	8E6/-7
-tents	8E6/-7/-1
-tens	8E6/-1
-tenon	8E6/-6
-tenons	8E6/-6/-1
-tenor	8E6/-8
-tenors	8E6/-8/-1
-tensed	8E6/-1/-5
-tenses	8E6/-1/-1
-tensile	8E6/-1/-4
-tensing	8E6/-1/-2
-tented	8E6/-7/-5
-ternal	8E8/-6/-4
-ternary	8E8/-6/-8/-3
-tern	8E8/-6
-terns	8E8/-6/-1
-terries	8E8/-3/-1
-terror	8E8/-8
-terrors	8E8/-8/-1
-terry	8E8/-3
-terylene	8E8/-4/-6
-tetanus	8E7/-6/-1
-tete	8E7
-tetrad	8E7/-8/-5
-to	8O
-toddies	8O3/-1
-toddies	8O5/-3/-1
-toddled	8O5/-4/-5
-toddles	8O5/-4/-1
-toddle	8O5/-4
-toddling	8O5/-4/-2
-toddy	8O3
-toddy	8O5/-3
-tod	8O5
-tolerant	8O4/-8/-6/-7
-tolerantly	8O4/-8/-6/-7/-4/-3
-tolerates	8O4/-8/-7/-1
-tolerate	8O4/-8/-7
-tongs	8O2/-1
-tongued	8O2/-5
-tongue	8O2
-tonguey	8O2/-3
-tonne	8O6
-tonnes	8O6/-1
-tonsil	8O6/-1/-4
-tonsils	8O6/-1/-4/-1
-tonsor	8O6/-1/-8
-tore	8O8
-torrent	8O8/-6/-7
-torrents	8O8/-6/-7/-1
-torrid	8O8/-5
-torridly	8O8/-5/-4/-3
-tors	8O8/-1
-torsos	8O8/-1/-1
-tort	8O8/-7
-tortoises	8O8/-7/-1/-1
-torts	8O8/-7/-1
-totality	8/8A4/-7
-tot	8O7
-tots	8O7/-1
-totted	8O7/-5
-tottered	8O7/-8/-5
-tottering	8O7/-8/-2
-totteringly	8O7/-8/-2/-4/-3
-totters	8O7/-8/-1
-totter	8O7/-8
-totting	8O7/-2
-trad	8/1A5
-treading	8/1E5/-2
-treadle	8/1E5/-4
-treadles	8/1E5/-4/-1
-tread	8/1E5
-treads	8/1E5/-1
-trellised	8/1E4/-1/-5
-trellises	8/1E4/-1/-1
-trellising	8/1E4/-1/-2
-trellis	8/1E4/-1
-trendies	8/1E6/-3/-1
-trendies	8/1E6/-5/-3/-1
-trending	8/1E6/-5/-2
-trend	8/1E6/-5
-trends	8/1E6/-5/-1
-trendy	8/1E6/-3
-trendy	8/1E6/-5/-3
-trepanned	8/1/4A6/-5
-trepanning	8/1/4A6/-2
-trepannings	8/1/4A6/-2/-1
-trepan	8/1/4A6
-tripartite	8/1/4A8/-7/-7
-tripartitely	8/1/4A8/-7/-7/-4/-3
-trod	8/1O5
-trolley	8/1O4/-3
-trolleys	8/1O4/-1
-trolleys	8/1O4/-3/-1
-tron	8/1O6
-trot	8/1O7
-trots	8/1O7/-1
-trotted	8/1O7/-5
-trotting	8/1O7/-2
-trotty	8/1O7/-3
-trundled	8/1U6/-5/-4/-5
-trundle	8/1U6/-5/-4
-trundles	8/1U6/-5/-4/-1
-trundling	8/1U6/-5/-4/-2
-tundras	8U6/-5/-8/-1
-tungsten	8U2/-1/-7/-6
-tunneled	8U6/-4/-5
-tunnelings	8U6/-4/-2/-1
-tunneling	8U6/-4/-2
-tunnel	8U6/-4
-tunnels	8U6/-4/-1
-tunnies	8U6/-3/-1
-tun	8U6
-tunny	8U6/-3
-tuns	8U6/-1
-turd	8U8/-5
-turds	8U8/-5/-1
-turned	8U8/-6/-5
-turnings	8U8/-6/-2/-1
-turning	8U8/-6/-2
-turns	8U8/-6/-1
-turn	8U8/-6
-turreted	8U8/-7/-5
-turret	8U8/-7
-turrets	8U8/-7/-1
-turtle	8U8/-7/-4
-turtles	8U8/-7/-4/-1
-turtling	8U8/-7/-4/-2
-tut	8U7
-tutsi	8U7/-1/-3
-tuts	8U7/-1
-tutted	8U7/-5
-tutting	8U7/-2
-udder	U5/-8
-udders	U5/-8/-1
-ulnas	U4/-6/-1
-ultras	U4/-7/-8/-1
-ululate	U4/-4/-7
-under	U6/-5/-8
-underling	U6/-5/-8/-4/-2
-underlings	U6/-5/-8/-4/-2/-1
-undulant	U6/-5/-4/-6/-7
-undulates	U6/-5/-4/-7/-1
-undulate	U6/-5/-4/-7
-urn	U8/-6
-urns	U8/-6/-1
-ut	U7
-uttered	U7/-8/-5
-uttering	U7/-8/-2
-utter	U7/-8
-utterly	U7/-8/-4/-3
-utters	U7/-8/-1
+a	A | A
+added	AD/-D | A5/-5
+adder	AD/-R | A5/-8
+adders	AD/-R/-SS | A5/-8/-1
+adding	AD/-NG | A5/-2
+addled	AD/-L/-D | A5/-4/-5
+addles	AD/-L/-SS | A5/-4/-1
+addle	AD/-L | A5/-4
+addling	AD/-L/-NG | A5/-4/-2
+adds	AD/-SS | A5/-1
+add	AD | A5
+adulates	AD/-L/-T/-SS | A5/-4/-7/-1
+adulate	AD/-L/-T | A5/-4/-7
+alan	AL/-N | A4/-6
+allans	AL/-N/-SS | A4/-6/-1
+alley	AL/-Y | A4/-3
+alleys	AL/-SS | A4/-1
+alleys	AL/-Y/-SS | A4/-3/-1
+allied	AL/-D | A4/-5
+alloying	AL/-Y/-NG | A4/-3/-2
+alt	AL/-T | A4/-7
+altos	AL/-T/-SS | A4/-7/-1
+altruist	AL/-T/-R/-SS/-T | A4/-7/-8/-1/-7
+altruists	AL/-T/-R/-SS/-T/-SS | A4/-7/-8/-1/-7/-1
+an	AN | A6
+analyst	AN/-L/-SS/-T | A6/-4/-1/-7
+analyst	AN/-L/-Y/-SS/-T | A6/-4/-3/-1/-7
+analysts	AN/-L/-SS/-T/-SS | A6/-4/-1/-7/-1
+analysts	AN/-L/-Y/-SS/-T/-SS | A6/-4/-3/-1/-7/-1
+and	AN/-D | A6/-5
+ands	AN/-D/-SS | A6/-5/-1
+angered	ANG/-R/-D | A2/-8/-5
+angering	ANG/-R/-NG | A2/-8/-2
+anger	ANG/-R | A2/-8
+angers	ANG/-R/-SS | A2/-8/-1
+angled	ANG/-L/-D | A2/-4/-5
+angle	ANG/-L | A2/-4
+angles	ANG/-L/-SS | A2/-4/-1
+angling	ANG/-L/-NG | A2/-4/-2
+angrily	ANG/-R/-L/-Y | A2/-8/-4/-3
+angry	ANG/-R/-Y | A2/-8/-3
+angst	ANG/-SS/-T | A2/-1/-7
+angsts	ANG/-SS/-T/-SS | A2/-1/-7/-1
+angular	ANG/-L/-R | A2/-4/-8
+angus	ANG/-SS | A2/-1
+aniline	AN/-L/-N | A6/-4/-6
+annal	AN/-L | A6/-4
+annals	AN/-L/-SS | A6/-4/-1
+annotates	AN/-T/-T/-SS | A6/-7/-7/-1
+annotate	AN/-T/-T | A6/-7/-7
+annually	AN/-L/-Y | A6/-4/-3
+annular	AN/-L/-R | A6/-4/-8
+annulated	AN/-L/-T/-D | A6/-4/-7/-5
+annulate	AN/-L/-T | A6/-4/-7
+annus	AN/-SS | A6/-1
+anodyne	AN/-D/-N | A6/-5/-6
+anteing	AN/-T/-NG | A6/-7/-2
+antidote	AN/-T/-D/-T | A6/-7/-5/-7
+antidotes	AN/-T/-D/-T/-SS | A6/-7/-5/-7/-1
+antiing	AN/-T/-Y/-NG | A6/-7/-3/-2
+anti	AN/-T/-Y | A6/-7/-3
+ants	AN/-T/-SS | A6/-7/-1
+antis	AN/-T/-Y/-SS | A6/-7/-3/-1
+antlered	AN/-T/-L/-R/-D | A6/-7/-4/-8/-5
+antler	AN/-T/-L/-R | A6/-7/-4/-8
+antlers	AN/-T/-L/-R/-SS | A6/-7/-4/-8/-1
+ant	AN/-T | A6/-7
+any	AN/-Y | A6/-3
+ardent	AR/-D/-N/-T | A8/-5/-6/-7
+ardently	AR/-D/-N/-T/-L/-Y | A8/-5/-6/-7/-4/-3
+ardor	AR/-D/-R | A8/-5/-8
+ardours	AR/-D/-R/-SS | A8/-5/-8/-1
+are	AR | A8
+arid	AR/-D | A8/-5
+aridly	AR/-D/-L/-Y | A8/-5/-4/-3
+arrant	AR/-N/-T | A8/-6/-7
+arras	AR/-SS | A8/-1
+arsenal	AR/-SS/-N/-L | A8/-1/-6/-4
+arsenals	AR/-SS/-N/-L/-SS | A8/-1/-6/-4/-1
+arsenate	AR/-SS/-N/-T | A8/-1/-6/-7
+arsenide	AR/-SS/-N/-D | A8/-1/-6/-5
+arteries	AR/-T/-R/-Y/-SS | A8/-7/-8/-3/-1
+artery	AR/-T/-R/-Y | A8/-7/-8/-3
+art	AR/-T | A8/-7
+arts	AR/-T/-SS | A8/-7/-1
+arty	AR/-T/-Y | A8/-7/-3
+at	AT | A7
+atlases	AT/-L/-SS/-SS | A7/-4/-1/-1
+atlas	AT/-L/-SS | A7/-4/-1
+atoll	AT/-L | A7/-4
+attar	AT/-R | A7/-8
+baddie	BAD/-Y | 3A5/-3
+baddies	BAD/-Y/-SS | 3A5/-3/-1
+bade	BAD | 3A5
+badly	BAD/-L/-Y | 3A5/-4/-3
+ballad	BAL/-D | 3A4/-5
+ballads	BAL/-D/-SS | 3A4/-5/-1
+ballasted	BAL/-SS/-T/-D | 3A4/-1/-7/-5
+ballast	BAL/-SS/-T | 3A4/-1/-7
+ballasts	BAL/-SS/-T/-SS | 3A4/-1/-7/-1
+balloted	BAL/-T/-D | 3A4/-7/-5
+ballotings	BAL/-T/-NG/-SS | 3A4/-7/-2/-1
+balloting	BAL/-T/-NG | 3A4/-7/-2
+ballot	BAL/-T | 3A4/-7
+ballots	BAL/-T/-SS | 3A4/-7/-1
+bally	BAL/-Y | 3A4/-3
+bal	BAL | 3A4
+baluster	BAL/-SS/-T/-R | 3A4/-1/-7/-8
+balusters	BAL/-SS/-T/-R/-SS | 3A4/-1/-7/-8/-1
+banded	BAN/-D/-D | 3A6/-5/-5
+bandied	BAN/-D/-Y/-D | 3A6/-5/-3/-5
+bandies	BAN/-D/-Y/-SS | 3A6/-5/-3/-1
+banding	BAN/-D/-NG | 3A6/-5/-2
+bandit	BAN/-D/-T | 3A6/-5/-7
+bandits	BAN/-D/-T/-SS | 3A6/-5/-7/-1
+bandler	BAN/-D/-L/-R | 3A6/-5/-4/-8
+band	BAN/-D | 3A6/-5
+bands	BAN/-D/-SS | 3A6/-5/-1
+bandying	BAN/-D/-Y/-NG | 3A6/-5/-3/-2
+bandy	BAN/-D/-Y | 3A6/-5/-3
+banged	BANG/-D | 3A2/-5
+bangings	BANG/-NG/-SS | 3A2/-2/-1
+banging	BANG/-NG | 3A2/-2
+bangle	BANG/-L | 3A2/-4
+bangles	BANG/-L/-SS | 3A2/-4/-1
+bang	BANG | 3A2
+bangs	BANG/-SS | 3A2/-1
+banister	BAN/-SS/-T/-R | 3A6/-1/-7/-8
+banisters	BAN/-SS/-T/-R/-SS | 3A6/-1/-7/-8/-1
+bannered	BAN/-R/-D | 3A6/-8/-5
+banner	BAN/-R | 3A6/-8
+banners	BAN/-R/-SS | 3A6/-8/-1
+bannings	BAN/-NG/-SS | 3A6/-2/-1
+banning	BAN/-NG | 3A6/-2
+ban	BAN | 3A6
+ba	BA | 3A
+bans	BAN/-SS | 3A6/-1
+bantered	BAN/-T/-R/-D | 3A6/-7/-8/-5
+banteringly	BAN/-T/-R/-NG/-L/-Y | 3A6/-7/-8/-2/-4/-3
+bantering	BAN/-T/-R/-NG | 3A6/-7/-8/-2
+banter	BAN/-T/-R | 3A6/-7/-8
+banters	BAN/-T/-R/-SS | 3A6/-7/-8/-1
+bant	BAN/-T | 3A6/-7
+barbarities	B/R/BAR/-T/-Y/-SS | 3/1/3A8/-7/-3/-1
+barbarity	B/R/BAR/-T/-Y | 3/1/3A8/-7/-3
+bard	BAR/-D | 3A8/-5
+bards	BAR/-D/-SS | 3A8/-5/-1
+baritone	BAR/-T/-N | 3A8/-7/-6
+baritones	BAR/-T/-N/-SS | 3A8/-7/-6/-1
+barley	BAR/-L/-Y | 3A8/-4/-3
+barns	BAR/-N/-SS | 3A8/-6/-1
+barneys	BAR/-N/-Y/-SS | 3A8/-6/-3/-1
+barn	BAR/-N | 3A8/-6
+bar	BAR | 3A8
+barony	BAR/-N/-Y | 3A8/-6/-3
+barreled	BAR/-L/-D | 3A8/-4/-5
+barreling	BAR/-L/-NG | 3A8/-4/-2
+barrel	BAR/-L | 3A8/-4
+barrels	BAR/-L/-SS | 3A8/-4/-1
+barrenly	BAR/-N/-L/-Y | 3A8/-6/-4/-3
+barret	BAR/-T | 3A8/-7
+barrette	B/RET | 3/1E7
+barrettes	B/RET/-SS | 3/1E7/-1
+barring	BAR/-NG | 3A8/-2
+barrister	BAR/-SS/-T/-R | 3A8/-1/-7/-8
+barristers	BAR/-SS/-T/-R/-SS | 3A8/-1/-7/-8/-1
+barry	BAR/-Y | 3A8/-3
+bars	BAR/-SS | 3A8/-1
+bartered	BAR/-T/-R/-D | 3A8/-7/-8/-5
+bartering	BAR/-T/-R/-NG | 3A8/-7/-8/-2
+barter	BAR/-T/-R | 3A8/-7/-8
+barters	BAR/-T/-R/-SS | 3A8/-7/-8/-1
+bat	BAT | 3A7
+bats	BAT/-SS | 3A7/-1
+batted	BAT/-D | 3A7/-5
+battels	BAT/-L/-SS | 3A7/-4/-1
+battel	BAT/-L | 3A7/-4
+battening	BAT/-N/-NG | 3A7/-6/-2
+batten	BAT/-N | 3A7/-6
+battens	BAT/-N/-SS | 3A7/-6/-1
+battered	BAT/-R/-D | 3A7/-8/-5
+batteried	BAT/-R/-Y/-D | 3A7/-8/-3/-5
+batterie	BAT/-R/-Y | 3A7/-8/-3
+batteries	BAT/-R/-Y/-SS | 3A7/-8/-3/-1
+batterings	BAT/-R/-NG/-SS | 3A7/-8/-2/-1
+battering	BAT/-R/-NG | 3A7/-8/-2
+batter	BAT/-R | 3A7/-8
+batting	BAT/-NG | 3A7/-2
+battled	BAT/-L/-D | 3A7/-4/-5
+battling	BAT/-L/-NG | 3A7/-4/-2
+batty	BAT/-Y | 3A7/-3
+bedded	BED/-D | 3E5/-5
+bedding	BED/-NG | 3E5/-2
+bed	BED | 3E5
+beds	BED/-SS | 3E5/-1
+bell	BEL | 3E4
+bells	BEL/-SS | 3E4/-1
+bellied	BEL/-D | 3E4/-5
+bellied	BEL/-Y/-D | 3E4/-3/-5
+bellies	BEL/-Y/-SS | 3E4/-3/-1
+bellyings	BEL/-NG/-SS | 3E4/-2/-1
+bellyings	BEL/-Y/-NG/-SS | 3E4/-3/-2/-1
+belly	BEL/-Y | 3E4/-3
+belonged	B/LONG/-D | 3/5O2/-5
+belongings	B/LONG/-NG/-SS | 3/5O2/-2/-1
+belonging	B/LONG/-NG | 3/5O2/-2
+belongs	B/LONG/-SS | 3/5O2/-1
+belong	B/LONG | 3/5O2
+beltane	BEL/-T/-N | 3E4/-7/-6
+belted	BEL/-T/-D | 3E4/-7/-5
+beltings	BEL/-T/-NG/-SS | 3E4/-7/-2/-1
+belting	BEL/-T/-NG | 3E4/-7/-2
+belt	BEL/-T | 3E4/-7
+belts	BEL/-T/-SS | 3E4/-7/-1
+bended	BEN/-D/-D | 3E6/-5/-5
+bendingly	BEN/-D/-NG/-L/-Y | 3E6/-5/-2/-4/-3
+bending	BEN/-D/-NG | 3E6/-5/-2
+bend	BEN/-D | 3E6/-5
+bends	BEN/-D/-SS | 3E6/-5/-1
+bendy	BEN/-D/-Y | 3E6/-5/-3
+ben	BEN | 3E6
+bents	BEN/-T/-SS | 3E6/-7/-1
+bent	BEN/-T | 3E6/-7
+bern	BER/-N | 3E8/-6
+berries	BER/-Y/-SS | 3E8/-3/-1
+berry	BER/-Y | 3E8/-3
+bet	BET | 3E7
+betony	BET/-N/-Y | 3E7/-6/-3
+bets	BET/-SS | 3E7/-1
+betted	BET/-D | 3E7/-5
+better	BET/-R | 3E7/-8
+bettered	BET/-R/-D | 3E7/-8/-5
+bettering	BET/-R/-NG | 3E7/-8/-2
+betters	BET/-R/-SS | 3E7/-8/-1
+betting	BET/-NG | 3E7/-2
+bipartite	B/PAR/-T/-T | 3/4A8/-7/-7
+bladdered	B/LAD/-R/-D | 3/5A5/-8/-5
+bladder	B/LAD/-R | 3/5A5/-8
+bladders	B/LAD/-R/-SS | 3/5A5/-8/-1
+bladdery	B/LAD/-R/-Y | 3/5A5/-8/-3
+bland	B/LAN/-D | 3/5A6/-5
+blandly	B/LAN/-D/-L/-Y | 3/5A6/-5/-4/-3
+blarneying	B/LAR/-N/-NG | 3/5A8/-6/-2
+blarneying	B/LAR/-N/-Y/-NG | 3/5A8/-6/-3/-2
+blarney	B/LAR/-N/-Y | 3/5A8/-6/-3
+bled	B/LED | 3/5E5
+blended	B/LEN/-D/-D | 3/5E6/-5/-5
+blendings	B/LEN/-D/-NG/-SS | 3/5E6/-5/-2/-1
+blending	B/LEN/-D/-NG | 3/5E6/-5/-2
+blend	B/LEN/-D | 3/5E6/-5
+blends	B/LEN/-D/-SS | 3/5E6/-5/-1
+blent	B/LEN/-T | 3/5E6/-7
+blonde	B/LON/-D | 3/5O6/-5
+blondes	B/LON/-D/-SS | 3/5O6/-5/-1
+blot	B/LOT | 3/5O7
+blots	B/LOT/-SS | 3/5O7/-1
+blotted	B/LOT/-D | 3/5O7/-5
+blotting	B/LOT/-NG | 3/5O7/-2
+blotty	B/LOT/-Y | 3/5O7/-3
+blundered	B/LUN/-D/-R/-D | 3/5U6/-5/-8/-5
+blunderingly	B/LUN/-D/-R/-NG/-L/-Y | 3/5U6/-5/-8/-2/-4/-3
+blunderings	B/LUN/-D/-R/-NG/-SS | 3/5U6/-5/-8/-2/-1
+blundering	B/LUN/-D/-R/-NG | 3/5U6/-5/-8/-2
+blunder	B/LUN/-D/-R | 3/5U6/-5/-8
+blunders	B/LUN/-D/-R/-SS | 3/5U6/-5/-8/-1
+blunted	B/LUN/-T/-D | 3/5U6/-7/-5
+blunting	B/LUN/-T/-NG | 3/5U6/-7/-2
+bluntly	B/LUN/-T/-L/-Y | 3/5U6/-7/-4/-3
+blunts	B/LUN/-T/-SS | 3/5U6/-7/-1
+blunt	B/LUN/-T | 3/5U6/-7
+blur	B/LUR | 3/5U8
+blurred	B/LUR/-D | 3/5U8/-5
+blurring	B/LUR/-NG | 3/5U8/-2
+blurry	B/LUR/-Y | 3/5U8/-3
+blurs	B/LUR/-SS | 3/5U8/-1
+blurted	B/LUR/-T/-D | 3/5U8/-7/-5
+blurting	B/LUR/-T/-NG | 3/5U8/-7/-2
+blurts	B/LUR/-T/-SS | 3/5U8/-7/-1
+blurt	B/LUR/-T | 3/5U8/-7
+bodied	BOD/-D | 3O5/-5
+bodies	BOD/-Y/-SS | 3O5/-3/-1
+bodily	BOD/-L/-Y | 3O5/-4/-3
+bod	BOD | 3O5
+bods	BOD/-SS | 3O5/-1
+body	BOD/-Y | 3O5/-3
+bollard	BOL/-R/-D | 3O4/-8/-5
+bollards	BOL/-R/-D/-SS | 3O4/-8/-5/-1
+bonded	BON/-D/-D | 3O6/-5/-5
+bondings	BON/-D/-NG/-SS | 3O6/-5/-2/-1
+bonding	BON/-D/-NG | 3O6/-5/-2
+bond	BON/-D | 3O6/-5
+bonds	BON/-D/-SS | 3O6/-5/-1
+bonged	BONG/-D | 3O2/-5
+bong	BONG | 3O2
+bongs	BONG/-SS | 3O2/-1
+bonneted	BON/-T/-D | 3O6/-7/-5
+bonnet	BON/-T | 3O6/-7
+bonnets	BON/-T/-SS | 3O6/-7/-1
+bonnily	BON/-L/-Y | 3O6/-4/-3
+bon	BON | 3O6
+bonny	BON/-Y | 3O6/-3
+borate	BOR/-T | 3O8/-7
+borates	BOR/-T/-SS | 3O8/-7/-1
+bordellos	B/R/DEL/-SS | 3/1/6E4/-1
+bordered	BOR/-D/-R/-D | 3O8/-5/-8/-5
+bordering	BOR/-D/-R/-NG | 3O8/-5/-8/-2
+border	BOR/-D/-R | 3O8/-5/-8
+borders	BOR/-D/-R/-SS | 3O8/-5/-8/-1
+boreal	BOR/-L | 3O8/-4
+bored	BOR/-D | 3O8/-5
+bores	BOR/-SS | 3O8/-1
+bore	BOR | 3O8
+boring	BOR/-NG | 3O8/-2
+boringly	BOR/-NG/-L/-Y | 3O8/-2/-4/-3
+borings	BOR/-NG/-SS | 3O8/-2/-1
+borne	BOR/-N | 3O8/-6
+bornes	BOR/-N/-SS | 3O8/-6/-1
+borstal	BOR/-SS/-T/-L | 3O8/-1/-7/-4
+borstals	BOR/-SS/-T/-L/-SS | 3O8/-1/-7/-4/-1
+botanies	BOT/-N/-Y/-SS | 3O7/-6/-3/-1
+botanist	BOT/-N/-SS/-T | 3O7/-6/-1/-7
+botanists	BOT/-N/-SS/-T/-SS | 3O7/-6/-1/-7/-1
+botany	BOT/-N/-Y | 3O7/-6/-3
+bottled	BOT/-L/-D | 3O7/-4/-5
+bottle	BOT/-L | 3O7/-4
+bottles	BOT/-L/-SS | 3O7/-4/-1
+bottling	BOT/-L/-NG | 3O7/-4/-2
+bottlings	BOT/-L/-NG/-SS | 3O7/-4/-2/-1
+botulin	BOT/-L/-N | 3O7/-4/-6
+branded	B/RAN/-D/-D | 3/1A6/-5/-5
+brandies	B/RAN/-D/-Y/-SS | 3/1A6/-5/-3/-1
+brandings	B/RAN/-D/-NG/-SS | 3/1A6/-5/-2/-1
+branding	B/RAN/-D/-NG | 3/1A6/-5/-2
+brand	B/RAN/-D | 3/1A6/-5
+brands	B/RAN/-D/-SS | 3/1A6/-5/-1
+brandy	B/RAN/-D/-Y | 3/1A6/-5/-3
+bra	B/RA | 3/1A
+bran	B/RAN | 3/1A6
+bras	B/RASS | 3/1A1
+brat	B/RAT | 3/1A7
+brats	B/RAT/-SS | 3/1A7/-1
+brattle	B/RAT/-L | 3/1A7/-4
+bratty	B/RAT/-Y | 3/1A7/-3
+bread	B/RED | 3/1E5
+breads	B/RED/-SS | 3/1E5/-1
+brollies	B/ROL/-Y/-SS | 3/1O4/-3/-1
+brolly	B/ROL/-Y | 3/1O4/-3
+brunt	B/RUN/-T | 3/1U6/-7
+brunts	B/RUN/-T/-SS | 3/1U6/-7/-1
+budded	BUD/-D | 3U5/-5
+buddies	BUD/-Y/-SS | 3U5/-3/-1
+budding	BUD/-NG | 3U5/-2
+buddist	BUD/-SS/-T | 3U5/-1/-7
+buddists	BUD/-SS/-T/-SS | 3U5/-1/-7/-1
+buddy	BUD/-Y | 3U5/-3
+bud	BUD | 3U5
+buds	BUD/-SS | 3U5/-1
+bulleted	BUL/-T/-D | 3U4/-7/-5
+bulletin	BUL/-T/-N | 3U4/-7/-6
+bulletins	BUL/-T/-N/-SS | 3U4/-7/-6/-1
+bullet	BUL/-T | 3U4/-7
+bullets	BUL/-T/-SS | 3U4/-7/-1
+bullied	BUL/-D | 3U4/-5
+bullied	BUL/-Y/-D | 3U4/-3/-5
+bullies	BUL/-Y/-SS | 3U4/-3/-1
+bull	BUL | 3U4
+bulls	BUL/-SS | 3U4/-1
+bullying	BUL/-NG | 3U4/-2
+bullying	BUL/-Y/-NG | 3U4/-3/-2
+bully	BUL/-Y | 3U4/-3
+bund	BUN/-D | 3U6/-5
+bundled	BUN/-D/-L/-D | 3U6/-5/-4/-5
+bundle	BUN/-D/-L | 3U6/-5/-4
+bundles	BUN/-D/-L/-SS | 3U6/-5/-4/-1
+bundling	BUN/-D/-L/-NG | 3U6/-5/-4/-2
+bunds	BUN/-D/-SS | 3U6/-5/-1
+bunged	BUNG/-D | 3U2/-5
+bunging	BUNG/-NG | 3U2/-2
+bungled	BUNG/-L/-D | 3U2/-4/-5
+bungle	BUNG/-L | 3U2/-4
+bungles	BUNG/-L/-SS | 3U2/-4/-1
+bunglingly	BUNG/-L/-NG/-L/-Y | 3U2/-4/-2/-4/-3
+bungling	BUNG/-L/-NG | 3U2/-4/-2
+bung	BUNG | 3U2
+bungs	BUNG/-SS | 3U2/-1
+bunnies	BUN/-Y/-SS | 3U6/-3/-1
+bun	BUN | 3U6
+bunny	BUN/-Y | 3U6/-3
+buns	BUN/-SS | 3U6/-1
+bunting	BUN/-T/-NG | 3U6/-7/-2
+bunt	BUN/-T | 3U6/-7
+burdened	BUR/-D/-N/-D | 3U8/-5/-6/-5
+burdening	BUR/-D/-N/-NG | 3U8/-5/-6/-2
+burden	BUR/-D/-N | 3U8/-5/-6
+burdens	BUR/-D/-N/-SS | 3U8/-5/-6/-1
+buried	BUR/-D | 3U8/-5
+buried	BUR/-Y/-D | 3U8/-3/-5
+buries	BUR/-Y/-SS | 3U8/-3/-1
+burly	BUR/-L/-Y | 3U8/-4/-3
+burl	BUR/-L | 3U8/-4
+burned	BUR/-N/-D | 3U8/-6/-5
+burney	BUR/-N/-Y | 3U8/-6/-3
+burningly	BUR/-N/-NG/-L/-Y | 3U8/-6/-2/-4/-3
+burnings	BUR/-N/-NG/-SS | 3U8/-6/-2/-1
+burning	BUR/-N/-NG | 3U8/-6/-2
+burns	BUR/-N/-SS | 3U8/-6/-1
+burn	BUR/-N | 3U8/-6
+burr	BUR | 3U8
+burrs	BUR/-SS | 3U8/-1
+bursaries	BUR/-SS/-R/-Y/-SS | 3U8/-1/-8/-3/-1
+bursar	BUR/-SS/-R | 3U8/-1/-8
+bursars	BUR/-SS/-R/-SS | 3U8/-1/-8/-1
+bursary	BUR/-SS/-R/-Y | 3U8/-1/-8/-3
+bursting	BUR/-SS/-T/-NG | 3U8/-1/-7/-2
+burst	BUR/-SS/-T | 3U8/-1/-7
+bursts	BUR/-SS/-T/-SS | 3U8/-1/-7/-1
+burying	BUR/-NG | 3U8/-2
+burying	BUR/-Y/-NG | 3U8/-3/-2
+bury	BUR/-Y | 3U8/-3
+but	BUT | 3U7
+butler	BUT/-L/-R | 3U7/-4/-8
+butlers	BUT/-L/-R/-SS | 3U7/-4/-8/-1
+buts	BUT/-SS | 3U7/-1
+butted	BUT/-D | 3U7/-5
+buttered	BUT/-R/-D | 3U7/-8/-5
+buttering	BUT/-R/-NG | 3U7/-8/-2
+butter	BUT/-R | 3U7/-8
+butters	BUT/-R/-SS | 3U7/-8/-1
+buttery	BUT/-R/-Y | 3U7/-8/-3
+butting	BUT/-NG | 3U7/-2
+buttoned	BUT/-N/-D | 3U7/-6/-5
+buttoning	BUT/-N/-NG | 3U7/-6/-2
+button	BUT/-N | 3U7/-6
+buttons	BUT/-N/-SS | 3U7/-6/-1
+cabal	K/BAL | 2/3A4
+cabals	K/BAL/-SS | 2/3A4/-1
+cabanas	K/BAN/-SS | 2/3A6/-1
+caddie	KAD/-Y | 2A5/-3
+caddies	KAD/-Y/-SS | 2A5/-3/-1
+cads	KAD/-SS | 2A5/-1
+caddying	KAD/-NG | 2A5/-2
+caddying	KAD/-Y/-NG | 2A5/-3/-2
+cadet	K/DET | 2/6E7
+cadets	K/DET/-SS | 2/6E7/-1
+cad	KAD | 2A5
+calendar	KAL/-N/-D/-R | 2A4/-6/-5/-8
+calendars	KAL/-N/-D/-R/-SS | 2A4/-6/-5/-8/-1
+calloused	KAL/-SS/-D | 2A4/-1/-5
+callouses	KAL/-SS/-SS | 2A4/-1/-1
+callous	KAL/-SS | 2A4/-1
+callously	KAL/-SS/-L/-Y | 2A4/-1/-4/-3
+cal	KAL | 2A4
+calorie	KAL/-R/-Y | 2A4/-8/-3
+calories	KAL/-R/-Y/-SS | 2A4/-8/-3/-1
+calor	KAL/-R | 2A4/-8
+khan	KAN | 2A6
+candidate	KAN/-D/-D/-T | 2A6/-5/-5/-7
+candidates	KAN/-D/-D/-T/-SS | 2A6/-5/-5/-7/-1
+candid	KAN/-D/-D | 2A6/-5/-5
+candidly	KAN/-D/-D/-L/-Y | 2A6/-5/-5/-4/-3
+candied	KAN/-D/-Y/-D | 2A6/-5/-3/-5
+candies	KAN/-D/-Y/-SS | 2A6/-5/-3/-1
+candle	KAN/-D/-L | 2A6/-5/-4
+candles	KAN/-D/-L/-SS | 2A6/-5/-4/-1
+candor	KAN/-D/-R | 2A6/-5/-8
+candy	KAN/-D/-Y | 2A6/-5/-3
+canister	KAN/-SS/-T/-R | 2A6/-1/-7/-8
+canisters	KAN/-SS/-T/-R/-SS | 2A6/-1/-7/-8/-1
+canned	KAN/-D | 2A6/-5
+cannel	KAN/-L | 2A6/-4
+cannily	KAN/-L/-Y | 2A6/-4/-3
+canning	KAN/-NG | 2A6/-2
+cannoned	KAN/-N/-D | 2A6/-6/-5
+cannoning	KAN/-N/-NG | 2A6/-6/-2
+cannon	KAN/-N | 2A6/-6
+cannons	KAN/-N/-SS | 2A6/-6/-1
+cant	KAN/-T | 2A6/-7
+canny	KAN/-Y | 2A6/-3
+cans	KAN/-SS | 2A6/-1
+canst	KAN/-SS/-T | 2A6/-1/-7
+canted	KAN/-T/-D | 2A6/-7/-5
+canter	KAN/-T/-R | 2A6/-7/-8
+cantered	KAN/-T/-R/-D | 2A6/-7/-8/-5
+cantering	KAN/-T/-R/-NG | 2A6/-7/-8/-2
+canters	KAN/-T/-R/-SS | 2A6/-7/-8/-1
+canting	KAN/-T/-NG | 2A6/-7/-2
+cantle	KAN/-T/-L | 2A6/-7/-4
+canton	KAN/-T/-N | 2A6/-7/-6
+cantoned	KAN/-T/-N/-D | 2A6/-7/-6/-5
+cantons	KAN/-T/-N/-SS | 2A6/-7/-6/-1
+cants	KAN/-T/-SS | 2A6/-7/-1
+canty	KAN/-T/-Y | 2A6/-7/-3
+capellas	K/PEL/-SS | 2/4E4/-1
+kart	KAR/-T | 2A8/-7
+karts	KAR/-T/-SS | 2A8/-7/-1
+carded	KAR/-D/-D | 2A8/-5/-5
+cardinal	KAR/-D/-N/-L | 2A8/-5/-6/-4
+cardinals	KAR/-D/-N/-L/-SS | 2A8/-5/-6/-4/-1
+carding	KAR/-D/-NG | 2A8/-5/-2
+card	KAR/-D | 2A8/-5
+cards	KAR/-D/-SS | 2A8/-5/-1
+carnal	KAR/-N/-L | 2A8/-6/-4
+carnally	KAR/-N/-L/-Y | 2A8/-6/-4/-3
+car	KAR | 2A8
+caroled	KAR/-L/-D | 2A8/-4/-5
+caroling	KAR/-L/-NG | 2A8/-4/-2
+carols	KAR/-L/-SS | 2A8/-4/-1
+carton	KAR/-T/-N | 2A8/-7/-6
+carotid	K/ROT/-D | 2/1O7/-5
+carried	KAR/-Y/-D | 2A8/-3/-5
+carries	KAR/-Y/-SS | 2A8/-3/-1
+carroty	KAR/-T/-Y | 2A8/-7/-3
+carryings	KAR/-NG/-SS | 2A8/-2/-1
+carryings	KAR/-Y/-NG/-SS | 2A8/-3/-2/-1
+carrying	KAR/-NG | 2A8/-2
+carrying	KAR/-Y/-NG | 2A8/-3/-2
+carry	KAR/-Y | 2A8/-3
+cars	KAR/-SS | 2A8/-1
+carted	KAR/-T/-D | 2A8/-7/-5
+cartel	K/R/TEL | 2/1/8E4
+cartels	K/R/TEL/-SS | 2/1/8E4/-1
+karting	KAR/-T/-NG | 2A8/-7/-2
+cartons	KAR/-T/-N/-SS | 2A8/-7/-6/-1
+cassette	K/SET | 2/7E7
+cassettes	K/SET/-SS | 2/7E7/-1
+catalan	KAT/-L/-N | 2A7/-4/-6
+catalysis	K/TAL/-SS/-SS | 2/8A4/-1/-1
+catalyst	KAT/-L/-SS/-T | 2A7/-4/-1/-7
+catalyst	KAT/-L/-Y/-SS/-T | 2A7/-4/-3/-1/-7
+catalysts	KAT/-L/-SS/-T/-SS | 2A7/-4/-1/-7/-1
+catalysts	KAT/-L/-Y/-SS/-T/-SS | 2A7/-4/-3/-1/-7/-1
+catenate	KAT/-N/-T | 2A7/-6/-7
+cat	KAT | 2A7
+cats	KAT/-SS | 2A7/-1
+catting	KAT/-NG | 2A7/-2
+cattle	KAT/-L | 2A7/-4
+catty	KAT/-Y | 2A7/-3
+celerity	S/LER/-T/-Y | 7/5E8/-7/-3
+celery	SEL/-R/-Y | 7E4/-8/-3
+cellar	SEL/-R | 7E4/-8
+cellars	SEL/-R/-SS | 7E4/-8/-1
+sell	SEL | 7E4
+sells	SEL/-SS | 7E4/-1
+cellule	SEL/-L | 7E4/-4
+censored	SEN/-SS/-R/-D | 7E6/-1/-8/-5
+censoring	SEN/-SS/-R/-NG | 7E6/-1/-8/-2
+censors	SEN/-SS/-R/-SS | 7E6/-1/-8/-1
+censor	SEN/-SS/-R | 7E6/-1/-8
+censused	SEN/-SS/-SS/-D | 7E6/-1/-1/-5
+censuses	SEN/-SS/-SS/-SS | 7E6/-1/-1/-1
+censusing	SEN/-SS/-SS/-NG | 7E6/-1/-1/-2
+senses	SEN/-SS/-SS | 7E6/-1/-1
+cental	SEN/-T/-L | 7E6/-7/-4
+centered	SEN/-T/-R/-D | 7E6/-7/-8/-5
+centerings	SEN/-T/-R/-NG/-SS | 7E6/-7/-8/-2/-1
+centering	SEN/-T/-R/-NG | 7E6/-7/-8/-2
+center	SEN/-T/-R | 7E6/-7/-8
+centers	SEN/-T/-R/-SS | 7E6/-7/-8/-1
+sent	SEN/-T | 7E6/-7
+central	SEN/-T/-R/-L | 7E6/-7/-8/-4
+centrally	SEN/-T/-R/-L/-Y | 7E6/-7/-8/-4/-3
+centrist	SEN/-T/-R/-SS/-T | 7E6/-7/-8/-1/-7
+centrists	SEN/-T/-R/-SS/-T/-SS | 7E6/-7/-8/-1/-7/-1
+cents	SEN/-T/-SS | 7E6/-7/-1
+cern	SER/-N | 7E8/-6
+certain	SER/-T/-N | 7E8/-7/-6
+certainly	SER/-T/-N/-L/-Y | 7E8/-7/-6/-4/-3
+certains	SER/-T/-N/-SS | 7E8/-7/-6/-1
+cert	SER/-T | 7E8/-7
+certs	SER/-T/-SS | 7E8/-7/-1
+chalcedony	K/L/SED/-N/-Y | 2/5/7E5/-6/-3
+chloral	K/LOR/-L | 2/5O8/-4
+chlorate	K/LOR/-T | 2/5O8/-7
+chlorates	K/LOR/-T/-SS | 2/5O8/-7/-1
+chloride	K/LOR/-D | 2/5O8/-5
+chlorides	K/LOR/-D/-SS | 2/5O8/-5/-1
+chlorine	K/LOR/-N | 2/5O8/-6
+chlorines	K/LOR/-N/-SS | 2/5O8/-6/-1
+choler	KOL/-R | 2O4/-8
+corral	K/RAL | 2/1A4
+coral	KOR/-L | 2O8/-4
+chorally	KOR/-L/-Y | 2O8/-4/-3
+chordal	KOR/-D/-L | 2O8/-5/-4
+chorded	KOR/-D/-D | 2O8/-5/-5
+chording	KOR/-D/-NG | 2O8/-5/-2
+chord	KOR/-D | 2O8/-5
+chords	KOR/-D/-SS | 2O8/-5/-1
+chorister	KOR/-SS/-T/-R | 2O8/-1/-7/-8
+choristers	KOR/-SS/-T/-R/-SS | 2O8/-1/-7/-8/-1
+chorused	KOR/-SS/-D | 2O8/-1/-5
+choruses	KOR/-SS/-SS | 2O8/-1/-1
+chorusing	KOR/-SS/-NG | 2O8/-1/-2
+chorus	KOR/-SS | 2O8/-1
+cladding	K/LAD/-NG | 2/5A5/-2
+clad	K/LAD | 2/5A5
+clanged	K/LANG/-D | 2/5A2/-5
+clanging	K/LANG/-NG | 2/5A2/-2
+clang	K/LANG | 2/5A2
+clangour	K/LANG/-R | 2/5A2/-8
+clangs	K/LANG/-SS | 2/5A2/-1
+clan	K/LAN | 2/5A6
+clans	K/LAN/-SS | 2/5A6/-1
+claret	K/LAR/-T | 2/5A8/-7
+clarets	K/LAR/-T/-SS | 2/5A8/-7/-1
+clarity	K/LAR/-T/-Y | 2/5A8/-7/-3
+clattered	K/LAT/-R/-D | 2/5A7/-8/-5
+clatteringly	K/LAT/-R/-NG/-L/-Y | 2/5A7/-8/-2/-4/-3
+clatterings	K/LAT/-R/-NG/-SS | 2/5A7/-8/-2/-1
+clattering	K/LAT/-R/-NG | 2/5A7/-8/-2
+clatters	K/LAT/-R/-SS | 2/5A7/-8/-1
+clatter	K/LAT/-R | 2/5A7/-8
+clattery	K/LAT/-R/-Y | 2/5A7/-8/-3
+cleanly	K/LEN/-L/-Y | 2/5E6/-4/-3
+clodded	K/LOD/-D | 2/5O5/-5
+clod	K/LOD | 2/5O5
+clods	K/LOD/-SS | 2/5O5/-1
+clot	K/LOT | 2/5O7
+clots	K/LOT/-SS | 2/5O7/-1
+clotted	K/LOT/-D | 2/5O7/-5
+clotting	K/LOT/-NG | 2/5O7/-2
+clung	K/LUNG | 2/5U2
+cluttered	K/LUT/-R/-D | 2/5U7/-8/-5
+cluttering	K/LUT/-R/-NG | 2/5U7/-8/-2
+clutter	K/LUT/-R | 2/5U7/-8
+clutters	K/LUT/-R/-SS | 2/5U7/-8/-1
+coddled	KOD/-L/-D | 2O5/-4/-5
+coddles	KOD/-L/-SS | 2O5/-4/-1
+coddle	KOD/-L | 2O5/-4
+coddling	KOD/-L/-NG | 2O5/-4/-2
+cod	KOD | 2O5
+cods	KOD/-SS | 2O5/-1
+colander	KOL/-N/-D/-R | 2O4/-6/-5/-8
+colanders	KOL/-N/-D/-R/-SS | 2O4/-6/-5/-8/-1
+collard	KOL/-R/-D | 2O4/-8/-5
+collaring	KOL/-R/-NG | 2O4/-8/-2
+collars	KOL/-R/-SS | 2O4/-8/-1
+collaterally	K/LAT/-R/-L/-Y | 2/5A7/-8/-4/-3
+collateral	K/LAT/-R/-L | 2/5A7/-8/-4
+collaterals	K/LAT/-R/-L/-SS | 2/5A7/-8/-4/-1
+collet	KOL/-T | 2O4/-7
+collie	KOL/-Y | 2O4/-3
+collies	KOL/-Y/-SS | 2O4/-3/-1
+col	KOL | 2O4
+colonies	KOL/-N/-Y/-SS | 2O4/-6/-3/-1
+colonist	KOL/-N/-SS/-T | 2O4/-6/-1/-7
+colonists	KOL/-N/-SS/-T/-SS | 2O4/-6/-1/-7/-1
+colony	KOL/-N/-Y | 2O4/-6/-3
+coloreds	KOL/-R/-D/-SS | 2O4/-8/-5/-1
+colorings	KOL/-R/-NG/-SS | 2O4/-8/-2/-1
+cols	KOL/-SS | 2O4/-1
+conder	KON/-D/-R | 2O6/-5/-8
+condors	KON/-D/-R/-SS | 2O6/-5/-8/-1
+condos	KON/-D/-SS | 2O6/-5/-1
+congas	KONG/-SS | 2O2/-1
+conned	KON/-D | 2O6/-5
+conning	KON/-NG | 2O6/-2
+con	KON | 2O6
+consul	KON/-SS/-L | 2O6/-1/-4
+consuls	KON/-SS/-L/-SS | 2O6/-1/-4/-1
+consonantly	KON/-SS/-N/-N/-T/-L/-Y | 2O6/-1/-6/-6/-7/-4/-3
+consonant	KON/-SS/-N/-N/-T | 2O6/-1/-6/-6/-7
+consonants	KON/-SS/-N/-N/-T/-SS | 2O6/-1/-6/-6/-7/-1
+consort	KON/-SS/-R/-T | 2O6/-1/-8/-7
+consorts	KON/-SS/-R/-T/-SS | 2O6/-1/-8/-7/-1
+constant	KON/-SS/-T/-N/-T | 2O6/-1/-7/-6/-7
+constantly	KON/-SS/-T/-N/-T/-L/-Y | 2O6/-1/-7/-6/-7/-4/-3
+constants	KON/-SS/-T/-N/-T/-SS | 2O6/-1/-7/-6/-7/-1
+constellate	KON/-SS/-T/-L/-T | 2O6/-1/-7/-4/-7
+consternate	KON/-SS/-T/-R/-N/-T | 2O6/-1/-7/-8/-6/-7
+cons	KON/-SS | 2O6/-1
+content	KON/-T/-N/-T | 2O6/-7/-6/-7
+contents	KON/-T/-N/-T/-SS | 2O6/-7/-6/-7/-1
+contest	KON/-T/-SS/-T | 2O6/-7/-1/-7
+contests	KON/-T/-SS/-T/-SS | 2O6/-7/-1/-7/-1
+continently	KON/-T/-N/-N/-T/-L/-Y | 2O6/-7/-6/-6/-7/-4/-3
+continent	KON/-T/-N/-N/-T | 2O6/-7/-6/-6/-7
+continents	KON/-T/-N/-N/-T/-SS | 2O6/-7/-6/-6/-7/-1
+contrary	KON/-T/-R/-R/-Y | 2O6/-7/-8/-8/-3
+contras	KON/-T/-R/-SS | 2O6/-7/-8/-1
+contrast	KON/-T/-R/-SS/-T | 2O6/-7/-8/-1/-7
+contrasts	KON/-T/-R/-SS/-T/-SS | 2O6/-7/-8/-1/-7/-1
+coralline	KOR/-L/-N | 2O8/-4/-6
+corals	KOR/-L/-SS | 2O8/-4/-1
+cordite	KOR/-D/-T | 2O8/-5/-7
+core	KOR | 2O8
+coring	KOR/-NG | 2O8/-2
+corned	KOR/-N/-D | 2O8/-6/-5
+cornered	KOR/-N/-R/-D | 2O8/-6/-8/-5
+cornering	KOR/-N/-R/-NG | 2O8/-6/-8/-2
+corner	KOR/-N/-R | 2O8/-6/-8
+corners	KOR/-N/-R/-SS | 2O8/-6/-8/-1
+corning	KOR/-N/-NG | 2O8/-6/-2
+corn	KOR/-N | 2O8/-6
+corns	KOR/-N/-SS | 2O8/-6/-1
+corny	KOR/-N/-Y | 2O8/-6/-3
+corollas	K/ROL/-SS | 2/1O4/-1
+coronal	KOR/-N/-L | 2O8/-6/-4
+coronals	KOR/-N/-L/-SS | 2O8/-6/-4/-1
+coronet	KOR/-N/-T | 2O8/-6/-7
+coronets	KOR/-N/-T/-SS | 2O8/-6/-7/-1
+corporeal	K/R/POR/-L | 2/1/4O8/-4
+corporeally	K/R/POR/-L/-Y | 2/1/4O8/-4/-3
+corraled	K/RAL/-D | 2/1A4/-5
+corralling	K/RAL/-NG | 2/1A4/-2
+corrals	K/RAL/-SS | 2/1A4/-1
+correlate	KOR/-L/-T | 2O8/-4/-7
+correlates	KOR/-L/-T/-SS | 2O8/-4/-7/-1
+corridor	KOR/-D/-R | 2O8/-5/-8
+corridors	KOR/-D/-R/-SS | 2O8/-5/-8/-1
+corselet	KOR/-SS/-L/-T | 2O8/-1/-4/-7
+corseted	KOR/-SS/-T/-D | 2O8/-1/-7/-5
+corseting	KOR/-SS/-T/-NG | 2O8/-1/-7/-2
+corset	KOR/-SS/-T | 2O8/-1/-7
+corsets	KOR/-SS/-T/-SS | 2O8/-1/-7/-1
+cory	KOR/-Y | 2O8/-3
+cot	KOT | 2O7
+cots	KOT/-SS | 2O7/-1
+cottoned	KOT/-N/-D | 2O7/-6/-5
+cotton	KOT/-N | 2O7/-6
+cottons	KOT/-N/-SS | 2O7/-6/-1
+cottony	KOT/-N/-Y | 2O7/-6/-3
+countried	KUN/-T/-R/-D | 2U6/-7/-8/-5
+countried	KUN/-T/-R/-Y/-D | 2U6/-7/-8/-3/-5
+countries	KUN/-T/-R/-Y/-SS | 2U6/-7/-8/-3/-1
+country	KUN/-T/-R/-Y | 2U6/-7/-8/-3
+curtsies	KUR/-T/-SS/-Y/-SS | 2U8/-7/-1/-3/-1
+curtsy	KUR/-T/-SS/-Y | 2U8/-7/-1/-3
+crannied	K/RAN/-D | 2/1A6/-5
+crannied	K/RAN/-Y/-D | 2/1A6/-3/-5
+crannies	K/RAN/-Y/-SS | 2/1A6/-3/-1
+cranny	K/RAN/-Y | 2/1A6/-3
+credited	K/RED/-T/-D | 2/1E5/-7/-5
+crediting	K/RED/-T/-NG | 2/1E5/-7/-2
+credit	K/RED/-T | 2/1E5/-7
+credits	K/RED/-T/-SS | 2/1E5/-7/-1
+credulous	K/RED/-L/-SS | 2/1E5/-4/-1
+credulously	K/RED/-L/-SS/-L/-Y | 2/1E5/-4/-1/-4/-3
+cretin	K/RET/-N | 2/1E7/-6
+cretins	K/RET/-N/-SS | 2/1E7/-6/-1
+cruddy	K/RUD/-Y | 2/1U5/-3
+crud	K/RUD | 2/1U5
+cryptanalyst	K/R/P/TAN/-L/-SS/-T | 2/1/4/8A6/-4/-1/-7
+cryptanalyst	K/R/P/TAN/-L/-Y/-SS/-T | 2/1/4/8A6/-4/-3/-1/-7
+cuddled	KUD/-L/-D | 2U5/-4/-5
+cuddle	KUD/-L | 2U5/-4
+cuddles	KUD/-L/-SS | 2U5/-4/-1
+cuddling	KUD/-L/-NG | 2U5/-4/-2
+cuddly	KUD/-L/-Y | 2U5/-4/-3
+cud	KUD | 2U5
+culled	KUL/-D | 2U4/-5
+cullings	KUL/-NG/-SS | 2U4/-2/-1
+culling	KUL/-NG | 2U4/-2
+culls	KUL/-SS | 2U4/-1
+cull	KUL | 2U4
+cult	KUL/-T | 2U4/-7
+cults	KUL/-T/-SS | 2U4/-7/-1
+cunning	KUN/-NG | 2U6/-2
+cunningly	KUN/-NG/-L/-Y | 2U6/-2/-4/-3
+cunt	KUN/-T | 2U6/-7
+cunts	KUN/-T/-SS | 2U6/-7/-1
+curdled	KUR/-D/-L/-D | 2U8/-5/-4/-5
+curdles	KUR/-D/-L/-SS | 2U8/-5/-4/-1
+curdle	KUR/-D/-L | 2U8/-5/-4
+curdling	KUR/-D/-L/-NG | 2U8/-5/-4/-2
+curd	KUR/-D | 2U8/-5
+curds	KUR/-D/-SS | 2U8/-5/-1
+curled	KUR/-L/-D | 2U8/-4/-5
+curling	KUR/-L/-NG | 2U8/-4/-2
+curlings	KUR/-L/-NG/-SS | 2U8/-4/-2/-1
+curls	KUR/-L/-SS | 2U8/-4/-1
+curl	KUR/-L | 2U8/-4
+curly	KUR/-L/-Y | 2U8/-4/-3
+cur	KUR | 2U8
+currant	KUR/-N/-T | 2U8/-6/-7
+currants	KUR/-N/-T/-SS | 2U8/-6/-7/-1
+curranty	KUR/-N/-T/-Y | 2U8/-6/-7/-3
+currently	KUR/-N/-T/-L/-Y | 2U8/-6/-7/-4/-3
+curried	KUR/-Y/-D | 2U8/-3/-5
+curries	KUR/-Y/-SS | 2U8/-3/-1
+currying	KUR/-NG | 2U8/-2
+currying	KUR/-Y/-NG | 2U8/-3/-2
+curry	KUR/-Y | 2U8/-3
+cursed	KUR/-SS/-D | 2U8/-1/-5
+cursedly	KUR/-SS/-D/-L/-Y | 2U8/-1/-5/-4/-3
+curses	KUR/-SS/-SS | 2U8/-1/-1
+cursings	KUR/-SS/-NG/-SS | 2U8/-1/-2/-1
+cursing	KUR/-SS/-NG | 2U8/-1/-2
+curs	KUR/-SS | 2U8/-1
+cursorily	KUR/-SS/-R/-L/-Y | 2U8/-1/-8/-4/-3
+cursor	KUR/-SS/-R | 2U8/-1/-8
+cursors	KUR/-SS/-R/-SS | 2U8/-1/-8/-1
+cursory	KUR/-SS/-R/-Y | 2U8/-1/-8/-3
+curt	KUR/-T | 2U8/-7
+curtly	KUR/-T/-L/-Y | 2U8/-7/-4/-3
+curtsying	KUR/-T/-SS/-Y/-NG | 2U8/-7/-1/-3/-2
+curtsied	KUR/-T/-SS/-D | 2U8/-7/-1/-5
+curtsied	KUR/-T/-SS/-Y/-D | 2U8/-7/-1/-3/-5
+curtsying	KUR/-T/-SS/-NG | 2U8/-7/-1/-2
+cutler	KUT/-L/-R | 2U7/-4/-8
+cutlers	KUT/-L/-R/-SS | 2U7/-4/-8/-1
+cutlery	KUT/-L/-R/-Y | 2U7/-4/-8/-3
+cuts	KUT/-SS | 2U7/-1
+cuttingly	KUT/-NG/-L/-Y | 2U7/-2/-4/-3
+cuttings	KUT/-NG/-SS | 2U7/-2/-1
+cutting	KUT/-NG | 2U7/-2
+cuttle	KUT/-L | 2U7/-4
+cut	KUT | 2U7
+cytolysis	S/TOL/-SS/-SS | 7/8O4/-1/-1
+daddies	DAD/-Y/-SS | 6A5/-3/-1
+daddy	DAD/-Y | 6A5/-3
+dad	DAD | 6A5
+dads	DAD/-SS | 6A5/-1
+dallied	DAL/-D | 6A4/-5
+dallied	DAL/-Y/-D | 6A4/-3/-5
+dallies	DAL/-Y/-SS | 6A4/-3/-1
+dallyings	DAL/-NG/-SS | 6A4/-2/-1
+dallyings	DAL/-Y/-NG/-SS | 6A4/-3/-2/-1
+dallying	DAL/-NG | 6A4/-2
+dallying	DAL/-Y/-NG | 6A4/-3/-2
+dally	DAL/-Y | 6A4/-3
+dandies	DAN/-D/-Y/-SS | 6A6/-5/-3/-1
+dandily	DAN/-D/-L/-Y | 6A6/-5/-4/-3
+dandled	DAN/-D/-L/-D | 6A6/-5/-4/-5
+dandles	DAN/-D/-L/-SS | 6A6/-5/-4/-1
+dandle	DAN/-D/-L | 6A6/-5/-4
+dandling	DAN/-D/-L/-NG | 6A6/-5/-4/-2
+dandy	DAN/-D/-Y | 6A6/-5/-3
+dang	DANG | 6A2
+dangled	DANG/-L/-D | 6A2/-4/-5
+dangles	DANG/-L/-SS | 6A2/-4/-1
+dangle	DANG/-L | 6A2/-4
+dangling	DANG/-L/-NG | 6A2/-4/-2
+dangly	DANG/-L/-Y | 6A2/-4/-3
+dan	DAN | 6A6
+dans	DAN/-SS | 6A6/-1
+darling	DAR/-L/-NG | 6A8/-4/-2
+darlings	DAR/-L/-NG/-SS | 6A8/-4/-2/-1
+darned	DAR/-N/-D | 6A8/-6/-5
+darning	DAR/-N/-NG | 6A8/-6/-2
+darn	DAR/-N | 6A8/-6
+darns	DAR/-N/-SS | 6A8/-6/-1
+darted	DAR/-T/-D | 6A8/-7/-5
+dartingly	DAR/-T/-NG/-L/-Y | 6A8/-7/-2/-4/-3
+darting	DAR/-T/-NG | 6A8/-7/-2
+dart	DAR/-T | 6A8/-7
+darts	DAR/-T/-SS | 6A8/-7/-1
+dats	DAT/-SS | 6A7/-1
+dat	DAT | 6A7
+dead	DED | 6E5
+deadly	DED/-L/-Y | 6E5/-4/-3
+dealt	DEL/-T | 6E4/-7
+debarred	D/BAR/-D | 6/3A8/-5
+debarring	D/BAR/-NG | 6/3A8/-2
+debars	D/BAR/-SS | 6/3A8/-1
+debar	D/BAR | 6/3A8
+decanted	D/KAN/-T/-D | 6/2A6/-7/-5
+decanting	D/KAN/-T/-NG | 6/2A6/-7/-2
+decants	D/KAN/-T/-SS | 6/2A6/-7/-1
+decant	D/KAN/-T | 6/2A6/-7
+decelerates	D/SEL/-R/-T/-SS | 6/7E4/-8/-7/-1
+decelerate	D/SEL/-R/-T | 6/7E4/-8/-7
+decennial	D/SEN/-L | 6/7E6/-4
+decennials	D/SEN/-L/-SS | 6/7E6/-4/-1
+deli	DEL/-Y | 6E4/-3
+dell	DEL | 6E4
+dells	DEL/-SS | 6E4/-1
+deltaed	DEL/-T/-D | 6E4/-7/-5
+deltas	DEL/-T/-SS | 6E4/-7/-1
+dendrite	DEN/-D/-R/-T | 6E6/-5/-8/-7
+dendrites	DEN/-D/-R/-T/-SS | 6E6/-5/-8/-7/-1
+den	DEN | 6E6
+density	DEN/-SS/-T | 6E6/-1/-7
+dens	DEN/-SS | 6E6/-1
+dental	DEN/-T/-L | 6E6/-7/-4
+dentals	DEN/-T/-L/-SS | 6E6/-7/-4/-1
+dented	DEN/-T/-D | 6E6/-7/-5
+denting	DEN/-T/-NG | 6E6/-7/-2
+dentist	DEN/-T/-SS/-T | 6E6/-7/-1/-7
+dentists	DEN/-T/-SS/-T/-SS | 6E6/-7/-1/-7/-1
+dent	DEN/-T | 6E6/-7
+dents	DEN/-T/-SS | 6E6/-7/-1
+departed	D/PAR/-T/-D | 6/4A8/-7/-5
+departing	D/PAR/-T/-NG | 6/4A8/-7/-2
+departs	D/PAR/-T/-SS | 6/4A8/-7/-1
+depart	D/PAR/-T | 6/4A8/-7
+depended	D/PEN/-D/-D | 6/4E6/-5/-5
+dependingly	D/PEN/-D/-NG/-L/-Y | 6/4E6/-5/-2/-4/-3
+depending	D/PEN/-D/-NG | 6/4E6/-5/-2
+depends	D/PEN/-D/-SS | 6/4E6/-5/-1
+depend	D/PEN/-D | 6/4E6/-5
+deplored	D/P/LOR/-D | 6/4/5O8/-5
+deplores	D/P/LOR/-SS | 6/4/5O8/-1
+deplore	D/P/LOR | 6/4/5O8
+deploringly	D/P/LOR/-NG/-L/-Y | 6/4/5O8/-2/-4/-3
+deploring	D/P/LOR/-NG | 6/4/5O8/-2
+deported	D/POR/-T/-D | 6/4O8/-7/-5
+deporting	D/POR/-T/-NG | 6/4O8/-7/-2
+deports	D/POR/-T/-SS | 6/4O8/-7/-1
+deport	D/POR/-T | 6/4O8/-7
+descant	D/S/KAN/-T | 6/7/2A6/-7
+descanted	D/S/KAN/-T/-D | 6/7/2A6/-7/-5
+descants	D/S/KAN/-T/-SS | 6/7/2A6/-7/-1
+descended	D/SEN/-D/-D | 6/7E6/-5/-5
+descending	D/SEN/-D/-NG | 6/7E6/-5/-2
+descends	D/SEN/-D/-SS | 6/7E6/-5/-1
+descend	D/SEN/-D | 6/7E6/-5
+dissent	D/SEN/-T | 6/7E6/-7
+dissents	D/SEN/-T/-SS | 6/7E6/-7/-1
+desert	D/SER/-T | 6/7E8/-7
+desertedly	D/SER/-T/-D/-L/-Y | 6/7E8/-7/-5/-4/-3
+deserted	D/SER/-T/-D | 6/7E8/-7/-5
+deserting	D/SER/-T/-NG | 6/7E8/-7/-2
+deserts	D/SER/-T/-SS | 6/7E8/-7/-1
+despondent	D/S/PON/-D/-N/-T | 6/7/4O6/-5/-6/-7
+despondently	D/S/PON/-D/-N/-T/-L/-Y | 6/7/4O6/-5/-6/-7/-4/-3
+despondingly	D/S/PON/-D/-NG/-L/-Y | 6/7/4O6/-5/-2/-4/-3
+desponding	D/S/PON/-D/-NG | 6/7/4O6/-5/-2
+despond	D/S/PON/-D | 6/7/4O6/-5
+detente	D/TEN/-T | 6/8E6/-7
+deterred	D/TER/-D | 6/8E8/-5
+deterring	D/TER/-NG | 6/8E8/-2
+deters	D/TER/-SS | 6/8E8/-1
+deter	D/TER | 6/8E8
+detonates	DET/-N/-T/-SS | 6E7/-6/-7/-1
+detonate	DET/-N/-T | 6E7/-6/-7
+disbursal	D/S/BUR/-SS/-L | 6/7/3U8/-1/-4
+disbursals	D/S/BUR/-SS/-L/-SS | 6/7/3U8/-1/-4/-1
+disbursed	D/S/BUR/-SS/-D | 6/7/3U8/-1/-5
+disburses	D/S/BUR/-SS/-SS | 6/7/3U8/-1/-1
+disbursing	D/S/BUR/-SS/-NG | 6/7/3U8/-1/-2
+discard	D/S/KAR/-D | 6/7/2A8/-5
+discarded	D/S/KAR/-D/-D | 6/7/2A8/-5/-5
+discarding	D/S/KAR/-D/-NG | 6/7/2A8/-5/-2
+discards	D/S/KAR/-D/-SS | 6/7/2A8/-5/-1
+discerned	D/SER/-N/-D | 6/7E8/-6/-5
+discerning	D/SER/-N/-NG | 6/7E8/-6/-2
+discerns	D/SER/-N/-SS | 6/7E8/-6/-1
+discern	D/SER/-N | 6/7E8/-6
+disconsolate	D/S/KON/-SS/-L/-T | 6/7/2O6/-1/-4/-7
+disconsolately	D/S/KON/-SS/-L/-T/-L/-Y | 6/7/2O6/-1/-4/-7/-4/-3
+dispelled	D/S/PEL/-D | 6/7/4E4/-5
+dispelling	D/S/PEL/-NG | 6/7/4E4/-2
+dispell	D/S/PEL | 6/7/4E4
+dispels	D/S/PEL/-SS | 6/7/4E4/-1
+dispensed	D/S/PEN/-SS/-D | 6/7/4E6/-1/-5
+dispenses	D/S/PEN/-SS/-SS | 6/7/4E6/-1/-1
+dispensing	D/S/PEN/-SS/-NG | 6/7/4E6/-1/-2
+dispersal	D/S/PER/-SS/-L | 6/7/4E8/-1/-4
+dispersals	D/S/PER/-SS/-L/-SS | 6/7/4E8/-1/-4/-1
+dispersed	D/S/PER/-SS/-D | 6/7/4E8/-1/-5
+disperses	D/S/PER/-SS/-SS | 6/7/4E8/-1/-1
+dispersing	D/S/PER/-SS/-NG | 6/7/4E8/-1/-2
+dispersity	D/S/PER/-SS/-T | 6/7/4E8/-1/-7
+disported	D/S/POR/-T/-D | 6/7/4O8/-7/-5
+disporting	D/S/POR/-T/-NG | 6/7/4O8/-7/-2
+disports	D/S/POR/-T/-SS | 6/7/4O8/-7/-1
+disport	D/S/POR/-T | 6/7/4O8/-7
+dissented	D/SEN/-T/-D | 6/7E6/-7/-5
+dissenting	D/SEN/-T/-NG | 6/7E6/-7/-2
+dissentingly	D/SEN/-T/-NG/-L/-Y | 6/7E6/-7/-2/-4/-3
+distended	D/S/TEN/-D/-D | 6/7/8E6/-5/-5
+distending	D/S/TEN/-D/-NG | 6/7/8E6/-5/-2
+distends	D/S/TEN/-D/-SS | 6/7/8E6/-5/-1
+distend	D/S/TEN/-D | 6/7/8E6/-5
+distortedly	D/S/TOR/-T/-D/-L/-Y | 6/7/8O8/-7/-5/-4/-3
+distorted	D/S/TOR/-T/-D | 6/7/8O8/-7/-5
+distorting	D/S/TOR/-T/-NG | 6/7/8O8/-7/-2
+distorts	D/S/TOR/-T/-SS | 6/7/8O8/-7/-1
+distort	D/S/TOR/-T | 6/7/8O8/-7
+do	DO | 6O
+doddered	DOD/-R/-D | 6O5/-8/-5
+doddering	DOD/-R/-NG | 6O5/-8/-2
+dodders	DOD/-R/-SS | 6O5/-8/-1
+dodder	DOD/-R | 6O5/-8
+doddery	DOD/-R/-Y | 6O5/-8/-3
+doddle	DOD/-L | 6O5/-4
+dongs	DONG/-SS | 6O2/-1
+dong	DONG | 6O2
+dollar	DOL/-R | 6O4/-8
+dollars	DOL/-R/-SS | 6O4/-8/-1
+dolled	DOL/-D | 6O4/-5
+dollied	DOL/-Y/-D | 6O4/-3/-5
+dollies	DOL/-Y/-SS | 6O4/-3/-1
+dolling	DOL/-NG | 6O4/-2
+doll	DOL | 6O4
+dolls	DOL/-SS | 6O4/-1
+dolly	DOL/-Y | 6O4/-3
+done	DON | 6O6
+donged	DONG/-D | 6O2/-5
+donned	DON/-D | 6O6/-5
+donning	DON/-NG | 6O6/-2
+dons	DON/-SS | 6O6/-1
+dorsal	DOR/-SS/-L | 6O8/-1/-4
+dorsally	DOR/-SS/-L/-Y | 6O8/-1/-4/-3
+dot	DOT | 6O7
+dots	DOT/-SS | 6O7/-1
+dotted	DOT/-D | 6O7/-5
+dotting	DOT/-NG | 6O7/-2
+dotty	DOT/-Y | 6O7/-3
+dratted	D/RAT/-D | 6/1A7/-5
+drat	D/RAT | 6/1A7
+dreaded	D/RED/-D | 6/1E5/-5
+dreading	D/RED/-NG | 6/1E5/-2
+dread	D/RED | 6/1E5
+dreads	D/RED/-SS | 6/1E5/-1
+drongos	D/RONG/-SS | 6/1O2/-1
+dud	DUD | 6U5
+duds	DUD/-SS | 6U5/-1
+dulled	DUL/-D | 6U4/-5
+dulling	DUL/-NG | 6U4/-2
+dull	DUL | 6U4
+dulls	DUL/-SS | 6U4/-1
+dully	DUL/-L/-Y | 6U4/-4/-3
+dung	DUNG | 6U2
+dun	DUN | 6U6
+duns	DUN/-SS | 6U6/-1
+durst	DUR/-SS/-T | 6U8/-1/-7
+eddies	ED/-Y/-SS | E5/-3/-1
+eddy	ED/-Y | E5/-3
+eddyings	ED/-NG/-SS | E5/-2/-1
+eddyings	ED/-Y/-NG/-SS | E5/-3/-2/-1
+eddying	ED/-NG | E5/-2
+eddying	ED/-Y/-NG | E5/-3/-2
+edited	ED/-T/-D | E5/-7/-5
+editing	ED/-T/-NG | E5/-7/-2
+editings	ED/-T/-NG/-SS | E5/-7/-2/-1
+edits	ED/-T/-SS | E5/-7/-1
+edit	ED/-T | E5/-7
+ed	ED | E5
+elder	EL/-D/-R | E4/-5/-8
+elderly	EL/-D/-R/-L/-Y | E4/-5/-8/-4/-3
+elders	EL/-D/-R/-SS | E4/-5/-8/-1
+eldest	EL/-D/-SS/-T | E4/-5/-1/-7
+ell	EL | E4
+ells	EL/-SS | E4/-1
+ended	EN/-D/-D | E6/-5/-5
+endings	EN/-D/-NG/-SS | E6/-5/-2/-1
+ending	EN/-D/-NG | E6/-5/-2
+end	EN/-D | E6/-5
+ends	EN/-D/-SS | E6/-5/-1
+eng	ENG | E2
+en	EN | E6
+entered	EN/-T/-R/-D | E6/-7/-8/-5
+entering	EN/-T/-R/-NG | E6/-7/-8/-2
+enters	EN/-T/-R/-SS | E6/-7/-8/-1
+enter	EN/-T/-R | E6/-7/-8
+entities	EN/-T/-T/-Y/-SS | E6/-7/-7/-3/-1
+entity	EN/-T/-T/-Y | E6/-7/-7/-3
+entrant	EN/-T/-R/-N/-T | E6/-7/-8/-6/-7
+entrants	EN/-T/-R/-N/-T/-SS | E6/-7/-8/-6/-7/-1
+entries	EN/-T/-R/-Y/-SS | E6/-7/-8/-3/-1
+entry	EN/-T/-R/-Y | E6/-7/-8/-3
+errand	ER/-N/-D | E8/-6/-5
+errands	ER/-N/-D/-SS | E8/-6/-5/-1
+errant	ER/-N/-T | E8/-6/-7
+errantly	ER/-N/-T/-L/-Y | E8/-6/-7/-4/-3
+erroring	ER/-R/-NG | E8/-8/-2
+error	ER/-R | E8/-8
+errors	ER/-R/-SS | E8/-8/-1
+erudite	ER/-D/-T | E8/-5/-7
+eruditely	ER/-D/-T/-L/-Y | E8/-5/-7/-4/-3
+er	ER | E8
+et	ET | E7
+kangas	KANG/-SS | 2A2/-1
+kaput	K/PUT | 2/4U7
+karl	KAR/-L | 2A8/-4
+kenned	KEN/-D | 2E6/-5
+kenneled	KEN/-L/-D | 2E6/-4/-5
+kenneling	KEN/-L/-NG | 2E6/-4/-2
+kennel	KEN/-L | 2E6/-4
+kennels	KEN/-L/-SS | 2E6/-4/-1
+ken	KEN | 2E6
+kerned	KER/-N/-D | 2E8/-6/-5
+kerneled	KER/-N/-L/-D | 2E8/-6/-4/-5
+kerneling	KER/-N/-L/-NG | 2E8/-6/-4/-2
+kernel	KER/-N/-L | 2E8/-6/-4
+kernels	KER/-N/-L/-SS | 2E8/-6/-4/-1
+kerning	KER/-N/-NG | 2E8/-6/-2
+kerosene	KER/-SS/-N | 2E8/-1/-6
+kettle	KET/-L | 2E7/-4
+kettles	KET/-L/-SS | 2E7/-4/-1
+kung	KUNG | 2U2
+laddered	LAD/-R/-D | 5A5/-8/-5
+laddering	LAD/-R/-NG | 5A5/-8/-2
+ladder	LAD/-R | 5A5/-8
+ladders	LAD/-R/-SS | 5A5/-8/-1
+laddery	LAD/-R/-Y | 5A5/-8/-3
+laddie	LAD/-Y | 5A5/-3
+laddies	LAD/-Y/-SS | 5A5/-3/-1
+lad	LAD | 5A5
+lads	LAD/-SS | 5A5/-1
+la	LA | 5A
+landed	LAN/-D/-D | 5A6/-5/-5
+landing	LAN/-D/-NG | 5A6/-5/-2
+landings	LAN/-D/-NG/-SS | 5A6/-5/-2/-1
+land	LAN/-D | 5A6/-5
+lands	LAN/-D/-SS | 5A6/-5/-1
+lang	LANG | 5A2
+languor	LANG/-R | 5A2/-8
+languors	LANG/-R/-SS | 5A2/-8/-1
+lanolin	LAN/-L/-N | 5A6/-4/-6
+lantern	LAN/-T/-R/-N | 5A6/-7/-8/-6
+lanterns	LAN/-T/-R/-N/-SS | 5A6/-7/-8/-6/-1
+lapelled	L/PEL/-D | 5/4E4/-5
+lapel	L/PEL | 5/4E4
+lapels	L/PEL/-SS | 5/4E4/-1
+larder	LAR/-D/-R | 5A8/-5/-8
+larders	LAR/-D/-R/-SS | 5A8/-5/-8/-1
+lard	LAR/-D | 5A8/-5
+lards	LAR/-D/-SS | 5A8/-5/-1
+lateral	LAT/-R/-L | 5A7/-8/-4
+laterally	LAT/-R/-L/-Y | 5A7/-8/-4/-3
+laterals	LAT/-R/-L/-SS | 5A7/-8/-4/-1
+laterite	LAT/-R/-T | 5A7/-8/-7
+latter	LAT/-R | 5A7/-8
+latters	LAT/-R/-SS | 5A7/-8/-1
+lead	LED | 5E5
+leaded	LED/-D | 5E5/-5
+leading	LED/-NG | 5E5/-2
+leads	LED/-SS | 5E5/-1
+leant	LEN/-T | 5E6/-7
+lending	LEN/-D/-NG | 5E6/-5/-2
+lendings	LEN/-D/-NG/-SS | 5E6/-5/-2/-1
+lends	LEN/-D/-SS | 5E6/-5/-1
+lend	LEN/-D | 5E6/-5
+len	LEN | 5E6
+lentil	LEN/-T/-L | 5E6/-7/-4
+lentils	LEN/-T/-L/-SS | 5E6/-7/-4/-1
+lents	LEN/-T/-SS | 5E6/-7/-1
+lets	LET/-SS | 5E7/-1
+lettered	LET/-R/-D | 5E7/-8/-5
+lettering	LET/-R/-NG | 5E7/-8/-2
+letter	LET/-R | 5E7/-8
+letters	LET/-R/-SS | 5E7/-8/-1
+lettings	LET/-NG/-SS | 5E7/-2/-1
+letting	LET/-NG | 5E7/-2
+let	LET | 5E7
+librettist	L/B/RET/-SS/-T | 5/3/1E7/-1/-7
+librettists	L/B/RET/-SS/-T/-SS | 5/3/1E7/-1/-7/-1
+librettos	L/B/RET/-SS | 5/3/1E7/-1
+locale	L/KAL | 5/2A4
+locales	L/KAL/-SS | 5/2A4/-1
+locality	L/KAL/-T | 5/2A4/-7
+lolled	LOL/-D | 5O4/-5
+lollies	LOL/-Y/-SS | 5O4/-3/-1
+lolling	LOL/-NG | 5O4/-2
+lolls	LOL/-SS | 5O4/-1
+loll	LOL | 5O4
+lolly	LOL/-Y | 5O4/-3
+longed	LONG/-D | 5O2/-5
+longingly	LONG/-NG/-L/-Y | 5O2/-2/-4/-3
+longing	LONG/-NG | 5O2/-2
+longings	LONG/-NG/-SS | 5O2/-2/-1
+long	LONG | 5O2
+longs	LONG/-SS | 5O2/-1
+lorded	LOR/-D/-D | 5O8/-5/-5
+lording	LOR/-D/-NG | 5O8/-5/-2
+lordly	LOR/-D/-L/-Y | 5O8/-5/-4/-3
+lord	LOR/-D | 5O8/-5
+lords	LOR/-D/-SS | 5O8/-5/-1
+lore	LOR | 5O8
+lores	LOR/-SS | 5O8/-1
+lorn	LOR/-N | 5O8/-6
+lorries	LOR/-Y/-SS | 5O8/-3/-1
+lorry	LOR/-Y | 5O8/-3
+lot	LOT | 5O7
+lots	LOT/-SS | 5O7/-1
+lotteries	LOT/-R/-Y/-SS | 5O7/-8/-3/-1
+lottery	LOT/-R/-Y | 5O7/-8/-3
+lulled	LUL/-D | 5U4/-5
+lulling	LUL/-NG | 5U4/-2
+lull	LUL | 5U4
+lulls	LUL/-SS | 5U4/-1
+lung	LUNG | 5U2
+lungs	LUNG/-SS | 5U2/-1
+oddity	OD/-T | O5/-7
+odd	OD | O5
+oddly	OD/-L/-Y | O5/-4/-3
+odds	OD/-SS | O5/-1
+on	ON | O6
+onsen	ON/-SS/-N | O6/-1/-6
+or	OR | O8
+oral	OR/-L | O8/-4
+orally	OR/-L/-Y | O8/-4/-3
+ordered	OR/-D/-R/-D | O8/-5/-8/-5
+orderings	OR/-D/-R/-NG/-SS | O8/-5/-8/-2/-1
+ordering	OR/-D/-R/-NG | O8/-5/-8/-2
+orderlies	OR/-D/-R/-L/-Y/-SS | O8/-5/-8/-4/-3/-1
+orderly	OR/-D/-R/-L/-Y | O8/-5/-8/-4/-3
+order	OR/-D/-R | O8/-5/-8
+orders	OR/-D/-R/-SS | O8/-5/-8/-1
+ordinal	OR/-D/-N/-L | O8/-5/-6/-4
+ordinate	OR/-D/-N/-T | O8/-5/-6/-7
+ordinates	OR/-D/-N/-T/-SS | O8/-5/-6/-7/-1
+ores	OR/-SS | O8/-1
+ornery	OR/-N/-R/-Y | O8/-6/-8/-3
+otter	OT/-R | O7/-8
+otters	OT/-R/-SS | O7/-8/-1
+padded	PAD/-D | 4A5/-5
+paddies	PAD/-Y/-SS | 4A5/-3/-1
+padding	PAD/-NG | 4A5/-2
+paddled	PAD/-L/-D | 4A5/-4/-5
+paddle	PAD/-L | 4A5/-4
+paddles	PAD/-L/-SS | 4A5/-4/-1
+paddling	PAD/-L/-NG | 4A5/-4/-2
+paddy	PAD/-Y | 4A5/-3
+pad	PAD | 4A5
+padres	PAD/-R/-SS | 4A5/-8/-1
+pads	PAD/-SS | 4A5/-1
+paladin	PAL/-D/-N | 4A4/-5/-6
+paladins	PAL/-D/-N/-SS | 4A4/-5/-6/-1
+palatal	PAL/-T/-L | 4A4/-7/-4
+palatals	PAL/-T/-L/-SS | 4A4/-7/-4/-1
+palate	PAL/-T | 4A4/-7
+palates	PAL/-T/-SS | 4A4/-7/-1
+pallid	PAL/-D | 4A4/-5
+pallidly	PAL/-D/-L/-Y | 4A4/-5/-4/-3
+pallor	PAL/-R | 4A4/-8
+pallors	PAL/-R/-SS | 4A4/-8/-1
+pally	PAL/-Y | 4A4/-3
+pal	PAL | 4A4
+pals	PAL/-SS | 4A4/-1
+pandas	PAN/-D/-SS | 4A6/-5/-1
+pandered	PAN/-D/-R/-D | 4A6/-5/-8/-5
+pandering	PAN/-D/-R/-NG | 4A6/-5/-8/-2
+panders	PAN/-D/-R/-SS | 4A6/-5/-8/-1
+pander	PAN/-D/-R | 4A6/-5/-8
+paneled	PAN/-L/-D | 4A6/-4/-5
+paneling	PAN/-L/-NG | 4A6/-4/-2
+panellings	PAN/-L/-NG/-SS | 4A6/-4/-2/-1
+panel	PAN/-L | 4A6/-4
+panels	PAN/-L/-SS | 4A6/-4/-1
+pang	PANG | 4A2
+pangs	PANG/-SS | 4A2/-1
+panned	PAN/-D | 4A6/-5
+panning	PAN/-NG | 4A6/-2
+pan	PAN | 4A6
+pa	PA | 4A
+pans	PAN/-SS | 4A6/-1
+panted	PAN/-T/-D | 4A6/-7/-5
+panties	PAN/-T/-Y/-SS | 4A6/-7/-3/-1
+pantingly	PAN/-T/-NG/-L/-Y | 4A6/-7/-2/-4/-3
+pantings	PAN/-T/-NG/-SS | 4A6/-7/-2/-1
+panting	PAN/-T/-NG | 4A6/-7/-2
+pant	PAN/-T | 4A6/-7
+pants	PAN/-T/-SS | 4A6/-7/-1
+pantries	PAN/-T/-R/-Y/-SS | 4A6/-7/-8/-3/-1
+pantry	PAN/-T/-R/-Y | 4A6/-7/-8/-3
+panty	PAN/-T/-Y | 4A6/-7/-3
+paradises	PAR/-D/-SS/-SS | 4A8/-5/-1/-1
+paralleled	PAR/-L/-L/-D | 4A8/-4/-4/-5
+parallel	PAR/-L/-L | 4A8/-4/-4
+parallels	PAR/-L/-L/-SS | 4A8/-4/-4/-1
+paralysis	P/RAL/-SS/-SS | 4/1A4/-1/-1
+parasite	PAR/-SS/-T | 4A8/-1/-7
+parasites	PAR/-SS/-T/-SS | 4A8/-1/-7/-1
+pars	PAR/-SS | 4A8/-1
+parasol	PAR/-SS/-L | 4A8/-1/-4
+parasols	PAR/-SS/-L/-SS | 4A8/-1/-4/-1
+parental	P/REN/-T/-L | 4/1E6/-7/-4
+parentis	P/REN/-T/-SS | 4/1E6/-7/-1
+parties	PAR/-T/-Y/-SS | 4A8/-7/-3/-1
+parti	PAR/-T/-Y | 4A8/-7/-3
+parleyed	PAR/-L/-D | 4A8/-4/-5
+parleyed	PAR/-L/-Y/-D | 4A8/-4/-3/-5
+parleying	PAR/-L/-NG | 4A8/-4/-2
+parleying	PAR/-L/-Y/-NG | 4A8/-4/-3/-2
+parley	PAR/-L/-Y | 4A8/-4/-3
+parlous	PAR/-L/-SS | 4A8/-4/-1
+parleys	PAR/-L/-Y/-SS | 4A8/-4/-3/-1
+parlor	PAR/-L/-R | 4A8/-4/-8
+parlors	PAR/-L/-R/-SS | 4A8/-4/-8/-1
+par	PAR | 4A8
+parodied	PAR/-D/-D | 4A8/-5/-5
+parodied	PAR/-D/-Y/-D | 4A8/-5/-3/-5
+parodies	PAR/-D/-Y/-SS | 4A8/-5/-3/-1
+parodist	PAR/-D/-SS/-T | 4A8/-5/-1/-7
+parodists	PAR/-D/-SS/-T/-SS | 4A8/-5/-1/-7/-1
+parodying	PAR/-D/-NG | 4A8/-5/-2
+parodying	PAR/-D/-Y/-NG | 4A8/-5/-3/-2
+parody	PAR/-D/-Y | 4A8/-5/-3
+parral	PAR/-L | 4A8/-4
+parried	PAR/-D | 4A8/-5
+parried	PAR/-Y/-D | 4A8/-3/-5
+parries	PAR/-Y/-SS | 4A8/-3/-1
+parted	PAR/-T/-D | 4A8/-7/-5
+parting	PAR/-T/-NG | 4A8/-7/-2
+part	PAR/-T | 4A8/-7
+parts	PAR/-T/-SS | 4A8/-7/-1
+parrying	PAR/-NG | 4A8/-2
+parrying	PAR/-Y/-NG | 4A8/-3/-2
+parry	PAR/-Y | 4A8/-3
+parsley	PAR/-SS/-L/-Y | 4A8/-1/-4/-3
+partied	PAR/-T/-Y/-D | 4A8/-7/-3/-5
+partings	PAR/-T/-NG/-SS | 4A8/-7/-2/-1
+partly	PAR/-T/-L/-Y | 4A8/-7/-4/-3
+partnered	PAR/-T/-N/-R/-D | 4A8/-7/-6/-8/-5
+partnering	PAR/-T/-N/-R/-NG | 4A8/-7/-6/-8/-2
+partner	PAR/-T/-N/-R | 4A8/-7/-6/-8
+partners	PAR/-T/-N/-R/-SS | 4A8/-7/-6/-8/-1
+partying	PAR/-T/-Y/-NG | 4A8/-7/-3/-2
+patellas	P/TEL/-SS | 4/8E4/-1
+patented	PAT/-N/-T/-D | 4A7/-6/-7/-5
+patenting	PAT/-N/-T/-NG | 4A7/-6/-7/-2
+patently	PAT/-N/-T/-L/-Y | 4A7/-6/-7/-4/-3
+patent	PAT/-N/-T | 4A7/-6/-7
+patents	PAT/-N/-T/-SS | 4A7/-6/-7/-1
+paternal	P/TER/-N/-L | 4/8E8/-6/-4
+paternally	P/TER/-N/-L/-Y | 4/8E8/-6/-4/-3
+paternity	P/TER/-N/-T/-Y | 4/8E8/-6/-7/-3
+patsies	PAT/-SS/-Y/-SS | 4A7/-1/-3/-1
+pats	PAT/-SS | 4A7/-1
+patsy	PAT/-SS/-Y | 4A7/-1/-3
+patted	PAT/-D | 4A7/-5
+pattered	PAT/-R/-D | 4A7/-8/-5
+patterings	PAT/-R/-NG/-SS | 4A7/-8/-2/-1
+pattering	PAT/-R/-NG | 4A7/-8/-2
+patterned	PAT/-R/-N/-D | 4A7/-8/-6/-5
+patterning	PAT/-R/-N/-NG | 4A7/-8/-6/-2
+pattern	PAT/-R/-N | 4A7/-8/-6
+patter	PAT/-R | 4A7/-8
+patterns	PAT/-R/-N/-SS | 4A7/-8/-6/-1
+patters	PAT/-R/-SS | 4A7/-8/-1
+patties	PAT/-Y/-SS | 4A7/-3/-1
+patting	PAT/-NG | 4A7/-2
+patty	PAT/-Y | 4A7/-3
+pat	PAT | 4A7
+pecan	P/KAN | 4/2A6
+pecans	P/KAN/-SS | 4/2A6/-1
+pedaled	PED/-L/-D | 4E5/-4/-5
+pedaling	PED/-L/-NG | 4E5/-4/-2
+pedal	PED/-L | 4E5/-4
+pedals	PED/-L/-SS | 4E5/-4/-1
+pedant	PED/-N/-T | 4E5/-6/-7
+pedants	PED/-N/-T/-SS | 4E5/-6/-7/-1
+pedestalled	PED/-SS/-T/-L/-D | 4E5/-1/-7/-4/-5
+pedestal	PED/-SS/-T/-L | 4E5/-1/-7/-4
+pedestals	PED/-SS/-T/-L/-SS | 4E5/-1/-7/-4/-1
+pedlar	PED/-L/-R | 4E5/-4/-8
+pedlars	PED/-L/-R/-SS | 4E5/-4/-8/-1
+pelting	PEL/-T/-NG | 4E4/-7/-2
+pelt	PEL/-T | 4E4/-7
+pelts	PEL/-T/-SS | 4E4/-7/-1
+pelted	PEL/-T/-D | 4E4/-7/-5
+peltingly	PEL/-T/-NG/-L/-Y | 4E4/-7/-2/-4/-3
+peltry	PEL/-T/-R/-Y | 4E4/-7/-8/-3
+penalties	PEN/-L/-T/-Y/-SS | 4E6/-4/-7/-3/-1
+penalty	PEN/-L/-T/-Y | 4E6/-4/-7/-3
+pendant	PEN/-D/-N/-T | 4E6/-5/-6/-7
+pendants	PEN/-D/-N/-T/-SS | 4E6/-5/-6/-7/-1
+pended	PEN/-D/-D | 4E6/-5/-5
+pending	PEN/-D/-NG | 4E6/-5/-2
+pendular	PEN/-D/-L/-R | 4E6/-5/-4/-8
+pendulous	PEN/-D/-L/-SS | 4E6/-5/-4/-1
+pendulously	PEN/-D/-L/-SS/-L/-Y | 4E6/-5/-4/-1/-4/-3
+pend	PEN/-D | 4E6/-5
+penetrant	PEN/-T/-R/-N/-T | 4E6/-7/-8/-6/-7
+penetrates	PEN/-T/-R/-T/-SS | 4E6/-7/-8/-7/-1
+penetrate	PEN/-T/-R/-T | 4E6/-7/-8/-7
+penitent	PEN/-T/-N/-T | 4E6/-7/-6/-7
+penitently	PEN/-T/-N/-T/-L/-Y | 4E6/-7/-6/-7/-4/-3
+penitents	PEN/-T/-N/-T/-SS | 4E6/-7/-6/-7/-1
+pennant	PEN/-N/-T | 4E6/-6/-7
+pennants	PEN/-N/-T/-SS | 4E6/-6/-7/-1
+pennies	PEN/-Y/-SS | 4E6/-3/-1
+penning	PEN/-NG | 4E6/-2
+pen	PEN | 4E6
+penny	PEN/-Y | 4E6/-3
+pens	PEN/-SS | 4E6/-1
+pentane	PEN/-T/-N | 4E6/-7/-6
+pent	PEN/-T | 4E6/-7
+penury	PEN/-R/-Y | 4E6/-8/-3
+percental	P/R/SEN/-T/-L | 4/1/7E6/-7/-4
+percent	P/R/SEN/-T | 4/1/7E6/-7
+percents	P/R/SEN/-T/-SS | 4/1/7E6/-7/-1
+perennial	P/REN/-L | 4/1E6/-4
+perennially	P/REN/-L/-Y | 4/1E6/-4/-3
+perennials	P/REN/-L/-SS | 4/1E6/-4/-1
+perilling	PER/-L/-NG | 4E8/-4/-2
+peril	PER/-L | 4E8/-4
+perils	PER/-L/-SS | 4E8/-4/-1
+per	PER | 4E8
+peri	PER/-Y | 4E8/-3
+perlite	PER/-L/-T | 4E8/-4/-7
+perpetual	P/R/PET/-L | 4/1/4E7/-4
+perpetually	P/R/PET/-L/-Y | 4/1/4E7/-4/-3
+pertinent	PER/-T/-N/-N/-T | 4E8/-7/-6/-6/-7
+pertinently	PER/-T/-N/-N/-T/-L/-Y | 4E8/-7/-6/-6/-7/-4/-3
+pert	PER/-T | 4E8/-7
+pertly	PER/-T/-L/-Y | 4E8/-7/-4/-3
+petaled	PET/-L/-D | 4E7/-4/-5
+petal	PET/-L | 4E7/-4
+petals	PET/-L/-SS | 4E7/-4/-1
+petard	P/TAR/-D | 4/8A8/-5
+petards	P/TAR/-D/-SS | 4/8A8/-5/-1
+pet	PET | 4E7
+petrel	PET/-R/-L | 4E7/-8/-4
+petrels	PET/-R/-L/-SS | 4E7/-8/-4/-1
+petrous	PET/-R/-SS | 4E7/-8/-1
+pets	PET/-SS | 4E7/-1
+petted	PET/-D | 4E7/-5
+pettily	PET/-L/-Y | 4E7/-4/-3
+petting	PET/-NG | 4E7/-2
+petty	PET/-Y | 4E7/-3
+petulant	PET/-L/-N/-T | 4E7/-4/-6/-7
+petulantly	PET/-L/-N/-T/-L/-Y | 4E7/-4/-6/-7/-4/-3
+pictorial	P/K/TOR/-L | 4/2/8O8/-4
+pictorially	P/K/TOR/-L/-Y | 4/2/8O8/-4/-3
+pictorials	P/K/TOR/-L/-SS | 4/2/8O8/-4/-1
+pipette	P/PET | 4/4E7
+pipettes	P/PET/-SS | 4/4E7/-1
+placental	P/L/SEN/-T/-L | 4/5/7E6/-7/-4
+placentas	P/L/SEN/-T/-SS | 4/5/7E6/-7/-1
+plaid	P/LAD | 4/5A5
+plaids	P/LAD/-SS | 4/5A5/-1
+plant	P/LAN/-T | 4/5A6/-7
+plants	P/LAN/-T/-SS | 4/5A6/-7/-1
+planned	P/LAN/-D | 4/5A6/-5
+planning	P/LAN/-NG | 4/5A6/-2
+plannings	P/LAN/-NG/-SS | 4/5A6/-2/-1
+plan	P/LAN | 4/5A6
+plans	P/LAN/-SS | 4/5A6/-1
+plantain	P/LAN/-T/-N | 4/5A6/-7/-6
+plantains	P/LAN/-T/-N/-SS | 4/5A6/-7/-6/-1
+planted	P/LAN/-T/-D | 4/5A6/-7/-5
+plantings	P/LAN/-T/-NG/-SS | 4/5A6/-7/-2/-1
+planting	P/LAN/-T/-NG | 4/5A6/-7/-2
+plat	P/LAT | 4/5A7
+platies	P/LAT/-Y/-SS | 4/5A7/-3/-1
+platter	P/LAT/-R | 4/5A7/-8
+platters	P/LAT/-R/-SS | 4/5A7/-8/-1
+platy	P/LAT/-Y | 4/5A7/-3
+plenty	P/LEN/-T/-Y | 4/5E6/-7/-3
+plodded	P/LOD/-D | 4/5O5/-5
+ploddingly	P/LOD/-NG/-L/-Y | 4/5O5/-2/-4/-3
+plodding	P/LOD/-NG | 4/5O5/-2
+plods	P/LOD/-SS | 4/5O5/-1
+plod	P/LOD | 4/5O5
+plot	P/LOT | 4/5O7
+plots	P/LOT/-SS | 4/5O7/-1
+plotted	P/LOT/-D | 4/5O7/-5
+plottings	P/LOT/-NG/-SS | 4/5O7/-2/-1
+plotting	P/LOT/-NG | 4/5O7/-2
+plundered	P/LUN/-D/-R/-D | 4/5U6/-5/-8/-5
+plundering	P/LUN/-D/-R/-NG | 4/5U6/-5/-8/-2
+plunderings	P/LUN/-D/-R/-NG/-SS | 4/5U6/-5/-8/-2/-1
+plunder	P/LUN/-D/-R | 4/5U6/-5/-8
+plunders	P/LUN/-D/-R/-SS | 4/5U6/-5/-8/-1
+plurality	P/L/RAL/-T | 4/5/1A4/-7
+pod	POD | 4O5
+pods	POD/-SS | 4O5/-1
+polity	POL/-T/-Y | 4O4/-7/-3
+pollard	POL/-R/-D | 4O4/-8/-5
+pollarded	POL/-R/-D/-D | 4O4/-8/-5/-5
+pollards	POL/-R/-D/-SS | 4O4/-8/-5/-1
+pollen	POL/-N | 4O4/-6
+pollinates	POL/-N/-T/-SS | 4O4/-6/-7/-1
+pollinate	POL/-N/-T | 4O4/-6/-7
+poly	POL/-Y | 4O4/-3
+polys	POL/-SS | 4O4/-1
+polys	POL/-Y/-SS | 4O4/-3/-1
+pondered	PON/-D/-R/-D | 4O6/-5/-8/-5
+ponderingly	PON/-D/-R/-NG/-L/-Y | 4O6/-5/-8/-2/-4/-3
+pondering	PON/-D/-R/-NG | 4O6/-5/-8/-2
+ponders	PON/-D/-R/-SS | 4O6/-5/-8/-1
+ponder	PON/-D/-R | 4O6/-5/-8
+pond	PON/-D | 4O6/-5
+ponds	PON/-D/-SS | 4O6/-5/-1
+ponged	PONG/-D | 4O2/-5
+ponging	PONG/-NG | 4O2/-2
+pong	PONG | 4O2
+pongs	PONG/-SS | 4O2/-1
+pongy	PONG/-Y | 4O2/-3
+pored	POR/-D | 4O8/-5
+pore	POR | 4O8
+pores	POR/-SS | 4O8/-1
+poring	POR/-NG | 4O8/-2
+porn	POR/-N | 4O8/-6
+portal	POR/-T/-L | 4O8/-7/-4
+portals	POR/-T/-L/-SS | 4O8/-7/-4/-1
+ported	POR/-T/-D | 4O8/-7/-5
+pretended	P/R/TEN/-D/-D | 4/1/8E6/-5/-5
+pretending	P/R/TEN/-D/-NG | 4/1/8E6/-5/-2
+pretends	P/R/TEN/-D/-SS | 4/1/8E6/-5/-1
+pretend	P/R/TEN/-D | 4/1/8E6/-5
+portent	POR/-T/-N/-T | 4O8/-7/-6/-7
+portents	POR/-T/-N/-T/-SS | 4O8/-7/-6/-7/-1
+portings	POR/-T/-NG/-SS | 4O8/-7/-2/-1
+porting	POR/-T/-NG | 4O8/-7/-2
+portly	POR/-T/-L/-Y | 4O8/-7/-4/-3
+port	POR/-T | 4O8/-7
+ports	POR/-T/-SS | 4O8/-7/-1
+posterity	P/S/TER/-T/-Y | 4/7/8E8/-7/-3
+pot	POT | 4O7
+pots	POT/-SS | 4O7/-1
+potted	POT/-D | 4O7/-5
+potter	POT/-R | 4O7/-8
+pottered	POT/-R/-D | 4O7/-8/-5
+potteringly	POT/-R/-NG/-L/-Y | 4O7/-8/-2/-4/-3
+pottering	POT/-R/-NG | 4O7/-8/-2
+potters	POT/-R/-SS | 4O7/-8/-1
+potties	POT/-Y/-SS | 4O7/-3/-1
+potting	POT/-NG | 4O7/-2
+potty	POT/-Y | 4O7/-3
+praline	P/RAL/-N | 4/1A4/-6
+pralines	P/RAL/-N/-SS | 4/1A4/-6/-1
+prandial	P/RAN/-D/-L | 4/1A6/-5/-4
+prat	P/RAT | 4/1A7
+prats	P/RAT/-SS | 4/1A7/-1
+prattled	P/RAT/-L/-D | 4/1A7/-4/-5
+prattle	P/RAT/-L | 4/1A7/-4
+prattles	P/RAT/-L/-SS | 4/1A7/-4/-1
+prattlings	P/RAT/-L/-NG/-SS | 4/1A7/-4/-2/-1
+prattling	P/RAT/-L/-NG | 4/1A7/-4/-2
+precentor	P/R/SEN/-T/-R | 4/1/7E6/-7/-8
+precursor	P/R/KUR/-SS/-R | 4/1/2U8/-1/-8
+precursors	P/R/KUR/-SS/-R/-SS | 4/1/2U8/-1/-8/-1
+precursory	P/R/KUR/-SS/-R/-Y | 4/1/2U8/-1/-8/-3
+predator	P/RED/-T/-R | 4/1E5/-7/-8
+predators	P/RED/-T/-R/-SS | 4/1E5/-7/-8/-1
+prelate	P/REL/-T | 4/1E4/-7
+prelates	P/REL/-T/-SS | 4/1E4/-7/-1
+prelude	P/REL/-D | 4/1E4/-5
+preludes	P/REL/-D/-SS | 4/1E4/-5/-1
+preponderant	P/R/PON/-D/-R/-N/-T | 4/1/4O6/-5/-8/-6/-7
+preponderantly	P/R/PON/-D/-R/-N/-T/-L/-Y | 4/1/4O6/-5/-8/-6/-7/-4/-3
+preponderates	P/R/PON/-D/-R/-T/-SS | 4/1/4O6/-5/-8/-7/-1
+preponderate	P/R/PON/-D/-R/-T | 4/1/4O6/-5/-8/-7
+presented	P/R/SEN/-T/-D | 4/1/7E6/-7/-5
+presenting	P/R/SEN/-T/-NG | 4/1/7E6/-7/-2
+pretenses	P/R/TEN/-SS/-SS | 4/1/8E6/-1/-1
+pretentious	P/R/TEN/-T/-SS | 4/1/8E6/-7/-1
+pretentiously	P/R/TEN/-T/-SS/-L/-Y | 4/1/8E6/-7/-1/-4/-3
+preterite	P/RET/-R/-T | 4/1E7/-8/-7
+preterites	P/RET/-R/-T/-SS | 4/1E7/-8/-7/-1
+prettied	P/RET/-D | 4/1E7/-5
+prettied	P/RET/-Y/-D | 4/1E7/-3/-5
+pretties	P/RET/-Y/-SS | 4/1E7/-3/-1
+prettily	P/RET/-L/-Y | 4/1E7/-4/-3
+prettying	P/RET/-NG | 4/1E7/-2
+prettying	P/RET/-Y/-NG | 4/1E7/-3/-2
+pretty	P/RET/-Y | 4/1E7/-3
+prodded	P/ROD/-D | 4/1O5/-5
+proddings	P/ROD/-NG/-SS | 4/1O5/-2/-1
+prodding	P/ROD/-NG | 4/1O5/-2
+prods	P/ROD/-SS | 4/1O5/-1
+prod	P/ROD | 4/1O5
+prolonged	P/R/LONG/-D | 4/1/5O2/-5
+prolonging	P/R/LONG/-NG | 4/1/5O2/-2
+prolongs	P/R/LONG/-SS | 4/1/5O2/-1
+prolong	P/R/LONG | 4/1/5O2
+pronged	P/RONG/-D | 4/1O2/-5
+pronging	P/RONG/-NG | 4/1O2/-2
+prong	P/RONG | 4/1O2
+prongs	P/RONG/-SS | 4/1O2/-1
+propelled	P/R/PEL/-D | 4/1/4E4/-5
+propelling	P/R/PEL/-NG | 4/1/4E4/-2
+propels	P/R/PEL/-SS | 4/1/4E4/-1
+propel	P/R/PEL | 4/1/4E4
+propensities	P/R/PEN/-SS/-T/-Y/-SS | 4/1/4E6/-1/-7/-3/-1
+propensity	P/R/PEN/-SS/-T/-Y | 4/1/4E6/-1/-7/-3
+prosperity	P/R/S/PER/-T | 4/1/7/4E8/-7
+pudding	PUD/-NG | 4U5/-2
+puddings	PUD/-NG/-SS | 4U5/-2/-1
+puddingy	PUD/-NG/-Y | 4U5/-2/-3
+puddled	PUD/-L/-D | 4U5/-4/-5
+puddle	PUD/-L | 4U5/-4
+puddles	PUD/-L/-SS | 4U5/-4/-1
+puddly	PUD/-L/-Y | 4U5/-4/-3
+puddling	PUD/-L/-NG | 4U5/-4/-2
+pudendal	P/DEN/-D/-L | 4/6E6/-5/-4
+pudendous	P/DEN/-D/-SS | 4/6E6/-5/-1
+pud	PUD | 4U5
+puds	PUD/-SS | 4U5/-1
+pulled	PUL/-D | 4U4/-5
+pulley	PUL/-Y | 4U4/-3
+pulls	PUL/-SS | 4U4/-1
+pulleys	PUL/-Y/-SS | 4U4/-3/-1
+pulling	PUL/-NG | 4U4/-2
+pull	PUL | 4U4
+pulsar	PUL/-SS/-R | 4U4/-1/-8
+pulsars	PUL/-SS/-R/-SS | 4U4/-1/-8/-1
+pulsed	PUL/-SS/-D | 4U4/-1/-5
+pulses	PUL/-SS/-SS | 4U4/-1/-1
+pulsing	PUL/-SS/-NG | 4U4/-1/-2
+pundit	PUN/-D/-T | 4U6/-5/-7
+punditry	PUN/-D/-T/-R/-Y | 4U6/-5/-7/-8/-3
+pundits	PUN/-D/-T/-SS | 4U6/-5/-7/-1
+punning	PUN/-NG | 4U6/-2
+pun	PUN | 4U6
+puns	PUN/-SS | 4U6/-1
+punster	PUN/-SS/-T/-R | 4U6/-1/-7/-8
+punsters	PUN/-SS/-T/-R/-SS | 4U6/-1/-7/-8/-1
+punted	PUN/-T/-D | 4U6/-7/-5
+punting	PUN/-T/-NG | 4U6/-7/-2
+punt	PUN/-T | 4U6/-7
+punts	PUN/-T/-SS | 4U6/-7/-1
+purled	PUR/-L/-D | 4U8/-4/-5
+purling	PUR/-L/-NG | 4U8/-4/-2
+purls	PUR/-L/-SS | 4U8/-4/-1
+purl	PUR/-L | 4U8/-4
+purport	P/R/POR/-T | 4/1/4O8/-7
+purported	P/R/POR/-T/-D | 4/1/4O8/-7/-5
+purportedly	P/R/POR/-T/-D/-L/-Y | 4/1/4O8/-7/-5/-4/-3
+purporting	P/R/POR/-T/-NG | 4/1/4O8/-7/-2
+purports	P/R/POR/-T/-SS | 4/1/4O8/-7/-1
+purred	PUR/-D | 4U8/-5
+purringly	PUR/-NG/-L/-Y | 4U8/-2/-4/-3
+purring	PUR/-NG | 4U8/-2
+purr	PUR | 4U8
+purrs	PUR/-SS | 4U8/-1
+pursed	PUR/-SS/-D | 4U8/-1/-5
+purses	PUR/-SS/-SS | 4U8/-1/-1
+pursing	PUR/-SS/-NG | 4U8/-1/-2
+purslane	PUR/-SS/-L/-N | 4U8/-1/-4/-6
+puts	PUT/-SS | 4U7/-1
+putted	PUT/-D | 4U7/-5
+putties	PUT/-Y/-SS | 4U7/-3/-1
+putting	PUT/-NG | 4U7/-2
+putt	PUT | 4U7
+putty	PUT/-Y | 4U7/-3
+rad	RAD | 1A5
+rallied	RAL/-D | 1A4/-5
+rallied	RAL/-Y/-D | 1A4/-3/-5
+rallies	RAL/-Y/-SS | 1A4/-3/-1
+rallyingly	RAL/-NG/-L/-Y | 1A4/-2/-4/-3
+rallyingly	RAL/-Y/-NG/-L/-Y | 1A4/-3/-2/-4/-3
+rallying	RAL/-NG | 1A4/-2
+rallying	RAL/-Y/-NG | 1A4/-3/-2
+rally	RAL/-Y | 1A4/-3
+randily	RAN/-D/-L/-Y | 1A6/-5/-4/-3
+rand	RAN/-D | 1A6/-5
+randy	RAN/-D/-Y | 1A6/-5/-3
+rang	RANG | 1A2
+ranted	RAN/-T/-D | 1A6/-7/-5
+rantingly	RAN/-T/-NG/-L/-Y | 1A6/-7/-2/-4/-3
+rantings	RAN/-T/-NG/-SS | 1A6/-7/-2/-1
+ranting	RAN/-T/-NG | 1A6/-7/-2
+rants	RAN/-T/-SS | 1A6/-7/-1
+rant	RAN/-T | 1A6/-7
+ran	RAN | 1A6
+rascality	R/S/KAL/-T | 1/7/2A4/-7
+ratan	R/TAN | 1/8A6
+rat	RAT | 1A7
+rats	RAT/-SS | 1A7/-1
+rattans	R/TAN/-SS | 1/8A6/-1
+ratted	RAT/-D | 1A7/-5
+ratting	RAT/-NG | 1A7/-2
+rattled	RAT/-L/-D | 1A7/-4/-5
+rattle	RAT/-L | 1A7/-4
+rattles	RAT/-L/-SS | 1A7/-4/-1
+rattling	RAT/-L/-NG | 1A7/-4/-2
+rattly	RAT/-L/-Y | 1A7/-4/-3
+ratty	RAT/-Y | 1A7/-3
+read	RED | 1E5
+readied	RED/-D | 1E5/-5
+readied	RED/-Y/-D | 1E5/-3/-5
+readies	RED/-Y/-SS | 1E5/-3/-1
+redly	RED/-L/-Y | 1E5/-4/-3
+readying	RED/-NG | 1E5/-2
+readying	RED/-Y/-NG | 1E5/-3/-2
+ready	RED/-Y | 1E5/-3
+rebel	R/BEL | 1/3E4
+rebelled	R/BEL/-D | 1/3E4/-5
+rebelling	R/BEL/-NG | 1/3E4/-2
+rebels	R/BEL/-SS | 1/3E4/-1
+rebuts	R/BUT/-SS | 1/3U7/-1
+rebuttal	R/BUT/-L | 1/3U7/-4
+rebuttals	R/BUT/-L/-SS | 1/3U7/-4/-1
+rebutted	R/BUT/-D | 1/3U7/-5
+rebutting	R/BUT/-NG | 1/3U7/-2
+rebut	R/BUT | 1/3U7
+recanted	R/KAN/-T/-D | 1/2A6/-7/-5
+recanting	R/KAN/-T/-NG | 1/2A6/-7/-2
+recants	R/KAN/-T/-SS | 1/2A6/-7/-1
+recant	R/KAN/-T | 1/2A6/-7
+record	R/KOR/-D | 1/2O8/-5
+recorded	R/KOR/-D/-D | 1/2O8/-5/-5
+recording	R/KOR/-D/-NG | 1/2O8/-5/-2
+recordings	R/KOR/-D/-NG/-SS | 1/2O8/-5/-2/-1
+records	R/KOR/-D/-SS | 1/2O8/-5/-1
+rectangular	R/K/TANG/-L/-R | 1/2/8A2/-4/-8
+rectangularly	R/K/TANG/-L/-R/-L/-Y | 1/2/8A2/-4/-8/-4/-3
+recurred	R/KUR/-D | 1/2U8/-5
+recurringly	R/KUR/-NG/-L/-Y | 1/2U8/-2/-4/-3
+recurring	R/KUR/-NG | 1/2U8/-2
+recurs	R/KUR/-SS | 1/2U8/-1
+recur	R/KUR | 1/2U8
+redolent	RED/-L/-N/-T | 1E5/-4/-6/-7
+redolently	RED/-L/-N/-T/-L/-Y | 1E5/-4/-6/-7/-4/-3
+reds	RED/-SS | 1E5/-1
+redundant	R/DUN/-D/-N/-T | 1/6U6/-5/-6/-7
+redundantly	R/DUN/-D/-N/-T/-L/-Y | 1/6U6/-5/-6/-7/-4/-3
+relented	R/LEN/-T/-D | 1/5E6/-7/-5
+relenting	R/LEN/-T/-NG | 1/5E6/-7/-2
+relents	R/LEN/-T/-SS | 1/5E6/-7/-1
+relent	R/LEN/-T | 1/5E6/-7
+rended	REN/-D/-D | 1E6/-5/-5
+rendered	REN/-D/-R/-D | 1E6/-5/-8/-5
+renderings	REN/-D/-R/-NG/-SS | 1E6/-5/-8/-2/-1
+rendering	REN/-D/-R/-NG | 1E6/-5/-8/-2
+renders	REN/-D/-R/-SS | 1E6/-5/-8/-1
+render	REN/-D/-R | 1E6/-5/-8
+rendings	REN/-D/-NG/-SS | 1E6/-5/-2/-1
+rending	REN/-D/-NG | 1E6/-5/-2
+rends	REN/-D/-SS | 1E6/-5/-1
+rend	REN/-D | 1E6/-5
+rent	REN/-T | 1E6/-7
+rental	REN/-T/-L | 1E6/-7/-4
+rentals	REN/-T/-L/-SS | 1E6/-7/-4/-1
+rented	REN/-T/-D | 1E6/-7/-5
+renting	REN/-T/-NG | 1E6/-7/-2
+rents	REN/-T/-SS | 1E6/-7/-1
+repelled	R/PEL/-D | 1/4E4/-5
+repellingly	R/PEL/-NG/-L/-Y | 1/4E4/-2/-4/-3
+repelling	R/PEL/-NG | 1/4E4/-2
+repels	R/PEL/-SS | 1/4E4/-1
+repel	R/PEL | 1/4E4
+repented	R/PEN/-T/-D | 1/4E6/-7/-5
+repentingly	R/PEN/-T/-NG/-L/-Y | 1/4E6/-7/-2/-4/-3
+repenting	R/PEN/-T/-NG | 1/4E6/-7/-2
+repents	R/PEN/-T/-SS | 1/4E6/-7/-1
+repent	R/PEN/-T | 1/4E6/-7
+reportedly	R/POR/-T/-D/-L/-Y | 1/4O8/-7/-5/-4/-3
+reported	R/POR/-T/-D | 1/4O8/-7/-5
+reportingly	R/POR/-T/-NG/-L/-Y | 1/4O8/-7/-2/-4/-3
+reportings	R/POR/-T/-NG/-SS | 1/4O8/-7/-2/-1
+reporting	R/POR/-T/-NG | 1/4O8/-7/-2
+report	R/POR/-T | 1/4O8/-7
+reports	R/POR/-T/-SS | 1/4O8/-7/-1
+repulsed	R/PUL/-SS/-D | 1/4U4/-1/-5
+repulses	R/PUL/-SS/-SS | 1/4U4/-1/-1
+repulsing	R/PUL/-SS/-NG | 1/4U4/-1/-2
+resented	R/SEN/-T/-D | 1/7E6/-7/-5
+resentings	R/SEN/-T/-NG/-SS | 1/7E6/-7/-2/-1
+resenting	R/SEN/-T/-NG | 1/7E6/-7/-2
+resents	R/SEN/-T/-SS | 1/7E6/-7/-1
+resent	R/SEN/-T | 1/7E6/-7
+resorted	R/SOR/-T/-D | 1/7O8/-7/-5
+resorting	R/SOR/-T/-NG | 1/7O8/-7/-2
+resort	R/SOR/-T | 1/7O8/-7
+resorts	R/SOR/-T/-SS | 1/7O8/-7/-1
+resplendent	R/S/P/LEN/-D/-N/-T | 1/7/4/5E6/-5/-6/-7
+resplendently	R/S/P/LEN/-D/-N/-T/-L/-Y | 1/7/4/5E6/-5/-6/-7/-4/-3
+responded	R/S/PON/-D/-D | 1/7/4O6/-5/-5
+responding	R/S/PON/-D/-NG | 1/7/4O6/-5/-2
+responds	R/S/PON/-D/-SS | 1/7/4O6/-5/-1
+respond	R/S/PON/-D | 1/7/4O6/-5
+responses	R/S/PON/-SS/-SS | 1/7/4O6/-1/-1
+restored	R/S/TOR/-D | 1/7/8O8/-5
+restores	R/S/TOR/-SS | 1/7/8O8/-1
+restore	R/S/TOR | 1/7/8O8
+restoring	R/S/TOR/-NG | 1/7/8O8/-2
+resulted	R/SUL/-T/-D | 1/7U4/-7/-5
+resulting	R/SUL/-T/-NG | 1/7U4/-7/-2
+result	R/SUL/-T | 1/7U4/-7
+results	R/SUL/-T/-SS | 1/7U4/-7/-1
+retard	R/TAR/-D | 1/8A8/-5
+retarded	R/TAR/-D/-D | 1/8A8/-5/-5
+retarding	R/TAR/-D/-NG | 1/8A8/-5/-2
+retards	R/TAR/-D/-SS | 1/8A8/-5/-1
+retinal	RET/-N/-L | 1E7/-6/-4
+retinas	RET/-N/-SS | 1E7/-6/-1
+ret	RET | 1E7
+retorted	R/TOR/-T/-D | 1/8O8/-7/-5
+retorting	R/TOR/-T/-NG | 1/8O8/-7/-2
+retort	R/TOR/-T | 1/8O8/-7
+retorts	R/TOR/-T/-SS | 1/8O8/-7/-1
+returned	R/TUR/-N/-D | 1/8U8/-6/-5
+returnings	R/TUR/-N/-NG/-SS | 1/8U8/-6/-2/-1
+returning	R/TUR/-N/-NG | 1/8U8/-6/-2
+return	R/TUR/-N | 1/8U8/-6
+returns	R/TUR/-N/-SS | 1/8U8/-6/-1
+risottos	R/SOT/-SS | 1/7O7/-1
+rodded	ROD/-D | 1O5/-5
+rodding	ROD/-NG | 1O5/-2
+rod	ROD | 1O5
+rods	ROD/-SS | 1O5/-1
+rot	ROT | 1O7
+rots	ROT/-SS | 1O7/-1
+rotted	ROT/-D | 1O7/-5
+rotting	ROT/-NG | 1O7/-2
+rotundas	R/TUN/-D/-SS | 1/8U6/-5/-1
+rotundity	R/TUN/-D/-T | 1/8U6/-5/-7
+rotund	R/TUN/-D | 1/8U6/-5
+rotundly	R/TUN/-D/-L/-Y | 1/8U6/-5/-4/-3
+rudder	RUD/-R | 1U5/-8
+rudders	RUD/-R/-SS | 1U5/-8/-1
+ruddily	RUD/-L/-Y | 1U5/-4/-3
+ruddy	RUD/-Y | 1U5/-3
+rungs	RUNG/-SS | 1U2/-1
+rung	RUNG | 1U2
+runningly	RUN/-NG/-L/-Y | 1U6/-2/-4/-3
+running	RUN/-NG | 1U6/-2
+runny	RUN/-Y | 1U6/-3
+runs	RUN/-SS | 1U6/-1
+runt	RUN/-T | 1U6/-7
+runts	RUN/-T/-SS | 1U6/-7/-1
+runty	RUN/-T/-Y | 1U6/-7/-3
+run	RUN | 1U6
+rut	RUT | 1U7
+ruts	RUT/-SS | 1U7/-1
+rutted	RUT/-D | 1U7/-5
+rutting	RUT/-NG | 1U7/-2
+rutty	RUT/-Y | 1U7/-3
+saddled	SAD/-L/-D | 7A5/-4/-5
+saddle	SAD/-L | 7A5/-4
+saddles	SAD/-L/-SS | 7A5/-4/-1
+saddling	SAD/-L/-NG | 7A5/-4/-2
+sad	SAD | 7A5
+sadly	SAD/-L/-Y | 7A5/-4/-3
+said	SED | 7E5
+salad	SAL/-D | 7A4/-5
+salads	SAL/-D/-SS | 7A4/-5/-1
+salaried	SAL/-R/-D | 7A4/-8/-5
+salaried	SAL/-R/-Y/-D | 7A4/-8/-3/-5
+salaries	SAL/-R/-Y/-SS | 7A4/-8/-3/-1
+salary	SAL/-R/-Y | 7A4/-8/-3
+sallied	SAL/-Y/-D | 7A4/-3/-5
+sallies	SAL/-Y/-SS | 7A4/-3/-1
+sallying	SAL/-NG | 7A4/-2
+sallying	SAL/-Y/-NG | 7A4/-3/-2
+sally	SAL/-Y | 7A4/-3
+salsas	SAL/-SS/-SS | 7A4/-1/-1
+sandalled	SAN/-D/-L/-D | 7A6/-5/-4/-5
+sandal	SAN/-D/-L | 7A6/-5/-4
+sandals	SAN/-D/-L/-SS | 7A6/-5/-4/-1
+sanded	SAN/-D/-D | 7A6/-5/-5
+sanding	SAN/-D/-NG | 7A6/-5/-2
+sand	SAN/-D | 7A6/-5
+sandor	SAN/-D/-R | 7A6/-5/-8
+sands	SAN/-D/-SS | 7A6/-5/-1
+sandy	SAN/-D/-Y | 7A6/-5/-3
+sangster	SANG/-SS/-T/-R | 7A2/-1/-7/-8
+sangsters	SANG/-SS/-T/-R/-SS | 7A2/-1/-7/-8/-1
+sang	SANG | 7A2
+sanity	SAN/-T | 7A6/-7
+san	SAN | 7A6
+santos	SAN/-T/-SS | 7A6/-7/-1
+sarin	SAR/-N | 7A8/-6
+sari	SAR/-Y | 7A8/-3
+saris	SAR/-SS | 7A8/-1
+saris	SAR/-Y/-SS | 7A8/-3/-1
+sarney	SAR/-N/-Y | 7A8/-6/-3
+sarnies	SAR/-N/-Y/-SS | 7A8/-6/-3/-1
+sarong	S/RONG | 7/1O2
+sarongs	S/RONG/-SS | 7/1O2/-1
+sarsnet	SAR/-SS/-N/-T | 7A8/-1/-6/-7
+sartorial	S/R/TOR/-L | 7/1/8O8/-4
+sartorially	S/R/TOR/-L/-Y | 7/1/8O8/-4/-3
+satelite	SAT/-L/-T | 7A7/-4/-7
+satelites	SAT/-L/-T/-SS | 7A7/-4/-7/-1
+satin	SAT/-N | 7A7/-6
+satins	SAT/-N/-SS | 7A7/-6/-1
+satiny	SAT/-N/-Y | 7A7/-6/-3
+satyr	SAT/-R | 7A7/-8
+satyrs	SAT/-R/-SS | 7A7/-8/-1
+saturn	SAT/-R/-N | 7A7/-8/-6
+sat	SAT | 7A7
+scandalled	S/KAN/-D/-L/-D | 7/2A6/-5/-4/-5
+scandal	S/KAN/-D/-L | 7/2A6/-5/-4
+scandals	S/KAN/-D/-L/-SS | 7/2A6/-5/-4/-1
+scanned	S/KAN/-D | 7/2A6/-5
+scanning	S/KAN/-NG | 7/2A6/-2
+scannings	S/KAN/-NG/-SS | 7/2A6/-2/-1
+scan	S/KAN | 7/2A6
+scans	S/KAN/-SS | 7/2A6/-1
+scanties	S/KAN/-T/-Y/-SS | 7/2A6/-7/-3/-1
+scant	S/KAN/-T | 7/2A6/-7
+scantle	S/KAN/-T/-L | 7/2A6/-7/-4
+scantling	S/KAN/-T/-L/-NG | 7/2A6/-7/-4/-2
+scantlings	S/KAN/-T/-L/-NG/-SS | 7/2A6/-7/-4/-2/-1
+scantly	S/KAN/-T/-L/-Y | 7/2A6/-7/-4/-3
+scanty	S/KAN/-T/-Y | 7/2A6/-7/-3
+scar	S/KAR | 7/2A8
+scarred	S/KAR/-D | 7/2A8/-5
+scarring	S/KAR/-NG | 7/2A8/-2
+scars	S/KAR/-SS | 7/2A8/-1
+scat	S/KAT | 7/2A7
+scattered	S/KAT/-R/-D | 7/2A7/-8/-5
+scatteringly	S/KAT/-R/-NG/-L/-Y | 7/2A7/-8/-2/-4/-3
+scattering	S/KAT/-R/-NG | 7/2A7/-8/-2
+scatters	S/KAT/-R/-SS | 7/2A7/-8/-1
+scatter	S/KAT/-R | 7/2A7/-8
+scattily	S/KAT/-L/-Y | 7/2A7/-4/-3
+scatty	S/KAT/-Y | 7/2A7/-3
+scented	SEN/-T/-D | 7E6/-7/-5
+scenting	SEN/-T/-NG | 7E6/-7/-2
+scholarly	S/KOL/-R/-L/-Y | 7/2O4/-8/-4/-3
+scholar	S/KOL/-R | 7/2O4/-8
+scholars	S/KOL/-R/-SS | 7/2O4/-8/-1
+scone	S/KON | 7/2O6
+scones	S/KON/-SS | 7/2O6/-1
+scored	S/KOR/-D | 7/2O8/-5
+score	S/KOR | 7/2O8
+scores	S/KOR/-SS | 7/2O8/-1
+scoring	S/KOR/-NG | 7/2O8/-2
+scorned	S/KOR/-N/-D | 7/2O8/-6/-5
+scorning	S/KOR/-N/-NG | 7/2O8/-6/-2
+scorn	S/KOR/-N | 7/2O8/-6
+scorns	S/KOR/-N/-SS | 7/2O8/-6/-1
+scriptorial	S/K/R/P/TOR/-L | 7/2/1/4/8O8/-4
+scudded	S/KUD/-D | 7/2U5/-5
+scudding	S/KUD/-NG | 7/2U5/-2
+scud	S/KUD | 7/2U5
+scuds	S/KUD/-SS | 7/2U5/-1
+sculled	S/KUL/-D | 7/2U4/-5
+sculleries	S/KUL/-R/-Y/-SS | 7/2U4/-8/-3/-1
+scullery	S/KUL/-R/-Y | 7/2U4/-8/-3
+sculling	S/KUL/-NG | 7/2U4/-2
+skulls	S/KUL/-SS | 7/2U4/-1
+skull	S/KUL | 7/2U4
+scurried	S/KUR/-D | 7/2U8/-5
+scurried	S/KUR/-Y/-D | 7/2U8/-3/-5
+scurries	S/KUR/-Y/-SS | 7/2U8/-3/-1
+scurrilous	S/KUR/-L/-SS | 7/2U8/-4/-1
+scurrilously	S/KUR/-L/-SS/-L/-Y | 7/2U8/-4/-1/-4/-3
+scurrying	S/KUR/-NG | 7/2U8/-2
+scurrying	S/KUR/-Y/-NG | 7/2U8/-3/-2
+scurry	S/KUR/-Y | 7/2U8/-3
+scut	S/KUT | 7/2U7
+scuts	S/KUT/-SS | 7/2U7/-1
+scutters	S/KUT/-R/-SS | 7/2U7/-8/-1
+scutter	S/KUT/-R | 7/2U7/-8
+scuttled	S/KUT/-L/-D | 7/2U7/-4/-5
+scuttles	S/KUT/-L/-SS | 7/2U7/-4/-1
+scuttle	S/KUT/-L | 7/2U7/-4
+scuttling	S/KUT/-L/-NG | 7/2U7/-4/-2
+second	S/KON/-D | 7/2O6/-5
+seconded	S/KON/-D/-D | 7/2O6/-5/-5
+seconding	S/KON/-D/-NG | 7/2O6/-5/-2
+seconds	S/KON/-D/-SS | 7/2O6/-5/-1
+sedan	S/DAN | 7/6A6
+sedans	S/DAN/-SS | 7/6A6/-1
+sedulous	SED/-L/-SS | 7E5/-4/-1
+sedulously	SED/-L/-SS/-L/-Y | 7E5/-4/-1/-4/-3
+selenite	SEL/-N/-T | 7E4/-6/-7
+selling	SEL/-NG | 7E4/-2
+sending	SEN/-D/-NG | 7E6/-5/-2
+sends	SEN/-D/-SS | 7E6/-5/-1
+send	SEN/-D | 7E6/-5
+sensed	SEN/-SS/-D | 7E6/-1/-5
+sensing	SEN/-SS/-NG | 7E6/-1/-2
+sentinel	SEN/-T/-N/-L | 7E6/-7/-6/-4
+sentinels	SEN/-T/-N/-L/-SS | 7E6/-7/-6/-4/-1
+sentries	SEN/-T/-R/-Y/-SS | 7E6/-7/-8/-3/-1
+sentry	SEN/-T/-R/-Y | 7E6/-7/-8/-3
+septennially	S/P/TEN/-L/-Y | 7/4/8E6/-4/-3
+septennial	S/P/TEN/-L | 7/4/8E6/-4
+septet	S/P/TET | 7/4/8E7
+septets	S/P/TET/-SS | 7/4/8E7/-1
+serenity	S/REN/-T | 7/1E6/-7
+serried	SER/-D | 7E8/-5
+sets	SET/-SS | 7E7/-1
+settings	SET/-NG/-SS | 7E7/-2/-1
+setting	SET/-NG | 7E7/-2
+settled	SET/-L/-D | 7E7/-4/-5
+settles	SET/-L/-SS | 7E7/-4/-1
+settle	SET/-L | 7E7/-4
+settling	SET/-L/-NG | 7E7/-4/-2
+sett	SET | 7E7
+skedaddled	S/K/DAD/-L/-D | 7/2/6A5/-4/-5
+skedaddle	S/K/DAD/-L | 7/2/6A5/-4
+skedaddling	S/K/DAD/-L/-NG | 7/2/6A5/-4/-2
+skeletal	S/KEL/-T/-L | 7/2E4/-7/-4
+skeleton	S/KEL/-T/-N | 7/2E4/-7/-6
+skeletons	S/KEL/-T/-N/-SS | 7/2E4/-7/-6/-1
+skelter	S/KEL/-T/-R | 7/2E4/-7/-8
+skerries	S/KER/-Y/-SS | 7/2E8/-3/-1
+slandered	S/LAN/-D/-R/-D | 7/5A6/-5/-8/-5
+slanderingly	S/LAN/-D/-R/-NG/-L/-Y | 7/5A6/-5/-8/-2/-4/-3
+slanderings	S/LAN/-D/-R/-NG/-SS | 7/5A6/-5/-8/-2/-1
+slandering	S/LAN/-D/-R/-NG | 7/5A6/-5/-8/-2
+slander	S/LAN/-D/-R | 7/5A6/-5/-8
+slanders	S/LAN/-D/-R/-SS | 7/5A6/-5/-8/-1
+slangingly	S/LANG/-NG/-L/-Y | 7/5A2/-2/-4/-3
+slanging	S/LANG/-NG | 7/5A2/-2
+slang	S/LANG | 7/5A2
+slangs	S/LANG/-SS | 7/5A2/-1
+slangy	S/LANG/-Y | 7/5A2/-3
+slanted	S/LAN/-T/-D | 7/5A6/-7/-5
+slantingly	S/LAN/-T/-NG/-L/-Y | 7/5A6/-7/-2/-4/-3
+slanting	S/LAN/-T/-NG | 7/5A6/-7/-2
+slant	S/LAN/-T | 7/5A6/-7
+slants	S/LAN/-T/-SS | 7/5A6/-7/-1
+slanty	S/LAN/-T/-Y | 7/5A6/-7/-3
+slat	S/LAT | 7/5A7
+slats	S/LAT/-SS | 7/5A7/-1
+slatted	S/LAT/-D | 7/5A7/-5
+slatternly	S/LAT/-R/-N/-L/-Y | 7/5A7/-8/-6/-4/-3
+slattern	S/LAT/-R/-N | 7/5A7/-8/-6
+slatterns	S/LAT/-R/-N/-SS | 7/5A7/-8/-6/-1
+sledded	S/LED/-D | 7/5E5/-5
+sledding	S/LED/-NG | 7/5E5/-2
+sled	S/LED | 7/5E5
+sleds	S/LED/-SS | 7/5E5/-1
+slendering	S/LEN/-D/-R/-NG | 7/5E6/-5/-8/-2
+slender	S/LEN/-D/-R | 7/5E6/-5/-8
+slenderly	S/LEN/-D/-R/-L/-Y | 7/5E6/-5/-8/-4/-3
+slot	S/LOT | 7/5O7
+slots	S/LOT/-SS | 7/5O7/-1
+slotted	S/LOT/-D | 7/5O7/-5
+slotting	S/LOT/-NG | 7/5O7/-2
+slung	S/LUNG | 7/5U2
+slur	S/LUR | 7/5U8
+slurred	S/LUR/-D | 7/5U8/-5
+slurried	S/LUR/-Y/-D | 7/5U8/-3/-5
+slurries	S/LUR/-Y/-SS | 7/5U8/-3/-1
+slurring	S/LUR/-NG | 7/5U8/-2
+slurry	S/LUR/-Y | 7/5U8/-3
+slurs	S/LUR/-SS | 7/5U8/-1
+slut	S/LUT | 7/5U7
+sluts	S/LUT/-SS | 7/5U7/-1
+slutty	S/LUT/-Y | 7/5U7/-3
+sodden	SOD/-N | 7O5/-6
+soddens	SOD/-N/-SS | 7O5/-6/-1
+sodding	SOD/-NG | 7O5/-2
+sod	SOD | 7O5
+sods	SOD/-SS | 7O5/-1
+solaris	S/LAR/-SS | 7/5A8/-1
+solid	SOL/-D | 7O4/-5
+solidly	SOL/-D/-L/-Y | 7O4/-5/-4/-3
+solids	SOL/-D/-SS | 7O4/-5/-1
+sol	SOL | 7O4
+solute	SOL/-T | 7O4/-7
+song	SONG | 7O2
+songs	SONG/-SS | 7O2/-1
+songster	SONG/-SS/-T/-R | 7O2/-1/-7/-8
+songsters	SONG/-SS/-T/-R/-SS | 7O2/-1/-7/-8/-1
+sonnet	SON/-T | 7O6/-7
+sonnets	SON/-T/-SS | 7O6/-7/-1
+sonnies	SON/-Y/-SS | 7O6/-3/-1
+son	SON | 7O6
+sonny	SON/-Y | 7O6/-3
+sonorant	SON/-R/-N/-T | 7O6/-8/-6/-7
+sons	SON/-SS | 7O6/-1
+sopranos	S/P/RAN/-SS | 7/4/1A6/-1
+sordid	SOR/-D/-D | 7O8/-5/-5
+sordidly	SOR/-D/-D/-L/-Y | 7O8/-5/-5/-4/-3
+sore	SOR | 7O8
+sorely	SOR/-L/-Y | 7O8/-4/-3
+sores	SOR/-SS | 7O8/-1
+sororial	S/ROR/-L | 7/1O8/-4
+sororially	S/ROR/-L/-Y | 7/1O8/-4/-3
+sororities	S/ROR/-T/-Y/-SS | 7/1O8/-7/-3/-1
+sorority	S/ROR/-T/-Y | 7/1O8/-7/-3
+sorrel	SOR/-L | 7O8/-4
+sorries	SOR/-Y/-SS | 7O8/-3/-1
+sorry	SOR/-Y | 7O8/-3
+sorted	SOR/-T/-D | 7O8/-7/-5
+sortied	SOR/-T/-Y/-D | 7O8/-7/-3/-5
+sortieing	SOR/-T/-Y/-NG | 7O8/-7/-3/-2
+sortie	SOR/-T/-Y | 7O8/-7/-3
+sorties	SOR/-T/-Y/-SS | 7O8/-7/-3/-1
+sortings	SOR/-T/-NG/-SS | 7O8/-7/-2/-1
+sorting	SOR/-T/-NG | 7O8/-7/-2
+sort	SOR/-T | 7O8/-7
+sorts	SOR/-T/-SS | 7O8/-7/-1
+sot	SOT | 7O7
+sots	SOT/-SS | 7O7/-1
+spandrel	S/PAN/-D/-R/-L | 7/4A6/-5/-8/-4
+spangled	S/PANG/-L/-D | 7/4A2/-4/-5
+spangle	S/PANG/-L | 7/4A2/-4
+spangles	S/PANG/-L/-SS | 7/4A2/-4/-1
+spangling	S/PANG/-L/-NG | 7/4A2/-4/-2
+spangly	S/PANG/-L/-Y | 7/4A2/-4/-3
+spanned	S/PAN/-D | 7/4A6/-5
+spanner	S/PAN/-R | 7/4A6/-8
+spanners	S/PAN/-R/-SS | 7/4A6/-8/-1
+spanning	S/PAN/-NG | 7/4A6/-2
+span	S/PAN | 7/4A6
+spa	S/PA | 7/4A
+spans	S/PAN/-SS | 7/4A6/-1
+spar	S/PAR | 7/4A8
+sparred	S/PAR/-D | 7/4A8/-5
+sparring	S/PAR/-NG | 7/4A8/-2
+sparsity	S/PAR/-SS/-T | 7/4A8/-1/-7
+spars	S/PAR/-SS | 7/4A8/-1
+spas	S/PASS | 7/4A1
+spats	S/PAT/-SS | 7/4A7/-1
+spatted	S/PAT/-D | 7/4A7/-5
+spattered	S/PAT/-R/-D | 7/4A7/-8/-5
+spattering	S/PAT/-R/-NG | 7/4A7/-8/-2
+spatter	S/PAT/-R | 7/4A7/-8
+spatters	S/PAT/-R/-SS | 7/4A7/-8/-1
+spatting	S/PAT/-NG | 7/4A7/-2
+spatulas	S/PAT/-L/-SS | 7/4A7/-4/-1
+spat	S/PAT | 7/4A7
+sped	S/PED | 7/4E5
+spelled	S/PEL/-D | 7/4E4/-5
+spelling	S/PEL/-NG | 7/4E4/-2
+spellings	S/PEL/-NG/-SS | 7/4E4/-2/-1
+spell	S/PEL | 7/4E4
+spells	S/PEL/-SS | 7/4E4/-1
+spelt	S/PEL/-T | 7/4E4/-7
+spending	S/PEN/-D/-NG | 7/4E6/-5/-2
+spendings	S/PEN/-D/-NG/-SS | 7/4E6/-5/-2/-1
+spends	S/PEN/-D/-SS | 7/4E6/-5/-1
+spend	S/PEN/-D | 7/4E6/-5
+spent	S/PEN/-T | 7/4E6/-7
+splat	S/P/LAT | 7/4/5A7
+splats	S/P/LAT/-SS | 7/4/5A7/-1
+splatted	S/P/LAT/-D | 7/4/5A7/-5
+splattered	S/P/LAT/-R/-D | 7/4/5A7/-8/-5
+splattering	S/P/LAT/-R/-NG | 7/4/5A7/-8/-2
+splatters	S/P/LAT/-R/-SS | 7/4/5A7/-8/-1
+splatter	S/P/LAT/-R | 7/4/5A7/-8
+splatting	S/P/LAT/-NG | 7/4/5A7/-2
+splendid	S/P/LEN/-D/-D | 7/4/5E6/-5/-5
+splendidly	S/P/LEN/-D/-D/-L/-Y | 7/4/5E6/-5/-5/-4/-3
+splendored	S/P/LEN/-D/-R/-D | 7/4/5E6/-5/-8/-5
+splendor	S/P/LEN/-D/-R | 7/4/5E6/-5/-8
+splendors	S/P/LEN/-D/-R/-SS | 7/4/5E6/-5/-8/-1
+spluttered	S/P/LUT/-R/-D | 7/4/5U7/-8/-5
+splutteringly	S/P/LUT/-R/-NG/-L/-Y | 7/4/5U7/-8/-2/-4/-3
+spluttering	S/P/LUT/-R/-NG | 7/4/5U7/-8/-2
+splutter	S/P/LUT/-R | 7/4/5U7/-8
+splutters	S/P/LUT/-R/-SS | 7/4/5U7/-8/-1
+spluttery	S/P/LUT/-R/-Y | 7/4/5U7/-8/-3
+sponsored	S/PON/-SS/-R/-D | 7/4O6/-1/-8/-5
+sponsoring	S/PON/-SS/-R/-NG | 7/4O6/-1/-8/-2
+sponsor	S/PON/-SS/-R | 7/4O6/-1/-8
+sponsors	S/PON/-SS/-R/-SS | 7/4O6/-1/-8/-1
+spore	S/POR | 7/4O8
+spores	S/POR/-SS | 7/4O8/-1
+sporran	S/POR/-N | 7/4O8/-6
+sporrans	S/POR/-N/-SS | 7/4O8/-6/-1
+sported	S/POR/-T/-D | 7/4O8/-7/-5
+sportingly	S/POR/-T/-NG/-L/-Y | 7/4O8/-7/-2/-4/-3
+sporting	S/POR/-T/-NG | 7/4O8/-7/-2
+sport	S/POR/-T | 7/4O8/-7
+sports	S/POR/-T/-SS | 7/4O8/-7/-1
+sporty	S/POR/-T/-Y | 7/4O8/-7/-3
+spot	S/POT | 7/4O7
+spots	S/POT/-SS | 7/4O7/-1
+spotted	S/POT/-D | 7/4O7/-5
+spotting	S/POT/-NG | 7/4O7/-2
+spotty	S/POT/-Y | 7/4O7/-3
+sprang	S/P/RANG | 7/4/1A2
+sprat	S/P/RAT | 7/4/1A7
+sprats	S/P/RAT/-SS | 7/4/1A7/-1
+spreading	S/P/RED/-NG | 7/4/1E5/-2
+spread	S/P/RED | 7/4/1E5
+spreads	S/P/RED/-SS | 7/4/1E5/-1
+sprung	S/P/RUNG | 7/4/1U2
+spud	S/PUD | 7/4U5
+spuds	S/PUD/-SS | 7/4U5/-1
+spun	S/PUN | 7/4U6
+spurned	S/PUR/-N/-D | 7/4U8/-6/-5
+spurning	S/PUR/-N/-NG | 7/4U8/-6/-2
+spur	S/PUR | 7/4U8
+spurns	S/PUR/-N/-SS | 7/4U8/-6/-1
+spurn	S/PUR/-N | 7/4U8/-6
+spurred	S/PUR/-D | 7/4U8/-5
+spurring	S/PUR/-NG | 7/4U8/-2
+spurs	S/PUR/-SS | 7/4U8/-1
+spurted	S/PUR/-T/-D | 7/4U8/-7/-5
+spurting	S/PUR/-T/-NG | 7/4U8/-7/-2
+spurt	S/PUR/-T | 7/4U8/-7
+spurts	S/PUR/-T/-SS | 7/4U8/-7/-1
+sputtered	S/PUT/-R/-D | 7/4U7/-8/-5
+sputteringly	S/PUT/-R/-NG/-L/-Y | 7/4U7/-8/-2/-4/-3
+sputtering	S/PUT/-R/-NG | 7/4U7/-8/-2
+sputters	S/PUT/-R/-SS | 7/4U7/-8/-1
+sputter	S/PUT/-R | 7/4U7/-8
+sputtery	S/PUT/-R/-Y | 7/4U7/-8/-3
+staccatos	S/T/KAT/-SS | 7/8/2A7/-1
+standard	S/TAN/-D/-R/-D | 7/8A6/-5/-8/-5
+standardly	S/TAN/-D/-R/-D/-L/-Y | 7/8A6/-5/-8/-5/-4/-3
+standards	S/TAN/-D/-R/-D/-SS | 7/8A6/-5/-8/-5/-1
+standings	S/TAN/-D/-NG/-SS | 7/8A6/-5/-2/-1
+standing	S/TAN/-D/-NG | 7/8A6/-5/-2
+stands	S/TAN/-D/-SS | 7/8A6/-5/-1
+stand	S/TAN/-D | 7/8A6/-5
+starling	S/TAR/-L/-NG | 7/8A8/-4/-2
+starlings	S/TAR/-L/-NG/-SS | 7/8A8/-4/-2/-1
+star	S/TAR | 7/8A8
+starred	S/TAR/-D | 7/8A8/-5
+starring	S/TAR/-NG | 7/8A8/-2
+starry	S/TAR/-Y | 7/8A8/-3
+stars	S/TAR/-SS | 7/8A8/-1
+started	S/TAR/-T/-D | 7/8A8/-7/-5
+startingly	S/TAR/-T/-NG/-L/-Y | 7/8A8/-7/-2/-4/-3
+starting	S/TAR/-T/-NG | 7/8A8/-7/-2
+startled	S/TAR/-T/-L/-D | 7/8A8/-7/-4/-5
+startles	S/TAR/-T/-L/-SS | 7/8A8/-7/-4/-1
+startle	S/TAR/-T/-L | 7/8A8/-7/-4
+startling	S/TAR/-T/-L/-NG | 7/8A8/-7/-4/-2
+startlingly	S/TAR/-T/-L/-NG/-L/-Y | 7/8A8/-7/-4/-2/-4/-3
+starts	S/TAR/-T/-SS | 7/8A8/-7/-1
+start	S/TAR/-T | 7/8A8/-7
+stats	S/TAT/-SS | 7/8A7/-1
+statued	S/TAT/-D | 7/8A7/-5
+statuses	S/TAT/-SS/-SS | 7/8A7/-1/-1
+statute	S/TAT/-T | 7/8A7/-7
+statutes	S/TAT/-T/-SS | 7/8A7/-7/-1
+steadied	S/TED/-D | 7/8E5/-5
+steadied	S/TED/-Y/-D | 7/8E5/-3/-5
+steadies	S/TED/-Y/-SS | 7/8E5/-3/-1
+steadily	S/TED/-L/-Y | 7/8E5/-4/-3
+steading	S/TED/-NG | 7/8E5/-2
+steadings	S/TED/-NG/-SS | 7/8E5/-2/-1
+stead	S/TED | 7/8E5
+steadying	S/TED/-Y/-NG | 7/8E5/-3/-2
+steady	S/TED/-Y | 7/8E5/-3
+stellar	S/TEL/-R | 7/8E4/-8
+sterile	S/TER/-L | 7/8E8/-4
+sterling	S/TER/-L/-NG | 7/8E8/-4/-2
+stern	S/TER/-N | 7/8E8/-6
+sternly	S/TER/-N/-L/-Y | 7/8E8/-6/-4/-3
+sterns	S/TER/-N/-SS | 7/8E8/-6/-1
+stertorous	S/TER/-T/-R/-SS | 7/8E8/-7/-8/-1
+stertorously	S/TER/-T/-R/-SS/-L/-Y | 7/8E8/-7/-8/-1/-4/-3
+stilettoed	S/T/LET/-D | 7/8/5E7/-5
+stilettoing	S/T/LET/-NG | 7/8/5E7/-2
+stilettos	S/T/LET/-SS | 7/8/5E7/-1
+stolid	S/TOL/-D | 7/8O4/-5
+stolidly	S/TOL/-D/-L/-Y | 7/8O4/-5/-4/-3
+stored	S/TOR/-D | 7/8O8/-5
+store	S/TOR | 7/8O8
+stores	S/TOR/-SS | 7/8O8/-1
+storeyed	S/TOR/-Y/-D | 7/8O8/-3/-5
+storey	S/TOR/-Y | 7/8O8/-3
+storeys	S/TOR/-Y/-SS | 7/8O8/-3/-1
+storing	S/TOR/-NG | 7/8O8/-2
+straddled	S/T/RAD/-L/-D | 7/8/1A5/-4/-5
+straddles	S/T/RAD/-L/-SS | 7/8/1A5/-4/-1
+straddle	S/T/RAD/-L | 7/8/1A5/-4
+straddling	S/T/RAD/-L/-NG | 7/8/1A5/-4/-2
+stranded	S/T/RAN/-D/-D | 7/8/1A6/-5/-5
+stranding	S/T/RAN/-D/-NG | 7/8/1A6/-5/-2
+strand	S/T/RAN/-D | 7/8/1A6/-5
+strands	S/T/RAN/-D/-SS | 7/8/1A6/-5/-1
+strangled	S/T/RANG/-L/-D | 7/8/1A2/-4/-5
+strangles	S/T/RANG/-L/-SS | 7/8/1A2/-4/-1
+strangle	S/T/RANG/-L | 7/8/1A2/-4
+stranglings	S/T/RANG/-L/-NG/-SS | 7/8/1A2/-4/-2/-1
+strangling	S/T/RANG/-L/-NG | 7/8/1A2/-4/-2
+strangulate	S/T/RANG/-L/-T | 7/8/1A2/-4/-7
+stratus	S/T/RAT/-SS | 7/8/1A7/-1
+strong	S/T/RONG | 7/8/1O2
+strongly	S/T/RONG/-L/-Y | 7/8/1O2/-4/-3
+strung	S/T/RUNG | 7/8/1U2
+strut	S/T/RUT | 7/8/1U7
+struts	S/T/RUT/-SS | 7/8/1U7/-1
+strutted	S/T/RUT/-D | 7/8/1U7/-5
+struttingly	S/T/RUT/-NG/-L/-Y | 7/8/1U7/-2/-4/-3
+strutting	S/T/RUT/-NG | 7/8/1U7/-2
+studded	S/TUD/-D | 7/8U5/-5
+studding	S/TUD/-NG | 7/8U5/-2
+studiedly	S/TUD/-D/-L/-Y | 7/8U5/-5/-4/-3
+studied	S/TUD/-Y/-D | 7/8U5/-3/-5
+studies	S/TUD/-Y/-SS | 7/8U5/-3/-1
+stud	S/TUD | 7/8U5
+studs	S/TUD/-SS | 7/8U5/-1
+studying	S/TUD/-Y/-NG | 7/8U5/-3/-2
+study	S/TUD/-Y | 7/8U5/-3
+stung	S/TUNG | 7/8U2
+stunned	S/TUN/-D | 7/8U6/-5
+stunning	S/TUN/-NG | 7/8U6/-2
+stunningly	S/TUN/-NG/-L/-Y | 7/8U6/-2/-4/-3
+stun	S/TUN | 7/8U6
+stuns	S/TUN/-SS | 7/8U6/-1
+stunted	S/TUN/-T/-D | 7/8U6/-7/-5
+stunting	S/TUN/-T/-NG | 7/8U6/-7/-2
+stunt	S/TUN/-T | 7/8U6/-7
+stunts	S/TUN/-T/-SS | 7/8U6/-7/-1
+stupendous	S/T/PEN/-D/-SS | 7/8/4E6/-5/-1
+stupendously	S/T/PEN/-D/-SS/-L/-Y | 7/8/4E6/-5/-1/-4/-3
+sturdily	S/TUR/-D/-L/-Y | 7/8U8/-5/-4/-3
+sturdy	S/TUR/-D/-Y | 7/8U8/-5/-3
+stuttered	S/TUT/-R/-D | 7/8U7/-8/-5
+stutteringly	S/TUT/-R/-NG/-L/-Y | 7/8U7/-8/-2/-4/-3
+stuttering	S/TUT/-R/-NG | 7/8U7/-8/-2
+stutters	S/TUT/-R/-SS | 7/8U7/-8/-1
+stutter	S/TUT/-R | 7/8U7/-8
+subordinate	S/BOR/-D/-N/-T | 7/3O8/-5/-6/-7
+subordinately	S/BOR/-D/-N/-T/-L/-Y | 7/3O8/-5/-6/-7/-4/-3
+subordinates	S/BOR/-D/-N/-T/-SS | 7/3O8/-5/-6/-7/-1
+suborned	S/BOR/-N/-D | 7/3O8/-6/-5
+suborning	S/BOR/-N/-NG | 7/3O8/-6/-2
+suborns	S/BOR/-N/-SS | 7/3O8/-6/-1
+suborn	S/BOR/-N | 7/3O8/-6
+sudden	SUD/-N | 7U5/-6
+suddenly	SUD/-N/-L/-Y | 7U5/-6/-4/-3
+sudd	SUD | 7U5
+suds	SUD/-SS | 7U5/-1
+sudsy	SUD/-SS/-Y | 7U5/-1/-3
+sullen	SUL/-N | 7U4/-6
+sullenly	SUL/-N/-L/-Y | 7U4/-6/-4/-3
+sullied	SUL/-D | 7U4/-5
+sullied	SUL/-Y/-D | 7U4/-3/-5
+sullies	SUL/-Y/-SS | 7U4/-3/-1
+sullying	SUL/-NG | 7U4/-2
+sullying	SUL/-Y/-NG | 7U4/-3/-2
+sully	SUL/-Y | 7U4/-3
+sultanas	S/L/TAN/-SS | 7/5/8A6/-1
+sultan	SUL/-T/-N | 7U4/-7/-6
+sultans	SUL/-T/-N/-SS | 7U4/-7/-6/-1
+sultrily	SUL/-T/-R/-L/-Y | 7U4/-7/-8/-4/-3
+sultry	SUL/-T/-R/-Y | 7U4/-7/-8/-3
+sundered	SUN/-D/-R/-D | 7U6/-5/-8/-5
+sundering	SUN/-D/-R/-NG | 7U6/-5/-8/-2
+sunders	SUN/-D/-R/-SS | 7U6/-5/-8/-1
+sunder	SUN/-D/-R | 7U6/-5/-8
+sundries	SUN/-D/-R/-Y/-SS | 7U6/-5/-8/-3/-1
+sundry	SUN/-D/-R/-Y | 7U6/-5/-8/-3
+sung	SUNG | 7U2
+sunned	SUN/-D | 7U6/-5
+sunning	SUN/-NG | 7U6/-2
+sun	SUN | 7U6
+sunny	SUN/-Y | 7U6/-3
+suns	SUN/-SS | 7U6/-1
+supplanted	S/P/LAN/-T/-D | 7/4/5A6/-7/-5
+supplanting	S/P/LAN/-T/-NG | 7/4/5A6/-7/-2
+supplants	S/P/LAN/-T/-SS | 7/4/5A6/-7/-1
+supplant	S/P/LAN/-T | 7/4/5A6/-7
+surd	SUR/-D | 7U8/-5
+surlily	SUR/-L/-L/-Y | 7U8/-4/-4/-3
+surly	SUR/-L/-Y | 7U8/-4/-3
+surrendered	S/REN/-D/-R/-D | 7/1E6/-5/-8/-5
+surrendering	S/REN/-D/-R/-NG | 7/1E6/-5/-8/-2
+surrenders	S/REN/-D/-R/-SS | 7/1E6/-5/-8/-1
+surrender	S/REN/-D/-R | 7/1E6/-5/-8
+suspended	S/S/PEN/-D/-D | 7/7/4E6/-5/-5
+suspending	S/S/PEN/-D/-NG | 7/7/4E6/-5/-2
+suspends	S/S/PEN/-D/-SS | 7/7/4E6/-5/-1
+suspend	S/S/PEN/-D | 7/7/4E6/-5
+sword	SOR/-D | 7O8/-5
+swords	SOR/-D/-SS | 7O8/-5/-1
+tad	TAD | 8A5
+talented	TAL/-N/-T/-D | 8A4/-6/-7/-5
+talent	TAL/-N/-T | 8A4/-6/-7
+talents	TAL/-N/-T/-SS | 8A4/-6/-7/-1
+tallied	TAL/-D | 8A4/-5
+tallied	TAL/-Y/-D | 8A4/-3/-5
+tallies	TAL/-Y/-SS | 8A4/-3/-1
+tallyings	TAL/-NG/-SS | 8A4/-2/-1
+tallyings	TAL/-Y/-NG/-SS | 8A4/-3/-2/-1
+tallying	TAL/-NG | 8A4/-2
+tallying	TAL/-Y/-NG | 8A4/-3/-2
+tally	TAL/-Y | 8A4/-3
+talon	TAL/-N | 8A4/-6
+talons	TAL/-N/-SS | 8A4/-6/-1
+tangled	TANG/-L/-D | 8A2/-4/-5
+tangle	TANG/-L | 8A2/-4
+tangles	TANG/-L/-SS | 8A2/-4/-1
+tanglingly	TANG/-L/-NG/-L/-Y | 8A2/-4/-2/-4/-3
+tangling	TANG/-L/-NG | 8A2/-4/-2
+tangly	TANG/-L/-Y | 8A2/-4/-3
+tang	TANG | 8A2
+tangoed	TANG/-D | 8A2/-5
+tangoing	TANG/-NG | 8A2/-2
+tangos	TANG/-SS | 8A2/-1
+tangy	TANG/-Y | 8A2/-3
+tan	TAN | 8A6
+tanned	TAN/-D | 8A6/-5
+tanning	TAN/-NG | 8A6/-2
+tannin	TAN/-N | 8A6/-6
+tannins	TAN/-N/-SS | 8A6/-6/-1
+ta	TA | 8A
+tans	TAN/-SS | 8A6/-1
+tarantulas	T/RAN/-T/-L/-SS | 8/1A6/-7/-4/-1
+tardily	TAR/-D/-L/-Y | 8A8/-5/-4/-3
+tardy	TAR/-D/-Y | 8A8/-5/-3
+tar	TAR | 8A8
+tarred	TAR/-D | 8A8/-5
+tarried	TAR/-Y/-D | 8A8/-3/-5
+tarries	TAR/-Y/-SS | 8A8/-3/-1
+tarring	TAR/-NG | 8A8/-2
+tarry	TAR/-Y | 8A8/-3
+tarryings	TAR/-NG/-SS | 8A8/-2/-1
+tarryings	TAR/-Y/-NG/-SS | 8A8/-3/-2/-1
+tarrying	TAR/-Y/-NG | 8A8/-3/-2
+tars	TAR/-SS | 8A8/-1
+tartaned	TAR/-T/-N/-D | 8A8/-7/-6/-5
+tartan	TAR/-T/-N | 8A8/-7/-6
+tartans	TAR/-T/-N/-SS | 8A8/-7/-6/-1
+tartar	TAR/-T/-R | 8A8/-7/-8
+tartars	TAR/-T/-R/-SS | 8A8/-7/-8/-1
+tarted	TAR/-T/-D | 8A8/-7/-5
+tarting	TAR/-T/-NG | 8A8/-7/-2
+tart	TAR/-T | 8A8/-7
+tartly	TAR/-T/-L/-Y | 8A8/-7/-4/-3
+tarts	TAR/-T/-SS | 8A8/-7/-1
+tarty	TAR/-T/-Y | 8A8/-7/-3
+tat	TAT | 8A7
+tats	TAT/-SS | 8A7/-1
+tatted	TAT/-D | 8A7/-5
+tattered	TAT/-R/-D | 8A7/-8/-5
+tatter	TAT/-R | 8A7/-8
+tatters	TAT/-R/-SS | 8A7/-8/-1
+tatting	TAT/-NG | 8A7/-2
+tattled	TAT/-L/-D | 8A7/-4/-5
+tattle	TAT/-L | 8A7/-4
+tattles	TAT/-L/-SS | 8A7/-4/-1
+tattlingly	TAT/-L/-NG/-L/-Y | 8A7/-4/-2/-4/-3
+tattlings	TAT/-L/-NG/-SS | 8A7/-4/-2/-1
+tattling	TAT/-L/-NG | 8A7/-4/-2
+tatty	TAT/-Y | 8A7/-3
+teddies	TED/-Y/-SS | 8E5/-3/-1
+teddy	TED/-Y | 8E5/-3
+ted	TED | 8E5
+tellies	TEL/-Y/-SS | 8E4/-3/-1
+tellingly	TEL/-NG/-L/-Y | 8E4/-2/-4/-3
+tellings	TEL/-NG/-SS | 8E4/-2/-1
+telling	TEL/-NG | 8E4/-2
+tells	TEL/-SS | 8E4/-1
+tell	TEL | 8E4
+telly	TEL/-Y | 8E4/-3
+telnet	TEL/-N/-T | 8E4/-6/-7
+telnets	TEL/-N/-T/-SS | 8E4/-6/-7/-1
+tenanted	TEN/-N/-T/-D | 8E6/-6/-7/-5
+tenant	TEN/-N/-T | 8E6/-6/-7
+tenants	TEN/-N/-T/-SS | 8E6/-6/-7/-1
+ten	TEN | 8E6
+tended	TEN/-D/-D | 8E6/-5/-5
+tendered	TEN/-D/-R/-D | 8E6/-5/-8/-5
+tendering	TEN/-D/-R/-NG | 8E6/-5/-8/-2
+tenderly	TEN/-D/-R/-L/-Y | 8E6/-5/-8/-4/-3
+tender	TEN/-D/-R | 8E6/-5/-8
+tenders	TEN/-D/-R/-SS | 8E6/-5/-8/-1
+tending	TEN/-D/-NG | 8E6/-5/-2
+tendon	TEN/-D/-N | 8E6/-5/-6
+tendons	TEN/-D/-N/-SS | 8E6/-5/-6/-1
+tendrilled	TEN/-D/-R/-L/-D | 8E6/-5/-8/-4/-5
+tendril	TEN/-D/-R/-L | 8E6/-5/-8/-4
+tendrils	TEN/-D/-R/-L/-SS | 8E6/-5/-8/-4/-1
+tends	TEN/-D/-SS | 8E6/-5/-1
+tend	TEN/-D | 8E6/-5
+tent	TEN/-T | 8E6/-7
+tents	TEN/-T/-SS | 8E6/-7/-1
+tens	TEN/-SS | 8E6/-1
+tenon	TEN/-N | 8E6/-6
+tenons	TEN/-N/-SS | 8E6/-6/-1
+tenor	TEN/-R | 8E6/-8
+tenors	TEN/-R/-SS | 8E6/-8/-1
+tensed	TEN/-SS/-D | 8E6/-1/-5
+tenses	TEN/-SS/-SS | 8E6/-1/-1
+tensile	TEN/-SS/-L | 8E6/-1/-4
+tensing	TEN/-SS/-NG | 8E6/-1/-2
+tented	TEN/-T/-D | 8E6/-7/-5
+ternal	TER/-N/-L | 8E8/-6/-4
+ternary	TER/-N/-R/-Y | 8E8/-6/-8/-3
+tern	TER/-N | 8E8/-6
+terns	TER/-N/-SS | 8E8/-6/-1
+terries	TER/-Y/-SS | 8E8/-3/-1
+terror	TER/-R | 8E8/-8
+terrors	TER/-R/-SS | 8E8/-8/-1
+terry	TER/-Y | 8E8/-3
+terylene	TER/-L/-N | 8E8/-4/-6
+tetanus	TET/-N/-SS | 8E7/-6/-1
+tete	TET | 8E7
+tetrad	TET/-R/-D | 8E7/-8/-5
+to	TO | 8O
+toddies	TOD/-Y/-SS | 8O5/-3/-1
+toddled	TOD/-L/-D | 8O5/-4/-5
+toddles	TOD/-L/-SS | 8O5/-4/-1
+toddle	TOD/-L | 8O5/-4
+toddling	TOD/-L/-NG | 8O5/-4/-2
+toddy	TOD/-Y | 8O5/-3
+tod	TOD | 8O5
+tolerant	TOL/-R/-N/-T | 8O4/-8/-6/-7
+tolerantly	TOL/-R/-N/-T/-L/-Y | 8O4/-8/-6/-7/-4/-3
+tolerates	TOL/-R/-T/-SS | 8O4/-8/-7/-1
+tolerate	TOL/-R/-T | 8O4/-8/-7
+tongs	TONG/-SS | 8O2/-1
+tongued	TONG/-D | 8O2/-5
+tongue	TONG | 8O2
+tonguey	TONG/-Y | 8O2/-3
+tonne	TON | 8O6
+tonnes	TON/-SS | 8O6/-1
+tonsil	TON/-SS/-L | 8O6/-1/-4
+tonsils	TON/-SS/-L/-SS | 8O6/-1/-4/-1
+tonsor	TON/-SS/-R | 8O6/-1/-8
+tore	TOR | 8O8
+torrent	TOR/-N/-T | 8O8/-6/-7
+torrents	TOR/-N/-T/-SS | 8O8/-6/-7/-1
+torrid	TOR/-D | 8O8/-5
+torridly	TOR/-D/-L/-Y | 8O8/-5/-4/-3
+tors	TOR/-SS | 8O8/-1
+torsos	TOR/-SS/-SS | 8O8/-1/-1
+tort	TOR/-T | 8O8/-7
+tortoises	TOR/-T/-SS/-SS | 8O8/-7/-1/-1
+torts	TOR/-T/-SS | 8O8/-7/-1
+totality	T/TAL/-T | 8/8A4/-7
+tot	TOT | 8O7
+tots	TOT/-SS | 8O7/-1
+totted	TOT/-D | 8O7/-5
+tottered	TOT/-R/-D | 8O7/-8/-5
+tottering	TOT/-R/-NG | 8O7/-8/-2
+totteringly	TOT/-R/-NG/-L/-Y | 8O7/-8/-2/-4/-3
+totters	TOT/-R/-SS | 8O7/-8/-1
+totter	TOT/-R | 8O7/-8
+totting	TOT/-NG | 8O7/-2
+trad	T/RAD | 8/1A5
+treading	T/RED/-NG | 8/1E5/-2
+treadle	T/RED/-L | 8/1E5/-4
+treadles	T/RED/-L/-SS | 8/1E5/-4/-1
+tread	T/RED | 8/1E5
+treads	T/RED/-SS | 8/1E5/-1
+trellised	T/REL/-SS/-D | 8/1E4/-1/-5
+trellises	T/REL/-SS/-SS | 8/1E4/-1/-1
+trellising	T/REL/-SS/-NG | 8/1E4/-1/-2
+trellis	T/REL/-SS | 8/1E4/-1
+trendies	T/REN/-D/-Y/-SS | 8/1E6/-5/-3/-1
+trending	T/REN/-D/-NG | 8/1E6/-5/-2
+trend	T/REN/-D | 8/1E6/-5
+trends	T/REN/-D/-SS | 8/1E6/-5/-1
+trendy	T/REN/-D/-Y | 8/1E6/-5/-3
+trepanned	T/R/PAN/-D | 8/1/4A6/-5
+trepanning	T/R/PAN/-NG | 8/1/4A6/-2
+trepannings	T/R/PAN/-NG/-SS | 8/1/4A6/-2/-1
+trepan	T/R/PAN | 8/1/4A6
+tripartite	T/R/PAR/-T/-T | 8/1/4A8/-7/-7
+tripartitely	T/R/PAR/-T/-T/-L/-Y | 8/1/4A8/-7/-7/-4/-3
+trod	T/ROD | 8/1O5
+trolley	T/ROL/-Y | 8/1O4/-3
+trolleys	T/ROL/-SS | 8/1O4/-1
+trolleys	T/ROL/-Y/-SS | 8/1O4/-3/-1
+tron	T/RON | 8/1O6
+trot	T/ROT | 8/1O7
+trots	T/ROT/-SS | 8/1O7/-1
+trotted	T/ROT/-D | 8/1O7/-5
+trotting	T/ROT/-NG | 8/1O7/-2
+trotty	T/ROT/-Y | 8/1O7/-3
+trundled	T/RUN/-D/-L/-D | 8/1U6/-5/-4/-5
+trundle	T/RUN/-D/-L | 8/1U6/-5/-4
+trundles	T/RUN/-D/-L/-SS | 8/1U6/-5/-4/-1
+trundling	T/RUN/-D/-L/-NG | 8/1U6/-5/-4/-2
+tundras	TUN/-D/-R/-SS | 8U6/-5/-8/-1
+tungsten	TUNG/-SS/-T/-N | 8U2/-1/-7/-6
+tunneled	TUN/-L/-D | 8U6/-4/-5
+tunnelings	TUN/-L/-NG/-SS | 8U6/-4/-2/-1
+tunneling	TUN/-L/-NG | 8U6/-4/-2
+tunnel	TUN/-L | 8U6/-4
+tunnels	TUN/-L/-SS | 8U6/-4/-1
+tunnies	TUN/-Y/-SS | 8U6/-3/-1
+tun	TUN | 8U6
+tunny	TUN/-Y | 8U6/-3
+tuns	TUN/-SS | 8U6/-1
+turd	TUR/-D | 8U8/-5
+turds	TUR/-D/-SS | 8U8/-5/-1
+turned	TUR/-N/-D | 8U8/-6/-5
+turnings	TUR/-N/-NG/-SS | 8U8/-6/-2/-1
+turning	TUR/-N/-NG | 8U8/-6/-2
+turns	TUR/-N/-SS | 8U8/-6/-1
+turn	TUR/-N | 8U8/-6
+turreted	TUR/-T/-D | 8U8/-7/-5
+turret	TUR/-T | 8U8/-7
+turrets	TUR/-T/-SS | 8U8/-7/-1
+turtle	TUR/-T/-L | 8U8/-7/-4
+turtles	TUR/-T/-L/-SS | 8U8/-7/-4/-1
+turtling	TUR/-T/-L/-NG | 8U8/-7/-4/-2
+tut	TUT | 8U7
+tutsi	TUT/-SS/-Y | 8U7/-1/-3
+tuts	TUT/-SS | 8U7/-1
+tutted	TUT/-D | 8U7/-5
+tutting	TUT/-NG | 8U7/-2
+udder	UD/-R | U5/-8
+udders	UD/-R/-SS | U5/-8/-1
+ulnas	UL/-N/-SS | U4/-6/-1
+ultras	UL/-T/-R/-SS | U4/-7/-8/-1
+ululate	UL/-L/-T | U4/-4/-7
+under	UN/-D/-R | U6/-5/-8
+underling	UN/-D/-R/-L/-NG | U6/-5/-8/-4/-2
+underlings	UN/-D/-R/-L/-NG/-SS | U6/-5/-8/-4/-2/-1
+undulant	UN/-D/-L/-N/-T | U6/-5/-4/-6/-7
+undulates	UN/-D/-L/-T/-SS | U6/-5/-4/-7/-1
+undulate	UN/-D/-L/-T | U6/-5/-4/-7
+urn	UR/-N | U8/-6
+urns	UR/-N/-SS | U8/-6/-1
+ut	UT | U7
+uttered	UT/-R/-D | U7/-8/-5
+uttering	UT/-R/-NG | U7/-8/-2
+utter	UT/-R | U7/-8
+utterly	UT/-R/-L/-Y | U7/-8/-4/-3
+utters	UT/-R/-SS | U7/-8/-1
