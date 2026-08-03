@@ -10,19 +10,19 @@ This is done with Plover
 [Download Plover](https://github.com/opensteno/plover/releases/)
 
 
-![Download Plover](img/install_from_git_repo.png)
+![Download Plover](img/install_plover.png)
 
 
 ## 2) Navigate to the Plug-in manager
 If the window is small, you may have to click the hard-to-find >>
 ![plugins manager](img/plugins_manager.png)
 
-## 3) Install from Git
+## 3) Bring up the "install from git" prompt
 
 ![install from git](img/install_from_git_repo.png)
 
 
-## 4) Install plover-controller for Mussel Power
+## 4) Paste in plover-controller for Mussel Power
 https://github.com/RAOEUS/plover_controller.git@mussel-power-system
 Needed to intercept game controllers
 
@@ -30,7 +30,7 @@ Needed to intercept game controllers
 
 If you are instead using a trackpad, use plover_touchpad https://codeberg.org/vaagai/plover_touchpad
 
-## 5) Install plover-mussel-power
+## 5) Paste in plover-mussel-power
 https://github.com/StenoHarri/plover_mussel_power.git
 
 ![plover mussel power](img/install_plover_mussel_power.png)
