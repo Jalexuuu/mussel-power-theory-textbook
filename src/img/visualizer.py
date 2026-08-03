@@ -98,7 +98,7 @@ for bank, bank_masks in layout.items():
                     label,
                     ha="center",
                     va="center",
-                    fontsize=12,
+                    fontsize=24,
                     fontweight="bold",
                 )
 
