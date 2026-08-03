@@ -26,3 +26,9 @@ However, seeing the hints should help with where the vowel goes in these words. 
 ![Typey Type lesson config](img/typey_type_lesson_config.png)
 
 
+Here's a demo of what stenoing looks like
+
+Please bare in mind this is also my first lesson 😅
+<video controls>
+  <source src="/img/chapter_03_lesson_demo.mp4" type="video/mp4" />
+</video>
