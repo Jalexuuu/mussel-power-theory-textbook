@@ -5,4 +5,5 @@
 -[Chapter 3: Inner ring, simple vowels](Chapter-03.md)
 -[Full Layout](Full_Layout.md)
 -[Conflict Resolution](Conflict-Resolution.md)
+-[Briefing techniques](Briefing-Techniques.md)
 -[Glossary](Glossary.md)
