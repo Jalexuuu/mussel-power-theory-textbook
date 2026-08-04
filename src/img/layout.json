@@ -1,14 +1,14 @@
 {
   "left": {
     "1": "R",
-    "1l": "W",
+    "1l": "W\nO",
     "1r": "V",
     "1L": "RY",
     "1R": "KM",
 
     "2": "K",
     "2l": "KR",
-    "2r": "KN",
+    "2r": "KN\nIM",
     "2L": "KW",
     "2R": "KL",
 
@@ -22,57 +22,57 @@
     "4l": "Y",
     "4r": "PL",
     "4L": "PR",
-    "4R": "Z",
+    "4R": "Z\nEX",
 
     "5": "L",
     "5l": "G",
     "5r": "J",
-    "5L": "GR",
-    "5R": "SH",
+    "5L": "GR\nIN",
+    "5R": "SH\nEM",
 
     "6": "D",
-    "6l": "F",
-    "6r": "DS",
+    "6l": "F\nAEU",
+    "6r": "DS\nTH",
     "6L": "FL",
     "6R": "FR",
 
     "7": "S",
-    "7l": "N",
+    "7l": "N\nI",
     "7r": "ST",
     "7L": "SP",
     "7R": "STR",
 
     "8": "T",
-    "8l": "AH",
+    "8l": "A",
     "8r": "TR",
     "8L": "AN",
-    "8R": "CH"
+    "8R": "CH\nSHR"
   },
 
   "right": {
-    "1": "$^{\\mathrm{plural}}$",
-    "1l": "Z",
-    "1r": "S",
-    "1L": "RY",
-    "1R": "ST",
+    "1": "S",
+    "1l": "ZE\nZZ",
+    "1r": "SE\nCE",
+    "1L": "ST",
+    "1R": "RSE\nRCE",
 
     "2": "NG",
     "2l": "SH",
-    "2r": "NK",
+    "2r": "NK\nA",
     "2L": "CH",
-    "2R": "B",
+    "2R": "B\nO",
 
     "3": "Y",
-    "3l": "V",
+    "3l": "G\nIES",
     "3r": "K",
     "3L": "J",
-    "3R": "BL",
+    "3R": "BL\nKSHN",
 
     "4": "L",
     "4l": "LY",
-    "4r": "LD",
-    "4L": "L$_{\\mathrm{plural}}$",
-    "4R": "LT",
+    "4r": "LD\nAS",
+    "4L": "LS\nRCH",
+    "4R": "LT\nMNT",
 
     "5": "D",
     "5l": "P",
@@ -83,19 +83,19 @@
     "6": "N",
     "6l": "ND",
     "6r": "NT",
-    "6L": "NS",
-    "6R": "N$_{\\mathrm{plural}}$",
+    "6L": "NSE\nNCE",
+    "6R": "NS\nMB",
 
     "7": "T",
     "7l": "F",
-    "7r": "G",
+    "7r": "V",
     "7L": "TH",
     "7R": "RK",
 
     "8": "R",
     "8l": "RT",
-    "8r": "R$_{\\mathrm{plural}}$",
+    "8r": "RS\nKT",
     "8L": "RD",
-    "8R": "RS"
+    "8R": "RY"
   }
 }
